@@ -6019,7 +6019,7 @@ PHYS2C	NUR4B	ANTH1A	HIST1D	CIS3C
 
 
 
-Course: PSYC1B, Description: Innovative solution-oriented portal, minimum students: 6, maximum students: 9
+Course: PSYC1B, Description: Fully-configurable encompassing hierarchy, minimum students: 7, maximum students: 11
 SESSION | Professor: 1001010, Session id: 1000000, Students: 
 
 
@@ -6027,1125 +6027,1085 @@ Course: PSYC1C, Description: Vision-oriented coherent solution, minimum students
 SESSION | Professor: 1001140, Session id: 1000001, Students: 
 
 
-Course: ANTH1D, Description: Quality-focused leading edge matrices, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001009, Session id: 1000002, Students: 
-
-
-Course: ENV3A, Description: Re-contextualized analyzing alliance, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001113, Session id: 1000004, Students: 
+Course: ENV3A, Description: Grass-roots holistic utilisation, minimum students: 5, maximum students: 11
+SESSION | Professor: 1001113, Session id: 1000003, Students: 
 
 
 Course: EECS4D, Description: Vision-oriented 24 hour throughput, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001208, Session id: 1000003, Students: 
+SESSION | Professor: 1001208, Session id: 1000002, Students: 
 
 
-Course: ENV3C, Description: Total transitional neural-net, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001049, Session id: 1000006, Students: 
+Course: ENV3C, Description: Networked full-range budgetary management, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001049, Session id: 1000005, Students: 
 
 
-Course: ANTH1A, Description: Switchable bottom-line architecture, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001057, Session id: 1000007, Students: 
+Course: ANTH1A, Description: Persistent static Graphical User Interface, minimum students: 5, maximum students: 20
+SESSION | Professor: 1001057, Session id: 1000006, Students: 
 
 
 Course: CIS3D, Description: Team-oriented next generation migration, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001148, Session id: 1000005, Students: 
+SESSION | Professor: 1001148, Session id: 1000004, Students: 
 
 
 Course: ART1D, Description: De-engineered responsive approach, minimum students: 7, maximum students: 9
 NO SESSIONS SCHEDULED
 
-Course: ENV3B, Description: Optimized contextually-based solution, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001008, Session id: 1000008, Students: 
+Course: ENV3B, Description: Polarised leading edge ability, minimum students: 6, maximum students: 15
+SESSION | Professor: 1001008, Session id: 1000007, Students: 
 
 
-Course: CIS3B, Description: Compatible coherent attitude, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001025, Session id: 1000010, Students: 
+Course: CIS3B, Description: Secured full-range workforce, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001025, Session id: 1000009, Students: 
 
 
 Course: ANTH1C, Description: Profound motivating Graphical User Interface, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001233, Session id: 1000009, Students: 
+SESSION | Professor: 1001233, Session id: 1000008, Students: 
 
 
-Course: ANTH1B, Description: Devolved system-worthy superstructure, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001069, Session id: 1000011, Students: 
+Course: ANTH1B, Description: Centralized radical initiative, minimum students: 5, maximum students: 8
+SESSION | Professor: 1001069, Session id: 1000010, Students: 
 
 
-Course: ENV3D, Description: Pre-emptive reciprocal knowledge base, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001166, Session id: 1000013, Students: 
+Course: ENV3D, Description: Open-architected needs-based implementation, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001166, Session id: 1000012, Students: 
 
 
 Course: ART1C, Description: Multi-tiered incremental success, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001031, Session id: 1000012, Students: 
-
-
-Course: HIST3A, Description: Face to face scalable protocol, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001474, Session id: 1000014, Students: 
+SESSION | Professor: 1001031, Session id: 1000011, Students: 
 
 
 Course: MATH1B, Description: Function-based high-level secured line, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001024, Session id: 1000015, Students: 
+SESSION | Professor: 1001024, Session id: 1000013, Students: 
 
 
-Course: MATH1C, Description: Future-proofed bandwidth-monitored projection, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001074, Session id: 1000016, Students: 
+Course: MATH1C, Description: Enterprise-wide full-range budgetary management, minimum students: 6, maximum students: 16
+SESSION | Professor: 1001074, Session id: 1000014, Students: 
 
 
 Course: DES2D, Description: Object-based systemic structure, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001030, Session id: 1000018, Students: 
+SESSION | Professor: 1001030, Session id: 1000016, Students: 
 
 
 Course: HIST3C, Description: Organized object-oriented knowledge base, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001017, Session id: 1000017, Students: 
+SESSION | Professor: 1001017, Session id: 1000015, Students: 
 
 
-Course: HIST3D, Description: Balanced directional protocol, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001218, Session id: 1000019, Students: 
+Course: MATH1D, Description: Inverse web-enabled success, minimum students: 6, maximum students: 11
+SESSION | Professor: 1001113, Session id: 1000017, Students: 
 
 
-Course: DES2B, Description: Future-proofed demand-driven leverage, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001031, Session id: 1000020, Students: 
+Course: HIST3D, Description: Decentralized encompassing capacity, minimum students: 6, maximum students: 18
+SESSION | Professor: 1001218, Session id: 1000018, Students: 
 
 
-Course: DES2C, Description: Multi-layered multimedia website, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001249, Session id: 1000021, Students: 
+Course: DES2B, Description: Triple-buffered even-keeled synergy, minimum students: 7, maximum students: 18
+SESSION | Professor: 1001031, Session id: 1000019, Students: 
 
 
-Course: HIST4A, Description: Multi-layered logistical task-force, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001094, Session id: 1000022, Students: 
+Course: DES2C, Description: Up-sized next generation task-force, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001249, Session id: 1000020, Students: 
+
+
+Course: HIST4A, Description: Robust modular flexibility, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001094, Session id: 1000021, Students: 
 
 
 Course: CIS4A, Description: Seamless well-modulated synergy, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001185, Session id: 1000023, Students: 
+SESSION | Professor: 1001185, Session id: 1000022, Students: 
 
 
 Course: CIS4B, Description: Mandatory 24/7 focus group, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001021, Session id: 1000024, Students: 
+SESSION | Professor: 1001021, Session id: 1000023, Students: 
 
 
-Course: EECS3D, Description: Re-engineered value-added methodology, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001273, Session id: 1000025, Students: 
+Course: EECS3D, Description: Balanced 5th generation utilisation, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001273, Session id: 1000024, Students: 
 
 
-Course: ANTH2A, Description: Object-based motivating methodology, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001022, Session id: 1000027, Students: 
+Course: ANTH2A, Description: Devolved zero defect support, minimum students: 5, maximum students: 8
+SESSION | Professor: 1001022, Session id: 1000026, Students: 
 
 
 Course: ENV2A, Description: Total 3rd generation support, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001005, Session id: 1000026, Students: 
+SESSION | Professor: 1001005, Session id: 1000025, Students: 
 
 
-Course: ANTH2D, Description: Face to face asymmetric orchestration, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001079, Session id: 1000028, Students: 
+Course: ANTH2D, Description: Customer-focused discrete knowledge base, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001079, Session id: 1000027, Students: 
 
 
-Course: CIS4C, Description: Networked maximized data-warehouse, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001296, Session id: 1000030, Students: 
+Course: CIS4C, Description: Implemented user-facing capability, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001296, Session id: 1000029, Students: 
 
 
-Course: ENV2D, Description: Progressive tangible system engine, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001126, Session id: 1000029, Students: 
+Course: ENV2D, Description: Optimized mission-critical interface, minimum students: 7, maximum students: 20
+SESSION | Professor: 1001126, Session id: 1000028, Students: 
 
 
-Course: ENV2C, Description: Multi-channelled eco-centric strategy, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001072, Session id: 1000031, Students: 
+Course: ENV2C, Description: Synchronised national project, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001072, Session id: 1000030, Students: 
 
 
-Course: EECS4B, Description: Synergized content-based utilisation, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001069, Session id: 1000032, Students: 
+Course: EECS4B, Description: Realigned background capacity, minimum students: 7, maximum students: 16
+SESSION | Professor: 1001069, Session id: 1000031, Students: 
 
 
-Course: HIST4C, Description: Synchronised stable emulation, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001051, Session id: 1000033, Students: 
+Course: HIST4C, Description: Right-sized leading edge adapter, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001051, Session id: 1000032, Students: 
 
 
-Course: HIST4D, Description: Cloned mission-critical application, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001383, Session id: 1000034, Students: 
+Course: HIST4D, Description: Cross-platform asymmetric access, minimum students: 6, maximum students: 15
+SESSION | Professor: 1001383, Session id: 1000033, Students: 
 
 
-Course: ENG4A, Description: Networked attitude-oriented toolset, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001099, Session id: 1000035, Students: 
+Course: ENG4A, Description: Pre-emptive holistic knowledge base, minimum students: 6, maximum students: 9
+SESSION | Professor: 1001099, Session id: 1000034, Students: 
 
 
 Course: DES3C, Description: Virtual hybrid implementation, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001244, Session id: 1000036, Students: 
+SESSION | Professor: 1001244, Session id: 1000035, Students: 
 
 
 Course: ENG4C, Description: Vision-oriented homogeneous encoding, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001330, Session id: 1000037, Students: 
+SESSION | Professor: 1001330, Session id: 1000036, Students: 
 
 
-Course: DES3B, Description: Compatible stable project, minimum students: 6, maximum students: 19
+Course: DES3D, Description: Innovative uniform project, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001041, Session id: 1000037, Students: 
+
+
+Course: DES3B, Description: Multi-layered neutral open system, minimum students: 6, maximum students: 13
 SESSION | Professor: 1001079, Session id: 1000038, Students: 
 
 
-Course: PHYS2D, Description: Ameliorated directional capacity, minimum students: 5, maximum students: 17
+Course: PSYC3D, Description: Multi-lateral local array, minimum students: 6, maximum students: 11
+SESSION | Professor: 1001358, Session id: 1000040, Students: 
+
+
+Course: PHYS2D, Description: Public-key demand-driven time-frame, minimum students: 7, maximum students: 15
 SESSION | Professor: 1001093, Session id: 1000039, Students: 
 
 
 Course: PSYC3B, Description: Grass-roots zero tolerance synergy, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001284, Session id: 1000040, Students: 
+SESSION | Professor: 1001284, Session id: 1000041, Students: 
 
 
 Course: PSYC3C, Description: Monitored scalable budgetary management, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001075, Session id: 1000041, Students: 
+SESSION | Professor: 1001075, Session id: 1000042, Students: 
 
 
-Course: PHYS2A, Description: Centralized actuating firmware, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001100, Session id: 1000042, Students: 
+Course: PHYS2A, Description: Seamless reciprocal algorithm, minimum students: 5, maximum students: 16
+SESSION | Professor: 1001100, Session id: 1000043, Students: 
 
 
-Course: PHYS2B, Description: Streamlined foreground database, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001210, Session id: 1000043, Students: 
+Course: PHYS2B, Description: Front-line human-resource framework, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001210, Session id: 1000044, Students: 
 
 
-Course: PHYS2C, Description: Focused 24/7 service-desk, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001011, Session id: 1000044, Students: 
+Course: PHYS2C, Description: Multi-channelled 24 hour infrastructure, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001011, Session id: 1000045, Students: 
 
 
-Course: ART3B, Description: Robust coherent middleware, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001004, Session id: 1000045, Students: 
+Course: ART3B, Description: Implemented regional superstructure, minimum students: 7, maximum students: 13
+SESSION | Professor: 1001004, Session id: 1000046, Students: 
 
 
-Course: ART3C, Description: Business-focused mission-critical superstructure, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001002, Session id: 1000046, Students: 
+Course: ART3C, Description: Balanced 4th generation approach, minimum students: 5, maximum students: 18
+SESSION | Professor: 1001002, Session id: 1000047, Students: 
 
 
-Course: ART3A, Description: Visionary background concept, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001086, Session id: 1000047, Students: 
+Course: ART3A, Description: De-engineered zero defect contingency, minimum students: 6, maximum students: 15
+SESSION | Professor: 1001086, Session id: 1000048, Students: 
 
 
-Course: CIS1B, Description: Multi-channelled explicit architecture, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001080, Session id: 1000048, Students: 
+Course: CIS1B, Description: Open-source optimal initiative, minimum students: 7, maximum students: 14
+SESSION | Professor: 1001080, Session id: 1000049, Students: 
 
 
-Course: ENV1A, Description: Pre-emptive exuding support, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001017, Session id: 1000049, Students: 
+Course: ENV1A, Description: Multi-tiered impactful intranet, minimum students: 6, maximum students: 16
+SESSION | Professor: 1001017, Session id: 1000050, Students: 
 
 
-Course: ART3D, Description: Versatile impactful attitude, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001142, Session id: 1000050, Students: 
+Course: ART3D, Description: Ergonomic multi-state groupware, minimum students: 5, maximum students: 11
+SESSION | Professor: 1001142, Session id: 1000051, Students: 
 
 
-Course: CIS1A, Description: Open-source bandwidth-monitored matrices, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001156, Session id: 1000051, Students: 
+Course: CIS1A, Description: Advanced well-modulated throughput, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001156, Session id: 1000052, Students: 
 
 
 Course: ENV1B, Description: Proactive client-server product, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001041, Session id: 1000052, Students: 
+SESSION | Professor: 1001041, Session id: 1000053, Students: 
 
 
-Course: MATH3A, Description: Open-source 6th generation implementation, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001250, Session id: 1000053, Students: 
+Course: MATH3A, Description: Progressive optimizing concept, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001250, Session id: 1000054, Students: 
 
 
-Course: MATH3B, Description: Focused empowering hub, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001047, Session id: 1000054, Students: 
-
-
-Course: MATH3C, Description: Innovative asynchronous workforce, minimum students: 5, maximum students: 17
+Course: MATH3C, Description: Balanced bottom-line database, minimum students: 7, maximum students: 13
 SESSION | Professor: 1001139, Session id: 1000055, Students: 
 
 
-Course: MATH3D, Description: Switchable bifurcated productivity, minimum students: 6, maximum students: 20
+Course: MATH3D, Description: Cloned full-range service-desk, minimum students: 5, maximum students: 7
 SESSION | Professor: 1001094, Session id: 1000056, Students: 
 
 
-Course: ENG3A, Description: Programmable local customer loyalty, minimum students: 6, maximum students: 13
+Course: ENG3A, Description: Pre-emptive context-sensitive utilisation, minimum students: 7, maximum students: 7
 SESSION | Professor: 1001083, Session id: 1000057, Students: 
 
 
-Course: ENG3B, Description: Advanced hybrid firmware, minimum students: 7, maximum students: 7
+Course: ENG3B, Description: Digitized hybrid matrices, minimum students: 6, maximum students: 18
 SESSION | Professor: 1001013, Session id: 1000058, Students: 
 
 
-Course: PSYC2C, Description: Configurable 3rd generation implementation, minimum students: 7, maximum students: 7
+Course: PSYC2C, Description: Synergistic multimedia customer loyalty, minimum students: 6, maximum students: 7
 SESSION | Professor: 1001149, Session id: 1000059, Students: 
 
 
-Course: PHYS1C, Description: Optimized interactive knowledge base, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001212, Session id: 1000060, Students: 
+Course: PSYC2D, Description: Visionary bandwidth-monitored access, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001015, Session id: 1000060, Students: 
 
 
-Course: PSYC2D, Description: Diverse disintermediate moderator, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001015, Session id: 1000061, Students: 
+Course: PSYC2A, Description: Horizontal impactful customer loyalty, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001013, Session id: 1000061, Students: 
 
 
-Course: PSYC2A, Description: Optional contextually-based encoding, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001013, Session id: 1000062, Students: 
+Course: PHYS1B, Description: Networked next generation implementation, minimum students: 6, maximum students: 8
+SESSION | Professor: 1001111, Session id: 1000062, Students: 
 
 
-Course: PHYS1B, Description: Face to face asynchronous conglomeration, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001111, Session id: 1000063, Students: 
+Course: ART2A, Description: Total reciprocal challenge, minimum students: 7, maximum students: 13
+SESSION | Professor: 1001183, Session id: 1000063, Students: 
 
 
-Course: ART2A, Description: Triple-buffered context-sensitive algorithm, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001183, Session id: 1000064, Students: 
+Course: ART2B, Description: Right-sized 4th generation open architecture, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001083, Session id: 1000064, Students: 
 
 
-Course: ART2B, Description: Synergized intermediate intranet, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001083, Session id: 1000065, Students: 
+Course: CIS2D, Description: Advanced fresh-thinking installation, minimum students: 6, maximum students: 18
+SESSION | Professor: 1001386, Session id: 1000065, Students: 
 
 
-Course: CIS2C, Description: Compatible non-volatile model, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001014, Session id: 1000066, Students: 
+Course: CIS2A, Description: Team-oriented coherent encoding, minimum students: 7, maximum students: 14
+SESSION | Professor: 1001054, Session id: 1000066, Students: 
 
 
-Course: CIS2D, Description: Devolved multi-state process improvement, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001386, Session id: 1000067, Students: 
-
-
-Course: CIS2A, Description: Stand-alone next generation array, minimum students: 6, maximum students: 13
-SESSION | Professor: 1001054, Session id: 1000068, Students: 
-
-
-Course: ART2C, Description: Cloned demand-driven customer loyalty, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001036, Session id: 1000069, Students: 
+Course: ART2C, Description: Automated leading edge definition, minimum students: 7, maximum students: 13
+SESSION | Professor: 1001036, Session id: 1000067, Students: 
 
 
 Course: ART2D, Description: Profit-focused dynamic process improvement, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001041, Session id: 1000070, Students: 
+SESSION | Professor: 1001041, Session id: 1000068, Students: 
 
 
-Course: CIS1D, Description: Implemented neutral core, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001162, Session id: 1000071, Students: 
+Course: CIS1D, Description: Robust composite pricing structure, minimum students: 6, maximum students: 16
+SESSION | Professor: 1001162, Session id: 1000069, Students: 
 
 
 Course: MATH2A, Description: User-friendly coherent open architecture, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001396, Session id: 1000072, Students: 
+SESSION | Professor: 1001396, Session id: 1000070, Students: 
 
 
-Course: MATH2B, Description: Synergized value-added portal, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001153, Session id: 1000073, Students: 
+Course: MATH2B, Description: Compatible foreground core, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001153, Session id: 1000071, Students: 
 
 
 Course: MATH2C, Description: Innovative background parallelism, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001061, Session id: 1000074, Students: 
+SESSION | Professor: 1001061, Session id: 1000072, Students: 
 
 
-Course: MATH2D, Description: Virtual zero administration open system, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001009, Session id: 1000075, Students: 
+Course: MATH2D, Description: User-centric local capacity, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001009, Session id: 1000073, Students: 
 
 
-Course: DES1C, Description: Digitized explicit middleware, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001200, Session id: 1000076, Students: 
+Course: DES1C, Description: Versatile empowering flexibility, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001200, Session id: 1000074, Students: 
 
 
 Course: ECON1C, Description: Versatile solution-oriented portal, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001017, Session id: 1000077, Students: 
+SESSION | Professor: 1001017, Session id: 1000075, Students: 
 
 
-Course: ENG2A, Description: Synchronised systematic budgetary management, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001003, Session id: 1000080, Students: 
+Course: ENG2A, Description: Networked full-range encryption, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001003, Session id: 1000077, Students: 
 
 
-Course: DES1B, Description: Operative well-modulated moratorium, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001117, Session id: 1000078, Students: 
+Course: ECON1B, Description: Devolved high-level hardware, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001108, Session id: 1000076, Students: 
 
 
-Course: ECON1B, Description: Fully-configurable client-server open system, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001108, Session id: 1000079, Students: 
+Course: PSYC1D, Description: Programmable empowering throughput, minimum students: 5, maximum students: 16
+SESSION | Professor: 1001040, Session id: 1000078, Students: 
 
 
-Course: PSYC1D, Description: Synchronised dynamic solution, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001040, Session id: 1000081, Students: 
+Course: ENG2C, Description: Ameliorated system-worthy customer loyalty, minimum students: 7, maximum students: 11
+SESSION | Professor: 1001079, Session id: 1000079, Students: 
 
 
-Course: ENG2C, Description: Public-key solution-oriented orchestration, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001079, Session id: 1000082, Students: 
-
-
-Course: ENG1D, Description: Cross-platform grid-enabled moderator, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001067, Session id: 1000083, Students: 
+Course: ENG1D, Description: Diverse logistical approach, minimum students: 6, maximum students: 9
+SESSION | Professor: 1001067, Session id: 1000080, Students: 
 
 
 Course: CIM3B, Description: Centralized local info-mediaries, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001014, Session id: 1000084, Students: 
+SESSION | Professor: 1001014, Session id: 1000081, Students: 
 
 
 Course: CIM3C, Description: Future-proofed methodical system engine, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001011, Session id: 1000085, Students: 
+SESSION | Professor: 1001011, Session id: 1000082, Students: 
 
 
-Course: NUR2B, Description: Customer-focused tertiary complexity, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001135, Session id: 1000086, Students: 
+Course: NUR2A, Description: Customer-focused secondary throughput, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001672, Session id: 1000083, Students: 
 
 
-Course: NUR2A, Description: Advanced zero defect extranet, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001672, Session id: 1000087, Students: 
-
-
-Course: CHEM3A, Description: Fundamental next generation open architecture, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001057, Session id: 1000088, Students: 
+Course: NUR2D, Description: Sharable hybrid moratorium, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001049, Session id: 1000084, Students: 
 
 
 Course: BIO3A, Description: Open-source impactful throughput, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001036, Session id: 1000089, Students: 
+SESSION | Professor: 1001036, Session id: 1000085, Students: 
+
+
+Course: BIO3B, Description: Proactive well-modulated moratorium, minimum students: 6, maximum students: 8
+SESSION | Professor: 1001184, Session id: 1000086, Students: 
 
 
 Course: CHEM3D, Description: Digitized systemic algorithm, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001700, Session id: 1000090, Students: 
+SESSION | Professor: 1001700, Session id: 1000087, Students: 
 
 
-Course: CHEM3C, Description: Vision-oriented coherent success, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001078, Session id: 1000091, Students: 
+Course: CHEM3C, Description: Innovative empowering forecast, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001078, Session id: 1000088, Students: 
 
 
-Course: BIO3C, Description: Managed disintermediate Graphic Interface, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001180, Session id: 1000092, Students: 
+Course: BIO3C, Description: Enterprise-wide leading edge interface, minimum students: 7, maximum students: 9
+SESSION | Professor: 1001180, Session id: 1000089, Students: 
 
 
-Course: BIO3D, Description: Optimized intermediate Graphic Interface, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001209, Session id: 1000093, Students: 
+Course: BIO3D, Description: Centralized 4th generation complexity, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001209, Session id: 1000090, Students: 
 
 
-Course: ENG1A, Description: Reverse-engineered directional infrastructure, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001006, Session id: 1000094, Students: 
+Course: ENG1A, Description: Public-key encompassing knowledge user, minimum students: 7, maximum students: 20
+SESSION | Professor: 1001006, Session id: 1000091, Students: 
 
 
-Course: ENG1B, Description: Exclusive local support, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001104, Session id: 1000095, Students: 
+Course: ENG1B, Description: Configurable fault-tolerant benchmark, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001104, Session id: 1000092, Students: 
 
 
-Course: CS2A, Description: Reduced upward-trending intranet, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001488, Session id: 1000096, Students: 
+Course: CS2A, Description: Self-enabling object-oriented installation, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001488, Session id: 1000093, Students: 
 
 
-Course: CIM4C, Description: Face to face real-time solution, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001005, Session id: 1000097, Students: 
+Course: PSYC4A, Description: Grass-roots 6th generation installation, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001041, Session id: 1000094, Students: 
 
 
-Course: PSYC4A, Description: Managed next generation application, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001041, Session id: 1000098, Students: 
+Course: CIM4D, Description: Intuitive user-facing synergy, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001207, Session id: 1000096, Students: 
 
 
-Course: PSYC4B, Description: Reactive reciprocal core, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001014, Session id: 1000099, Students: 
+Course: PSYC4B, Description: Assimilated didactic intranet, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001014, Session id: 1000095, Students: 
 
 
 Course: CIM4A, Description: Realigned dynamic knowledge user, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001010, Session id: 1000100, Students: 
+SESSION | Professor: 1001010, Session id: 1000097, Students: 
 
 
-Course: CIM4B, Description: Profit-focused multi-tasking challenge, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001078, Session id: 1000101, Students: 
+Course: CIM4B, Description: Compatible background hardware, minimum students: 6, maximum students: 11
+SESSION | Professor: 1001078, Session id: 1000098, Students: 
 
 
-Course: NUR1A, Description: Vision-oriented contextually-based hardware, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001064, Session id: 1000102, Students: 
+Course: NUR1A, Description: Total 3rd generation hardware, minimum students: 5, maximum students: 8
+SESSION | Professor: 1001064, Session id: 1000099, Students: 
 
 
-Course: NUR1D, Description: Exclusive 3rd generation functionalities, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001087, Session id: 1000103, Students: 
+Course: NUR1D, Description: Persistent context-sensitive frame, minimum students: 7, maximum students: 11
+SESSION | Professor: 1001087, Session id: 1000100, Students: 
 
 
-Course: NUR1C, Description: Multi-layered full-range open system, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001039, Session id: 1000104, Students: 
+Course: NUR1C, Description: Grass-roots high-level protocol, minimum students: 7, maximum students: 20
+SESSION | Professor: 1001039, Session id: 1000101, Students: 
 
 
-Course: BIO4A, Description: Managed bandwidth-monitored internet solution, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001013, Session id: 1000105, Students: 
+Course: BIO4A, Description: Switchable intangible software, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001013, Session id: 1000102, Students: 
 
 
 Course: BIO4B, Description: Object-based uniform open architecture, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001035, Session id: 1000106, Students: 
+SESSION | Professor: 1001035, Session id: 1000103, Students: 
 
 
-Course: BIO4C, Description: Managed system-worthy secured line, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001340, Session id: 1000107, Students: 
+Course: BIO4C, Description: Switchable needs-based throughput, minimum students: 7, maximum students: 15
+SESSION | Professor: 1001340, Session id: 1000104, Students: 
 
 
-Course: CHEM2D, Description: Networked asymmetric circuit, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001025, Session id: 1000108, Students: 
+Course: CHEM2D, Description: Reverse-engineered tangible challenge, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001025, Session id: 1000105, Students: 
 
 
-Course: MATH4A, Description: Centralized leading edge structure, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001240, Session id: 1000110, Students: 
+Course: MATH4A, Description: Face to face systemic projection, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001240, Session id: 1000107, Students: 
 
 
-Course: CHEM2C, Description: Seamless composite firmware, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001006, Session id: 1000109, Students: 
+Course: CHEM2C, Description: Innovative bottom-line architecture, minimum students: 7, maximum students: 15
+SESSION | Professor: 1001006, Session id: 1000106, Students: 
 
 
-Course: MATH4B, Description: Proactive maximized encoding, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001056, Session id: 1000111, Students: 
+Course: MATH4B, Description: Inverse bottom-line budgetary management, minimum students: 6, maximum students: 10
+SESSION | Professor: 1001056, Session id: 1000108, Students: 
 
 
-Course: MATH4C, Description: Synergistic full-range approach, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001017, Session id: 1000112, Students: 
+Course: MATH4C, Description: Re-contextualized client-driven paradigm, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001017, Session id: 1000109, Students: 
 
 
 Course: CHEM2A, Description: Fundamental didactic customer loyalty, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001148, Session id: 1000113, Students: 
+SESSION | Professor: 1001148, Session id: 1000110, Students: 
 
 
-Course: MATH4D, Description: User-centric bottom-line help-desk, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001082, Session id: 1000114, Students: 
+Course: MATH4D, Description: Customizable asynchronous leverage, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001082, Session id: 1000111, Students: 
 
 
-Course: CS1C, Description: Centralized client-driven definition, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001225, Session id: 1000115, Students: 
+Course: CS1C, Description: Multi-channelled optimal policy, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001225, Session id: 1000112, Students: 
 
 
 Course: CS1A, Description: Monitored human-resource project, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001059, Session id: 1000116, Students: 
-
-
-Course: CS3A, Description: Extended bottom-line methodology, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001177, Session id: 1000117, Students: 
+SESSION | Professor: 1001059, Session id: 1000113, Students: 
 
 
 Course: CIM1A, Description: Managed zero tolerance customer loyalty, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001000, Session id: 1000118, Students: 
+SESSION | Professor: 1001000, Session id: 1000114, Students: 
 
 
-Course: CIM1D, Description: Integrated bottom-line budgetary management, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001239, Session id: 1000119, Students: 
+Course: CIM1D, Description: Automated background Graphic Interface, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001239, Session id: 1000115, Students: 
 
 
-Course: EECS2D, Description: Seamless dedicated neural-net, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001039, Session id: 1000120, Students: 
+Course: EECS2D, Description: Expanded eco-centric utilisation, minimum students: 5, maximum students: 19
+SESSION | Professor: 1001039, Session id: 1000116, Students: 
 
 
-Course: EECS2B, Description: Cross-group fresh-thinking circuit, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001215, Session id: 1000122, Students: 
+Course: CIM1B, Description: Innovative exuding solution, minimum students: 7, maximum students: 9
+SESSION | Professor: 1001206, Session id: 1000117, Students: 
 
 
-Course: CIM1B, Description: Phased bottom-line approach, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001206, Session id: 1000121, Students: 
-
-
-Course: CIM1C, Description: Multi-tiered multi-tasking parallelism, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001101, Session id: 1000123, Students: 
+Course: CIM1C, Description: Switchable tangible firmware, minimum students: 7, maximum students: 15
+SESSION | Professor: 1001101, Session id: 1000118, Students: 
 
 
 Course: ANTH3C, Description: Distributed incremental success, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001155, Session id: 1000124, Students: 
+SESSION | Professor: 1001155, Session id: 1000119, Students: 
 
 
 Course: ANTH3B, Description: Vision-oriented uniform interface, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001045, Session id: 1000125, Students: 
+SESSION | Professor: 1001045, Session id: 1000120, Students: 
 
 
-Course: ANTH3D, Description: Re-engineered maximized algorithm, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001281, Session id: 1000126, Students: 
+Course: ANTH3D, Description: Proactive systematic attitude, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001281, Session id: 1000121, Students: 
 
 
 Course: ANTH3A, Description: Customizable content-based instruction set, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001096, Session id: 1000127, Students: 
+SESSION | Professor: 1001096, Session id: 1000122, Students: 
 
 
-Course: CHEM1C, Description: Horizontal client-server system engine, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001221, Session id: 1000129, Students: 
+Course: CHEM1C, Description: Adaptive tangible projection, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001221, Session id: 1000124, Students: 
 
 
-Course: EECS3A, Description: Advanced maximized utilisation, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001065, Session id: 1000128, Students: 
+Course: EECS3A, Description: Diverse asymmetric protocol, minimum students: 7, maximum students: 14
+SESSION | Professor: 1001065, Session id: 1000123, Students: 
 
 
-Course: CHEM1B, Description: Streamlined global local area network, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001089, Session id: 1000131, Students: 
+Course: EECS3B, Description: Multi-lateral holistic intranet, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001070, Session id: 1000125, Students: 
 
 
-Course: EECS3B, Description: Fully-configurable context-sensitive product, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001070, Session id: 1000130, Students: 
+Course: CHEM1A, Description: Stand-alone methodical groupware, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001037, Session id: 1000126, Students: 
 
 
-Course: CHEM1A, Description: Assimilated zero defect hierarchy, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001037, Session id: 1000132, Students: 
+Course: BIO1A, Description: Total regional concept, minimum students: 6, maximum students: 8
+SESSION | Professor: 1001140, Session id: 1000127, Students: 
 
 
-Course: BIO1A, Description: Ergonomic non-volatile frame, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001140, Session id: 1000133, Students: 
+Course: BIO1B, Description: Monitored contextually-based orchestration, minimum students: 6, maximum students: 10
+SESSION | Professor: 1001252, Session id: 1000129, Students: 
 
 
-Course: BIO1B, Description: Polarised modular functionalities, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001252, Session id: 1000135, Students: 
+Course: CS2D, Description: Pre-emptive upward-trending approach, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001140, Session id: 1000128, Students: 
 
 
-Course: CS2D, Description: Grass-roots eco-centric firmware, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001140, Session id: 1000134, Students: 
+Course: CS2C, Description: Down-sized tertiary neural-net, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001237, Session id: 1000130, Students: 
 
 
-Course: CS2C, Description: Networked real-time website, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001237, Session id: 1000136, Students: 
+Course: CS4B, Description: Intuitive empowering neural-net, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001132, Session id: 1000131, Students: 
 
 
-Course: CS4B, Description: Team-oriented secondary system engine, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001132, Session id: 1000137, Students: 
+Course: CIM2A, Description: User-friendly needs-based task-force, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001160, Session id: 1000132, Students: 
 
 
-Course: CIM2A, Description: De-engineered global firmware, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001160, Session id: 1000138, Students: 
+Course: EECS1C, Description: Centralized cohesive adapter, minimum students: 7, maximum students: 13
+SESSION | Professor: 1001043, Session id: 1000133, Students: 
 
 
-Course: CIM2B, Description: Self-enabling upward-trending software, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001010, Session id: 1000139, Students: 
+Course: EECS1D, Description: Re-engineered composite open system, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001013, Session id: 1000134, Students: 
 
 
-Course: EECS1C, Description: Secured static support, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001043, Session id: 1000140, Students: 
+Course: CIM2C, Description: Future-proofed actuating frame, minimum students: 6, maximum students: 13
+SESSION | Professor: 1001223, Session id: 1000135, Students: 
 
 
-Course: EECS1D, Description: Polarised optimal ability, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001013, Session id: 1000141, Students: 
+Course: EECS1A, Description: Horizontal real-time portal, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001060, Session id: 1000136, Students: 
 
 
-Course: CIM2C, Description: Ergonomic incremental installation, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001223, Session id: 1000142, Students: 
-
-
-Course: EECS1A, Description: Sharable fresh-thinking extranet, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001060, Session id: 1000143, Students: 
-
-
-Course: CIM2D, Description: Operative uniform paradigm, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001082, Session id: 1000144, Students: 
+Course: CIM2D, Description: Stand-alone empowering moratorium, minimum students: 6, maximum students: 10
+SESSION | Professor: 1001082, Session id: 1000137, Students: 
 
 
 Course: EECS1B, Description: Intuitive human-resource hub, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001064, Session id: 1000145, Students: 
+SESSION | Professor: 1001064, Session id: 1000138, Students: 
 
 
-Course: ANTH4B, Description: Assimilated actuating forecast, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001005, Session id: 1000146, Students: 
+Course: ANTH4B, Description: Monitored uniform monitoring, minimum students: 6, maximum students: 20
+SESSION | Professor: 1001005, Session id: 1000139, Students: 
 
 
 Course: ANTH4A, Description: Stand-alone tertiary Graphic Interface, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001154, Session id: 1000147, Students: 
+SESSION | Professor: 1001154, Session id: 1000140, Students: 
 
 
-Course: EECS2A, Description: Vision-oriented incremental analyzer, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001060, Session id: 1000148, Students: 
+Course: EECS2A, Description: Digitized client-driven hardware, minimum students: 7, maximum students: 9
+SESSION | Professor: 1001060, Session id: 1000141, Students: 
 
 
 Course: BIO2B, Description: Down-sized motivating infrastructure, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001145, Session id: 1000149, Students: 
+SESSION | Professor: 1001145, Session id: 1000142, Students: 
 
 
-Course: BIO2C, Description: Sharable zero defect archive, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001084, Session id: 1000150, Students: 
+Course: BIO2C, Description: Function-based object-oriented paradigm, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001084, Session id: 1000143, Students: 
 
 
-Course: CS3C, Description: Programmable homogeneous solution, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001106, Session id: 1000151, Students: 
+Course: BIO2D, Description: Front-line homogeneous model, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001000, Session id: 1000144, Students: 
 
 
-Course: ACC4C, Description: Implemented holistic frame, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001070, Session id: 1000152, Students: 
+Course: CS3C, Description: Object-based leading edge analyzer, minimum students: 7, maximum students: 14
+SESSION | Professor: 1001106, Session id: 1000145, Students: 
+
+
+Course: ACC4C, Description: Programmable multi-state benchmark, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001070, Session id: 1000146, Students: 
 
 
 Course: ASTR3D, Description: Expanded exuding methodology, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001186, Session id: 1000153, Students: 
+SESSION | Professor: 1001186, Session id: 1000147, Students: 
 
 
 Course: BUS3B, Description: User-friendly motivating hub, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001183, Session id: 1000154, Students: 
+SESSION | Professor: 1001183, Session id: 1000148, Students: 
 
 
-Course: BUS3A, Description: Networked demand-driven workforce, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001284, Session id: 1000155, Students: 
+Course: BUS3A, Description: Optimized logistical budgetary management, minimum students: 5, maximum students: 8
+SESSION | Professor: 1001284, Session id: 1000149, Students: 
 
 
 Course: HUM1C, Description: Sharable incremental process improvement, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001008, Session id: 1000156, Students: 
+SESSION | Professor: 1001008, Session id: 1000150, Students: 
 
 
-Course: HUM1D, Description: Persevering composite info-mediaries, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001221, Session id: 1000157, Students: 
+Course: HUM1D, Description: Function-based object-oriented intranet, minimum students: 6, maximum students: 10
+SESSION | Professor: 1001221, Session id: 1000151, Students: 
 
 
-Course: HUM1A, Description: Synergized 3rd generation paradigm, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001114, Session id: 1000158, Students: 
+Course: HUM1A, Description: Ergonomic user-facing emulation, minimum students: 5, maximum students: 13
+SESSION | Professor: 1001114, Session id: 1000152, Students: 
 
 
-Course: ASTR4A, Description: Innovative modular ability, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001048, Session id: 1000159, Students: 
+Course: ASTR4A, Description: Adaptive didactic strategy, minimum students: 7, maximum students: 19
+SESSION | Professor: 1001048, Session id: 1000153, Students: 
 
 
-Course: BUS3C, Description: Programmable motivating alliance, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001002, Session id: 1000160, Students: 
+Course: BUS3C, Description: Virtual upward-trending methodology, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001002, Session id: 1000154, Students: 
 
 
-Course: ACC4B, Description: Reverse-engineered asynchronous functionalities, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001067, Session id: 1000162, Students: 
+Course: ACC4B, Description: Monitored empowering attitude, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001067, Session id: 1000156, Students: 
 
 
-Course: MUS4A, Description: Networked optimal toolset, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001422, Session id: 1000161, Students: 
+Course: MUS4A, Description: Operative 24 hour project, minimum students: 5, maximum students: 13
+SESSION | Professor: 1001422, Session id: 1000155, Students: 
 
 
-Course: ACC4A, Description: Centralized background parallelism, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001040, Session id: 1000164, Students: 
+Course: ACC4A, Description: Sharable systematic monitoring, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001040, Session id: 1000158, Students: 
 
 
-Course: MUS4B, Description: Exclusive solution-oriented capability, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001457, Session id: 1000163, Students: 
+Course: MUS4B, Description: Multi-tiered multi-tasking standardization, minimum students: 5, maximum students: 13
+SESSION | Professor: 1001457, Session id: 1000157, Students: 
 
 
-Course: MUS4C, Description: Ergonomic neutral solution, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001490, Session id: 1000165, Students: 
+Course: MUS4C, Description: Future-proofed mobile utilisation, minimum students: 5, maximum students: 11
+SESSION | Professor: 1001490, Session id: 1000159, Students: 
 
 
-Course: CS4D, Description: Face to face eco-centric ability, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001105, Session id: 1000166, Students: 
+Course: CS4D, Description: Business-focused empowering paradigm, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001105, Session id: 1000160, Students: 
 
 
-Course: ACC3D, Description: Extended high-level moderator, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001064, Session id: 1000167, Students: 
+Course: ACC3D, Description: Seamless foreground implementation, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001064, Session id: 1000161, Students: 
 
 
-Course: ACC3C, Description: Virtual fault-tolerant benchmark, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001026, Session id: 1000168, Students: 
+Course: ACC3C, Description: Advanced bottom-line flexibility, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001026, Session id: 1000162, Students: 
 
 
-Course: ACC3B, Description: Proactive system-worthy internet solution, minimum students: 6, maximum students: 13
-SESSION | Professor: 1001103, Session id: 1000169, Students: 
+Course: ASTR2B, Description: Operative intangible structure, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001080, Session id: 1000163, Students: 
 
 
-Course: BUS4A, Description: Decentralized national matrices, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001032, Session id: 1000170, Students: 
+Course: ASTR2D, Description: Devolved bi-directional matrices, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001013, Session id: 1000164, Students: 
 
 
-Course: ASTR2B, Description: Focused neutral attitude, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001080, Session id: 1000171, Students: 
-
-
-Course: ASTR2D, Description: Reverse-engineered transitional portal, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001013, Session id: 1000172, Students: 
-
-
-Course: BUS4C, Description: Down-sized motivating ability, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001029, Session id: 1000173, Students: 
+Course: BUS4C, Description: Pre-emptive 4th generation workforce, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001029, Session id: 1000165, Students: 
 
 
 Course: GEO1A, Description: Managed actuating help-desk, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001043, Session id: 1000174, Students: 
+SESSION | Professor: 1001043, Session id: 1000166, Students: 
 
 
-Course: GEO1C, Description: Function-based transitional help-desk, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001009, Session id: 1000175, Students: 
+Course: GEO1C, Description: Configurable multimedia moratorium, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001009, Session id: 1000167, Students: 
 
 
-Course: GEO1B, Description: Up-sized radical alliance, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001002, Session id: 1000176, Students: 
+Course: GEO1B, Description: Exclusive multimedia customer loyalty, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001002, Session id: 1000168, Students: 
 
 
-Course: HUM2C, Description: Managed national database, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001167, Session id: 1000177, Students: 
+Course: HUM2C, Description: Switchable tertiary secured line, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001167, Session id: 1000169, Students: 
 
 
 Course: MUS3D, Description: Fundamental attitude-oriented array, minimum students: 7, maximum students: 14
 NO SESSIONS SCHEDULED
 
-Course: BUS4D, Description: Polarised fresh-thinking alliance, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001252, Session id: 1000178, Students: 
+Course: BUS4D, Description: Profound zero defect internet solution, minimum students: 6, maximum students: 11
+SESSION | Professor: 1001252, Session id: 1000170, Students: 
 
 
-Course: MUS3A, Description: Configurable needs-based forecast, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001024, Session id: 1000179, Students: 
+Course: MUS3A, Description: Extended methodical frame, minimum students: 5, maximum students: 19
+SESSION | Professor: 1001024, Session id: 1000171, Students: 
 
 
-Course: MUS3B, Description: Customizable user-facing definition, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001175, Session id: 1000180, Students: 
+Course: MUS3B, Description: Multi-layered hybrid Graphic Interface, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001175, Session id: 1000172, Students: 
 
 
-Course: MUS3C, Description: Progressive bandwidth-monitored parallelism, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001424, Session id: 1000181, Students: 
+Course: MUS3C, Description: Operative context-sensitive implementation, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001424, Session id: 1000173, Students: 
 
 
-Course: NUR4D, Description: Persevering radical conglomeration, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001343, Session id: 1000182, Students: 
+Course: NUR4D, Description: De-engineered 24/7 artificial intelligence, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001343, Session id: 1000174, Students: 
 
 
-Course: GEO2B, Description: Future-proofed modular solution, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001124, Session id: 1000183, Students: 
+Course: GEO2B, Description: Distributed global success, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001124, Session id: 1000175, Students: 
 
 
-Course: GEO2A, Description: Proactive systematic forecast, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001178, Session id: 1000184, Students: 
+Course: GEO2A, Description: Enhanced didactic product, minimum students: 7, maximum students: 15
+SESSION | Professor: 1001178, Session id: 1000176, Students: 
 
 
 Course: NUR4B, Description: Persevering local capability, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001094, Session id: 1000185, Students: 
+SESSION | Professor: 1001094, Session id: 1000177, Students: 
 
 
-Course: GEO2C, Description: Proactive national access, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001085, Session id: 1000186, Students: 
+Course: GEO2C, Description: Ergonomic local intranet, minimum students: 7, maximum students: 19
+SESSION | Professor: 1001085, Session id: 1000178, Students: 
 
 
 Course: NUR4A, Description: Progressive heuristic knowledge user, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001176, Session id: 1000187, Students: 
+SESSION | Professor: 1001176, Session id: 1000179, Students: 
 
 
-Course: HUM3C, Description: Distributed heuristic open system, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001056, Session id: 1000188, Students: 
+Course: HUM3C, Description: Front-line encompassing monitoring, minimum students: 6, maximum students: 10
+SESSION | Professor: 1001056, Session id: 1000180, Students: 
 
 
 Course: HUM3D, Description: Progressive static database, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001207, Session id: 1000189, Students: 
+SESSION | Professor: 1001207, Session id: 1000181, Students: 
 
 
-Course: HUM3A, Description: Ergonomic mobile pricing structure, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001024, Session id: 1000190, Students: 
+Course: HUM3A, Description: Virtual systemic moratorium, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001024, Session id: 1000182, Students: 
 
 
-Course: GEO3A, Description: Mandatory zero tolerance software, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001058, Session id: 1000191, Students: 
+Course: HUM3B, Description: Enterprise-wide user-facing synergy, minimum students: 6, maximum students: 7
+SESSION | Professor: 1001027, Session id: 1000183, Students: 
 
 
-Course: MUS2C, Description: Compatible 24 hour data-warehouse, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001004, Session id: 1000192, Students: 
+Course: GEO3A, Description: Optimized didactic data-warehouse, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001058, Session id: 1000184, Students: 
 
 
-Course: MUS2D, Description: Automated actuating budgetary management, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001667, Session id: 1000193, Students: 
+Course: MUS2C, Description: Sharable empowering middleware, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001004, Session id: 1000185, Students: 
+
+
+Course: BUS1A, Description: Team-oriented grid-enabled matrices, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001044, Session id: 1000186, Students: 
 
 
 Course: BUS1D, Description: Quality-focused clear-thinking contingency, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001012, Session id: 1000194, Students: 
+SESSION | Professor: 1001012, Session id: 1000187, Students: 
 
 
-Course: BUS1C, Description: Sharable interactive knowledge user, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001099, Session id: 1000195, Students: 
+Course: BUS1C, Description: Polarised reciprocal matrix, minimum students: 6, maximum students: 9
+SESSION | Professor: 1001099, Session id: 1000188, Students: 
 
 
-Course: MUS2A, Description: User-friendly intangible migration, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001219, Session id: 1000196, Students: 
+Course: MUS2A, Description: Fully-configurable bandwidth-monitored project, minimum students: 7, maximum students: 18
+SESSION | Professor: 1001219, Session id: 1000189, Students: 
 
 
-Course: MUS2B, Description: Persistent 24 hour challenge, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001021, Session id: 1000197, Students: 
+Course: MUS2B, Description: Fully-configurable 24/7 policy, minimum students: 5, maximum students: 19
+SESSION | Professor: 1001021, Session id: 1000190, Students: 
 
 
-Course: ASTR4D, Description: Mandatory upward-trending moderator, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001015, Session id: 1000198, Students: 
+Course: ASTR4D, Description: Cloned demand-driven success, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001015, Session id: 1000191, Students: 
 
 
-Course: BUS2A, Description: Programmable non-volatile forecast, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001652, Session id: 1000199, Students: 
-
-
-Course: GEO3C, Description: Business-focused even-keeled application, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001025, Session id: 1000201, Students: 
+Course: BUS2A, Description: Fundamental cohesive productivity, minimum students: 5, maximum students: 18
+SESSION | Professor: 1001652, Session id: 1000192, Students: 
 
 
 Course: NUR3C, Description: Enterprise-wide systematic orchestration, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001170, Session id: 1000200, Students: 
+SESSION | Professor: 1001170, Session id: 1000193, Students: 
 
 
-Course: GEO3B, Description: Profound optimal monitoring, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001032, Session id: 1000202, Students: 
+Course: GEO3B, Description: Face to face needs-based projection, minimum students: 5, maximum students: 20
+SESSION | Professor: 1001032, Session id: 1000194, Students: 
 
 
-Course: NUR3A, Description: Expanded dedicated emulation, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001213, Session id: 1000203, Students: 
+Course: NUR3A, Description: Operative attitude-oriented access, minimum students: 5, maximum students: 16
+SESSION | Professor: 1001213, Session id: 1000195, Students: 
 
 
 Course: GEO3D, Description: Ameliorated 3rd generation budgetary management, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001045, Session id: 1000204, Students: 
+SESSION | Professor: 1001045, Session id: 1000196, Students: 
 
 
-Course: HUM4D, Description: Operative heuristic synergy, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001147, Session id: 1000205, Students: 
+Course: HUM4D, Description: Customer-focused bi-directional encoding, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001147, Session id: 1000197, Students: 
 
 
-Course: NUR3D, Description: Inverse directional moderator, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001043, Session id: 1000206, Students: 
+Course: NUR3D, Description: User-centric incremental info-mediaries, minimum students: 5, maximum students: 20
+SESSION | Professor: 1001043, Session id: 1000198, Students: 
 
 
 Course: CHEM4B, Description: Optional exuding success, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001016, Session id: 1000208, Students: 
+SESSION | Professor: 1001016, Session id: 1000200, Students: 
 
 
 Course: HUM4B, Description: Enhanced homogeneous archive, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001107, Session id: 1000207, Students: 
+SESSION | Professor: 1001107, Session id: 1000199, Students: 
 
 
-Course: HUM4C, Description: Team-oriented maximized capacity, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001528, Session id: 1000210, Students: 
+Course: HUM4C, Description: Organized system-worthy open architecture, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001528, Session id: 1000202, Students: 
 
 
 Course: CHEM4A, Description: Ergonomic secondary ability, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001006, Session id: 1000209, Students: 
+SESSION | Professor: 1001006, Session id: 1000201, Students: 
 
 
-Course: HUM4A, Description: Devolved background throughput, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001136, Session id: 1000211, Students: 
+Course: HUM4A, Description: Front-line didactic complexity, minimum students: 7, maximum students: 10
+SESSION | Professor: 1001136, Session id: 1000203, Students: 
 
 
-Course: CHEM4D, Description: Business-focused national implementation, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001005, Session id: 1000213, Students: 
+Course: CHEM4D, Description: Synergistic multi-state approach, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001005, Session id: 1000205, Students: 
 
 
 Course: GEO4B, Description: Multi-lateral 24/7 collaboration, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001056, Session id: 1000212, Students: 
+SESSION | Professor: 1001056, Session id: 1000204, Students: 
 
 
-Course: CHEM4C, Description: Configurable asynchronous structure, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001001, Session id: 1000214, Students: 
+Course: CHEM4C, Description: Open-source local policy, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001001, Session id: 1000206, Students: 
 
 
-Course: GEO4A, Description: Customizable intermediate help-desk, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001003, Session id: 1000215, Students: 
+Course: GEO4A, Description: Cloned mobile projection, minimum students: 5, maximum students: 8
+SESSION | Professor: 1001003, Session id: 1000207, Students: 
 
 
-Course: MUS1B, Description: Mandatory well-modulated project, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001091, Session id: 1000216, Students: 
+Course: MUS1B, Description: Seamless full-range adapter, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001091, Session id: 1000208, Students: 
 
 
 Course: BUS2B, Description: Cross-platform multi-tasking database, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001049, Session id: 1000218, Students: 
+SESSION | Professor: 1001049, Session id: 1000210, Students: 
 
 
-Course: MUS1C, Description: Streamlined asynchronous instruction set, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001153, Session id: 1000217, Students: 
+Course: MUS1C, Description: Distributed disintermediate open system, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001153, Session id: 1000209, Students: 
 
 
 Course: MUS1D, Description: Public-key zero tolerance policy, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001190, Session id: 1000219, Students: 
+SESSION | Professor: 1001190, Session id: 1000211, Students: 
 
 
-Course: BUS2D, Description: Pre-emptive impactful encoding, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001053, Session id: 1000220, Students: 
+Course: BUS2D, Description: Persevering next generation solution, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001053, Session id: 1000212, Students: 
 
 
 Course: CRTV4D, Description: Down-sized zero administration paradigm, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001118, Session id: 1000221, Students: 
+SESSION | Professor: 1001118, Session id: 1000213, Students: 
 
 
-Course: MUS1A, Description: Profound fresh-thinking core, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001029, Session id: 1000223, Students: 
+Course: MUS1A, Description: Customer-focused 24 hour orchestration, minimum students: 6, maximum students: 19
+SESSION | Professor: 1001029, Session id: 1000215, Students: 
 
 
-Course: CRTV4C, Description: Reactive discrete focus group, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001094, Session id: 1000222, Students: 
+Course: CRTV4C, Description: Extended leading edge model, minimum students: 5, maximum students: 20
+SESSION | Professor: 1001094, Session id: 1000214, Students: 
 
 
-Course: PHYS4B, Description: Pre-emptive content-based protocol, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001052, Session id: 1000224, Students: 
+Course: PHYS4B, Description: Sharable foreground success, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001052, Session id: 1000216, Students: 
 
 
-Course: PHYS4D, Description: Reverse-engineered next generation adapter, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001000, Session id: 1000225, Students: 
+Course: PHYS4D, Description: Networked leading edge moderator, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001000, Session id: 1000217, Students: 
 
 
-Course: GEO4D, Description: Mandatory grid-enabled methodology, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001027, Session id: 1000226, Students: 
+Course: GEO4D, Description: Pre-emptive high-level middleware, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001027, Session id: 1000218, Students: 
 
 
-Course: GEO4C, Description: Fundamental bifurcated encoding, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001127, Session id: 1000227, Students: 
+Course: GEO4C, Description: Cloned intermediate product, minimum students: 7, maximum students: 10
+SESSION | Professor: 1001127, Session id: 1000219, Students: 
 
 
-Course: LANG4A, Description: Open-architected static task-force, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001173, Session id: 1000228, Students: 
+Course: LANG4A, Description: Proactive 24/7 frame, minimum students: 7, maximum students: 20
+SESSION | Professor: 1001173, Session id: 1000220, Students: 
 
 
 Course: LANG4B, Description: Face to face fault-tolerant software, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001089, Session id: 1000229, Students: 
+SESSION | Professor: 1001089, Session id: 1000221, Students: 
 
 
 Course: LANG4D, Description: De-engineered explicit emulation, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001154, Session id: 1000230, Students: 
+SESSION | Professor: 1001154, Session id: 1000222, Students: 
 
 
 Course: ECON2D, Description: Triple-buffered didactic circuit, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001000, Session id: 1000231, Students: 
+SESSION | Professor: 1001000, Session id: 1000223, Students: 
 
 
 Course: ECON2C, Description: Up-sized clear-thinking hub, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001042, Session id: 1000232, Students: 
+SESSION | Professor: 1001042, Session id: 1000224, Students: 
 
 
-Course: CRTV3C, Description: Team-oriented homogeneous complexity, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001012, Session id: 1000233, Students: 
+Course: CRTV3C, Description: Adaptive real-time firmware, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001012, Session id: 1000225, Students: 
 
 
-Course: ECON2B, Description: Reduced 24 hour encryption, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001091, Session id: 1000234, Students: 
+Course: ECON2B, Description: Synchronised multi-tasking challenge, minimum students: 5, maximum students: 9
+SESSION | Professor: 1001091, Session id: 1000226, Students: 
 
 
 Course: ECON2A, Description: Multi-channelled value-added monitoring, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001172, Session id: 1000235, Students: 
+SESSION | Professor: 1001172, Session id: 1000227, Students: 
 
 
 Course: CRTV3B, Description: Synchronised mobile methodology, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001242, Session id: 1000236, Students: 
+SESSION | Professor: 1001242, Session id: 1000228, Students: 
 
 
-Course: PHYS3B, Description: Polarised bottom-line database, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001175, Session id: 1000237, Students: 
+Course: PHYS3B, Description: Intuitive composite focus group, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001175, Session id: 1000229, Students: 
 
 
-Course: PHYS3C, Description: Up-sized mobile workforce, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001168, Session id: 1000238, Students: 
+Course: PHYS3C, Description: Diverse demand-driven policy, minimum students: 5, maximum students: 13
+SESSION | Professor: 1001168, Session id: 1000230, Students: 
 
 
-Course: PHYS3D, Description: Optimized non-volatile pricing structure, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001063, Session id: 1000239, Students: 
+Course: PHYS3D, Description: Adaptive discrete methodology, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001063, Session id: 1000231, Students: 
 
 
 Course: LANG2D, Description: De-engineered zero administration utilisation, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001022, Session id: 1000241, Students: 
+SESSION | Professor: 1001022, Session id: 1000233, Students: 
 
 
-Course: ART4C, Description: Distributed multi-tasking pricing structure, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001029, Session id: 1000240, Students: 
+Course: ART4C, Description: Multi-tiered cohesive product, minimum students: 5, maximum students: 17
+SESSION | Professor: 1001029, Session id: 1000232, Students: 
 
 
-Course: ART4D, Description: User-centric demand-driven throughput, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001149, Session id: 1000242, Students: 
+Course: ART4D, Description: Profit-focused foreground functionalities, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001149, Session id: 1000234, Students: 
 
 
-Course: ART4A, Description: Sharable systemic definition, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001512, Session id: 1000243, Students: 
+Course: ART4A, Description: De-engineered responsive solution, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001512, Session id: 1000235, Students: 
 
 
 Course: ART4B, Description: Function-based interactive groupware, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001095, Session id: 1000244, Students: 
+SESSION | Professor: 1001095, Session id: 1000236, Students: 
 
 
-Course: LANG3D, Description: Switchable uniform utilisation, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001085, Session id: 1000245, Students: 
+Course: LANG3D, Description: Re-engineered bottom-line contingency, minimum students: 6, maximum students: 16
+SESSION | Professor: 1001085, Session id: 1000237, Students: 
 
 
-Course: PHYS4A, Description: Up-sized grid-enabled solution, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001066, Session id: 1000246, Students: 
+Course: PHYS4A, Description: Inverse modular leverage, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001066, Session id: 1000238, Students: 
 
 
-Course: CRTV2D, Description: Optional responsive benchmark, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001029, Session id: 1000247, Students: 
+Course: CRTV2D, Description: De-engineered asymmetric Graphic Interface, minimum students: 5, maximum students: 13
+SESSION | Professor: 1001029, Session id: 1000239, Students: 
 
 
-Course: CRTV2C, Description: Future-proofed 3rd generation open system, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001072, Session id: 1000248, Students: 
+Course: CRTV2C, Description: Networked 4th generation Graphical User Interface, minimum students: 7, maximum students: 19
+SESSION | Professor: 1001072, Session id: 1000240, Students: 
 
 
-Course: ACC2C, Description: Adaptive static parallelism, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001097, Session id: 1000249, Students: 
+Course: CRTV2B, Description: Phased system-worthy standardization, minimum students: 5, maximum students: 15
+SESSION | Professor: 1001023, Session id: 1000241, Students: 
 
 
-Course: ACC2B, Description: Digitized hybrid circuit, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001129, Session id: 1000250, Students: 
+Course: ACC2C, Description: Networked 24 hour encoding, minimum students: 5, maximum students: 18
+SESSION | Professor: 1001097, Session id: 1000242, Students: 
 
 
-Course: ACC2A, Description: Upgradable analyzing local area network, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001007, Session id: 1000251, Students: 
+Course: ACC2B, Description: Realigned grid-enabled emulation, minimum students: 5, maximum students: 12
+SESSION | Professor: 1001129, Session id: 1000243, Students: 
 
 
-Course: ASTR1A, Description: Secured optimizing time-frame, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001059, Session id: 1000252, Students: 
+Course: ACC2A, Description: Synergistic human-resource neural-net, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001007, Session id: 1000244, Students: 
 
 
-Course: ASTR1B, Description: Implemented grid-enabled matrices, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001097, Session id: 1000253, Students: 
+Course: ASTR1A, Description: Networked impactful contingency, minimum students: 5, maximum students: 7
+SESSION | Professor: 1001059, Session id: 1000245, Students: 
 
 
-Course: ASTR1D, Description: Cross-group content-based standardization, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001142, Session id: 1000254, Students: 
+Course: ASTR1B, Description: Integrated cohesive moratorium, minimum students: 7, maximum students: 19
+SESSION | Professor: 1001097, Session id: 1000246, Students: 
 
 
-Course: LANG1C, Description: Extended asymmetric Graphic Interface, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001121, Session id: 1000255, Students: 
+Course: ASTR1D, Description: Customer-focused disintermediate conglomeration, minimum students: 7, maximum students: 7
+SESSION | Professor: 1001142, Session id: 1000247, Students: 
 
 
-Course: LANG1D, Description: Face to face directional infrastructure, minimum students: 6, maximum students: 13
-SESSION | Professor: 1001099, Session id: 1000256, Students: 
+Course: LANG1C, Description: Inverse explicit support, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001121, Session id: 1000248, Students: 
 
 
-Course: LANG2A, Description: Inverse needs-based forecast, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001236, Session id: 1000257, Students: 
+Course: LANG2A, Description: Profound well-modulated interface, minimum students: 5, maximum students: 18
+SESSION | Professor: 1001236, Session id: 1000249, Students: 
 
 
 Course: LANG2B, Description: Total static conglomeration, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001162, Session id: 1000258, Students: 
+SESSION | Professor: 1001162, Session id: 1000250, Students: 
 
 
-Course: ECON4A, Description: Horizontal responsive focus group, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001033, Session id: 1000259, Students: 
+Course: ECON4A, Description: Digitized multimedia middleware, minimum students: 7, maximum students: 8
+SESSION | Professor: 1001033, Session id: 1000251, Students: 
 
 
-Course: HIST1A, Description: Cloned mobile throughput, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001001, Session id: 1000260, Students: 
+Course: HIST1A, Description: Digitized fresh-thinking Graphical User Interface, minimum students: 7, maximum students: 10
+SESSION | Professor: 1001001, Session id: 1000252, Students: 
 
 
 Course: ASTR2A, Description: Advanced hybrid moderator, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001222, Session id: 1000261, Students: 
+SESSION | Professor: 1001222, Session id: 1000253, Students: 
 
 
-Course: CRTV1C, Description: Optimized discrete hardware, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001064, Session id: 1000264, Students: 
+Course: HIST1C, Description: Quality-focused dedicated extranet, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001018, Session id: 1000255, Students: 
 
 
-Course: HIST1C, Description: User-friendly tertiary monitoring, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001018, Session id: 1000263, Students: 
+Course: DES4D, Description: De-engineered well-modulated encoding, minimum students: 7, maximum students: 12
+SESSION | Professor: 1001056, Session id: 1000254, Students: 
 
 
-Course: DES4D, Description: Persistent secondary projection, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001056, Session id: 1000262, Students: 
+Course: HIST1D, Description: User-centric full-range hierarchy, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001045, Session id: 1000256, Students: 
 
 
-Course: HIST1D, Description: Cross-platform regional moderator, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001045, Session id: 1000265, Students: 
+Course: ECON4D, Description: Proactive national moderator, minimum students: 6, maximum students: 12
+SESSION | Professor: 1001101, Session id: 1000258, Students: 
 
 
-Course: ECON4D, Description: Decentralized cohesive conglomeration, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001101, Session id: 1000267, Students: 
+Course: DES4B, Description: Optional multimedia array, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001017, Session id: 1000257, Students: 
 
 
-Course: DES4B, Description: Exclusive local infrastructure, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001017, Session id: 1000266, Students: 
+Course: DES4C, Description: Stand-alone well-modulated orchestration, minimum students: 5, maximum students: 20
+SESSION | Professor: 1001243, Session id: 1000260, Students: 
 
 
-Course: DES4C, Description: Customer-focused leading edge productivity, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001243, Session id: 1000269, Students: 
+Course: ECON4C, Description: Secured discrete project, minimum students: 5, maximum students: 10
+SESSION | Professor: 1001014, Session id: 1000259, Students: 
 
 
-Course: ECON4C, Description: Inverse cohesive model, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001014, Session id: 1000268, Students: 
+Course: ACC1B, Description: Business-focused explicit hierarchy, minimum students: 7, maximum students: 10
+SESSION | Professor: 1001088, Session id: 1000261, Students: 
 
 
-Course: ACC1B, Description: Expanded full-range application, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001088, Session id: 1000270, Students: 
+Course: ACC1A, Description: Mandatory well-modulated synergy, minimum students: 6, maximum students: 14
+SESSION | Professor: 1001016, Session id: 1000262, Students: 
 
 
-Course: ACC1A, Description: Down-sized zero administration toolset, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001016, Session id: 1000271, Students: 
-
-
-Course: ACC1D, Description: Optional stable hierarchy, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001423, Session id: 1000272, Students: 
-
-
-Course: ENV4B, Description: De-engineered bi-directional superstructure, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001069, Session id: 1000273, Students: 
+Course: ENV4B, Description: Virtual local system engine, minimum students: 6, maximum students: 17
+SESSION | Professor: 1001069, Session id: 1000263, Students: 
 
 
 Course: ENV4D, Description: Persistent tertiary artificial intelligence, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001015, Session id: 1000274, Students: 
+SESSION | Professor: 1001015, Session id: 1000264, Students: 
 
 
-Course: LANG1A, Description: Mandatory optimizing leverage, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001018, Session id: 1000275, Students: 
+Course: LANG1A, Description: Focused disintermediate instruction set, minimum students: 5, maximum students: 14
+SESSION | Professor: 1001018, Session id: 1000265, Students: 
 
 
-Course: LANG1B, Description: Self-enabling needs-based synergy, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001071, Session id: 1000276, Students: 
+Course: LANG1B, Description: Customer-focused modular definition, minimum students: 7, maximum students: 17
+SESSION | Professor: 1001071, Session id: 1000266, Students: 
 
 
-Course: HIST2A, Description: Ergonomic leading edge knowledge base, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001228, Session id: 1000277, Students: 
+Course: HIST2A, Description: Multi-tiered asymmetric extranet, minimum students: 7, maximum students: 18
+SESSION | Professor: 1001228, Session id: 1000267, Students: 
 
 
 Course: HIST2B, Description: Enhanced 5th generation benchmark, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001086, Session id: 1000278, Students: 
+SESSION | Professor: 1001086, Session id: 1000268, Students: 
 
 
 Course: HIST2C, Description: Extended dynamic access, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001179, Session id: 1000279, Students: 
+SESSION | Professor: 1001179, Session id: 1000269, Students: 
 
 
 Course: HIST2D, Description: Organic mission-critical budgetary management, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001104, Session id: 1000280, Students: 
+SESSION | Professor: 1001104, Session id: 1000270, Students: 
 
 

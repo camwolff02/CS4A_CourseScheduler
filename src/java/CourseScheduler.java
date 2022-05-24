@@ -1,9 +1,6 @@
 package src.java;
 
-import java.util.Stack;
 import java.util.HashMap;
-import java.util.Map.Entry;
-import java.util.AbstractMap.SimpleEntry;
 import java.util.function.BiConsumer;
 
 public class CourseScheduler {
@@ -21,35 +18,20 @@ public class CourseScheduler {
 
     // course scheduling algorithm
     public HashMap<String, Course> scheduleCourses() {
-        var scheduledCourses = (HashMap<String, Course>)courses.clone();
+        //var scheduledCourses = (HashMap<String, Course>)courses.clone();
         
         // number of students in each course
         HashMap<String, Integer> numStudents = new HashMap<>();  
-        Stack<Entry<String, Student>> noSuchCourse = new Stack<>();
 
         // count how many students want each class
         students.forEach((studentId, student) -> {
             student.forEachCourse(id -> {
-                // if the class does not exist, remove it
-                if (!courses.containsKey(id)) 
-                    noSuchCourse.push(new SimpleEntry<>(id, student));
-                else {  // if the class exists, track student count
-                    if (numStudents.containsKey(id))
-                        numStudents.put(id, numStudents.get(id) + 1);
-                    else
-                        numStudents.put(id, 1);
-                }
+                if (numStudents.containsKey(id))
+                    numStudents.put(id, numStudents.get(id) + 1);
+                else
+                    numStudents.put(id, 1);
             });
         });
-
-        // prune courses that do not exist
-        if (!noSuchCourse.empty())
-            System.out.println(noSuchCourse.size()+" nonexistent course(s) removed from students");
-        while (!noSuchCourse.empty()) {
-            var entry = noSuchCourse.pop(); 
-            entry.getValue().removeCourse(entry.getKey());
-        } 
-            
 
         // allocate sessions for students, if there aren't enough students remove course
         numStudents.forEach((courseId, studentCount) -> {

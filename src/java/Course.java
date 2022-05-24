@@ -2,12 +2,13 @@ package src.java;
 
 import java.util.AbstractMap.SimpleEntry;
 import java.util.ArrayList;
-import java.util.function.Consumer;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map.Entry;
 import java.util.Queue;
 import java.util.Stack;
+import java.util.function.Consumer;
+
 
 
 public class Course {

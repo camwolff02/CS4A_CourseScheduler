@@ -1,8 +1,10 @@
 package src.java;
 
-import java.util.function.Consumer;
 import java.sql.Date;
+
 import java.util.HashSet;
+import java.util.function.Consumer;
+
 
 public class Faculty extends Person {
     // class data

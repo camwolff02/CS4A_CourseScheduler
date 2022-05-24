@@ -9,8 +9,6 @@ import java.sql.Statement;      // actual statement to send the sql server
 import java.util.HashMap;
 import java.util.Stack;
 
-import com.mysql.cj.xdevapi.SqlUpdateResult;
-
 public class LoadSQL  {
     private Connection con;
     private String database;
@@ -45,11 +43,52 @@ public class LoadSQL  {
     }
 
     /** loading data for different classes */
-    public HashMap<Integer, Student> loadStudents(HashMap<String, Course> courses) {
+    public HashMap<String, Course> loadCourses() {
+        HashMap<String, Course> courses = new HashMap<>();
+        Statement statement = null;
+        ResultSet result = null;
+        int skippedCourses = 0;
+        
+        try {
+            statement = con.createStatement();
+            result = statement.executeQuery("select * from Courses");
+
+            while (result.next()) {  // while there are still results coming in                
+                Course c = new Course(
+                    result.getString(1),   // department
+                    result.getString(2),   // code
+                    result.getString(3),   // description
+                    result.getInt(4),      // minStudents
+                    result.getInt(5)       // maxStudents
+                );
+
+                // don't insert duplicate courses
+                if (!courses.containsKey(c.getId()))
+                    courses.put(c.getId(), c);
+                else 
+                    ++skippedCourses;
+            }
+        }
+        catch (SQLException e) {
+            System.out.println("FATAL ERROR: course table incorrectly formatted");
+            e.printStackTrace();
+        } finally {
+            try { statement.close(); } catch (Exception e) { /* Ignored */ }
+            try { result.close(); } catch (Exception e) { /* Ignored */ }
+        }
+
+        if (skippedCourses > 0)
+            System.out.println(skippedCourses + " duplicate courses skipped");
+
+        return courses;
+    }
+
+    public HashMap<Integer, Student> loadStudents(final HashMap<String, Course> courses) {
         HashMap<Integer, Student> students = new HashMap<>();
         String name = "ERROR";
         Statement statement = null;
         ResultSet result = null;
+        int coursesRemoved = 0;
         
         try {
             statement = con.createStatement();
@@ -82,6 +121,18 @@ public class LoadSQL  {
                     );
                 }
 
+                Stack<String> noSuchCourse = new Stack<>();
+                s.forEachCourse(course -> {  
+                    if (!courses.containsKey(course)) 
+                        noSuchCourse.push(course);
+                });
+
+                // remove courses that do not exist
+                coursesRemoved += noSuchCourse.size();
+                while (!noSuchCourse.empty()) 
+                    s.removeCourse(noSuchCourse.pop());
+
+
                 students.put(s.getId(), s);
             }
             
@@ -98,10 +149,13 @@ public class LoadSQL  {
             try { statement.close(); } catch (Exception e) { /* Ignored */ }
         }
 
+        if (coursesRemoved > 0)
+            System.out.println(coursesRemoved+" nonexistent course(s) removed from students");
+
         return students;
     }
     
-    public HashMap<Integer, Faculty> loadFaculty(HashMap<String, Course> courses) {
+    public HashMap<Integer, Faculty> loadFaculty(final HashMap<String, Course> courses) {
         HashMap<Integer, Faculty> faculty = new HashMap<>();
         String name = "ERROR";
         int coursesRemoved = 0;
@@ -170,39 +224,6 @@ public class LoadSQL  {
 
         return faculty;
     }
-
-    public HashMap<String, Course> loadCourses() {
-        HashMap<String, Course> courses = new HashMap<>();
-        Statement statement = null;
-        ResultSet result = null;
-        
-        try {
-            statement = con.createStatement();
-            result = statement.executeQuery("select * from Courses");
-
-            while (result.next()) {  // while there are still results coming in                
-                Course c = new Course(
-                    result.getString(1),   // department
-                    result.getString(2),   // code
-                    result.getString(3),   // description
-                    result.getInt(4),      // minStudents
-                    result.getInt(5)       // maxStudents
-                );
-
-                courses.put(c.getId(), c);
-            }
-        }
-        catch (SQLException e) {
-            System.out.println("FATAL ERROR: student table incorrectly formatted");
-            e.printStackTrace();
-        } finally {
-            try { statement.close(); } catch (Exception e) { /* Ignored */ }
-            try { result.close(); } catch (Exception e) { /* Ignored */ }
-        }
-
-        return courses;
-    }
-
 
     public Connection getCon() { return this.con; }
     public void setCon(Connection con) { this.con = con; }

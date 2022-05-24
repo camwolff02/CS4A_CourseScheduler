@@ -3,31 +3,36 @@ package src.java;
 import java.sql.SQLException;
 /* TODO:
 - create a flexible way to change id algorithms for both people and sessions
+- create a flexible way to change course scheduling algorithms
 */
 import java.util.Scanner;
 
 public class Driver {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        
-        // new SchedulerGUI();
+        Scanner in = new Scanner(System.in);        
         LoadSQL loader = null;
+
+        // load database
         do {    
             try {
                 System.out.print("Enter Database name: ");
                 loader = new LoadSQL(in.nextLine());
+                System.out.println("Database loaded successfully");
             } catch (SQLException e) {
                 System.out.println("Error: SQL connection to database unsuccessful");
             }
         } while (loader == null);
         System.out.println();
 
+        // load data from database into scheduler
         CourseScheduler scheduler = new CourseScheduler(loader);  // pass data to scheduler
+        System.out.println("Data loaded successfully\n");
+        
+        // process data in scheduler
         scheduler.scheduleCourses();
         scheduler.printStats();
-        // FileManager fileManager = new FileManager(scheduler.getStudents(), 
-        //                                           scheduler.getFaculty(), 
-        //                                           scheduler.getCourses());
+
+        // generate output files from processing
         FileGenerator fileGenerator = new FileGenerator(scheduler);
         fileGenerator.generateScheduler();
 
