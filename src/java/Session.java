@@ -26,6 +26,11 @@ public class Session {
         students = new Stack<>();
     }
 
+    @Override
+    protected void finalize() {
+        --numSessions;
+    }
+
     public void addStudent(int studentId) {
         students.push(studentId);
     }

@@ -7,11 +7,13 @@ import java.util.AbstractMap.SimpleEntry;
 import java.util.function.BiConsumer;
 
 public class CourseScheduler {
-    HashMap<Integer, Student> students;
-    HashMap<Integer, Faculty> faculty; 
-    HashMap<String, Course> courses;
+    private String database;
+    private HashMap<Integer, Student> students;
+    private HashMap<Integer, Faculty> faculty; 
+    private HashMap<String, Course> courses;
 
     public CourseScheduler(LoadSQL loader) {
+        database = loader.getDatabase();
         courses = loader.loadCourses();
         students = loader.loadStudents(courses);
         faculty = loader.loadFaculty(courses); 
@@ -19,6 +21,8 @@ public class CourseScheduler {
 
     // course scheduling algorithm
     public HashMap<String, Course> scheduleCourses() {
+        var scheduledCourses = (HashMap<String, Course>)courses.clone();
+        
         // number of students in each course
         HashMap<String, Integer> numStudents = new HashMap<>();  
         Stack<Entry<String, Student>> noSuchCourse = new Stack<>();
@@ -40,7 +44,7 @@ public class CourseScheduler {
 
         // prune courses that do not exist
         if (!noSuchCourse.empty())
-            System.out.println("Error: "+noSuchCourse.size()+" nonexistent course(s) removed from students");
+            System.out.println(noSuchCourse.size()+" nonexistent course(s) removed from students");
         while (!noSuchCourse.empty()) {
             var entry = noSuchCourse.pop(); 
             entry.getValue().removeCourse(entry.getKey());
@@ -90,25 +94,40 @@ public class CourseScheduler {
         return courses;
     }
 
+    public void printStats() {
+        System.out.println("______________________________________" +
+                         "\nTotal Students                 | " + Student.getNumStudents() +
+                         "\nTotal Faculty                  | " + Faculty.getNumFaculty() +
+                         "\nTotal Courses                  | " + Course.getNumCourses() + 
+                         "\nTotal Sessions Scheduled       | " +
+                         "\nTotal Courses Unscheduled      | " +
+                         "\nTotal Students With No Classes |");
+    }
+
     @Override
     public String toString() {
         StringBuilder str = new StringBuilder();
-        
+        int headers = 25;
+
+        for (int i = 0; i < headers; ++i) str.append("***STUDENTS");
+        str.append("\n\n\n");
         students.forEach((id, x) -> { str.append(x); }); 
-        str.append("***********************************************************"
-            + "****************************************************************\n");
 
+        str.append("\n\n\n");
+        for (int i = 0; i < headers; ++i) str.append("***FACULTY");
+        str.append("\n\n\n\n\n\n");
         faculty.forEach((id, x) -> { str.append(x); }); 
-        str.append("***********************************************************"
-            + "****************************************************************\n");
 
+        str.append("\n\n\n");
+        for (int i = 0; i < headers; ++i) str.append("***COURSES");
+        str.append("\n\n\n\n\n\n");
         courses.forEach((id, course) -> {
             str.append(course);
         });
 
         return str.toString();
     }   
-    
+
     /** Iterator Methods */
     // iterate over the scheduler's students
     public void forEachStudent(BiConsumer<? super Integer,? super Student> f) {
@@ -124,4 +143,11 @@ public class CourseScheduler {
     public void forEachCourse(BiConsumer<? super String, ? super Course> f) {
         courses.forEach(f);
     }
+
+    /** Getters */
+    public final HashMap<Integer, Student> getStudents() { return students; }
+    public final HashMap<Integer, Faculty> getFaculty() { return faculty; }
+    public final HashMap<String, Course> getCourses() { return courses; }
+
+    public String getDatabase() { return database; }
 }

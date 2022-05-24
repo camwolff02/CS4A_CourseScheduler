@@ -30,6 +30,11 @@ public class Student extends Person implements Iterable<String> {
         ++numStudents;
         registeredCourses = new HashSet<>();
     }
+
+    @Override
+    protected void finalize() {
+        --numStudents;
+    }
     
     public void addCourse(String courseId) {
         registeredCourses.add(courseId);

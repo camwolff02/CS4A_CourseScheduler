@@ -9,6 +9,8 @@ import java.sql.Statement;      // actual statement to send the sql server
 import java.util.HashMap;
 import java.util.Stack;
 
+import com.mysql.cj.xdevapi.SqlUpdateResult;
+
 public class LoadSQL  {
     private Connection con;
     private String database;
@@ -16,11 +18,11 @@ public class LoadSQL  {
     private String username;
     private String password;
     
-    public LoadSQL() {
+    public LoadSQL() throws SQLException {
         this("University");
     }
 
-    public LoadSQL(String database) {
+    public LoadSQL(String database) throws SQLException {
         this.database = database;
         url = "jdbc:mysql://localhost:3306/" + this.database;
         username = "root";
@@ -33,19 +35,25 @@ public class LoadSQL  {
             System.out.println("Error: SQL libraries not imported correctly");
             e.printStackTrace();
         } catch (SQLException e) {
-            System.out.println("Error: SQL connection to database unsuccessful");
-            e.printStackTrace();
+            throw new SQLException();
         }
+    }
+
+    // close all databases on object destruction if databases are open
+    protected void finalize() {
+        try { con.close(); } catch (Exception e) { /* Ignored */ }
     }
 
     /** loading data for different classes */
     public HashMap<Integer, Student> loadStudents(HashMap<String, Course> courses) {
         HashMap<Integer, Student> students = new HashMap<>();
         String name = "ERROR";
+        Statement statement = null;
+        ResultSet result = null;
         
         try {
-            Statement statement = con.createStatement();
-            ResultSet result = statement.executeQuery("select * from Students");
+            statement = con.createStatement();
+            result = statement.executeQuery("select * from Students");
 
             while (result.next()) {  // while there are still results coming in                
                 Student s = new Student(
@@ -84,6 +92,10 @@ public class LoadSQL  {
         }
         catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Warning: Student "+name+" has not enrolled in any classes" );
+        } finally {
+            
+            try { result.close(); } catch (Exception e) { /* Ignored */ }
+            try { statement.close(); } catch (Exception e) { /* Ignored */ }
         }
 
         return students;
@@ -93,10 +105,12 @@ public class LoadSQL  {
         HashMap<Integer, Faculty> faculty = new HashMap<>();
         String name = "ERROR";
         int coursesRemoved = 0;
+        Statement statement = null;
+        ResultSet result = null;
 
         try {
-            Statement statement = con.createStatement();
-            ResultSet result = statement.executeQuery("select * from Faculty");
+            statement = con.createStatement();
+            result = statement.executeQuery("select * from Faculty");
             
             while (result.next()) {  // while there are still results coming in                
                 Faculty f = new Faculty(
@@ -146,20 +160,25 @@ public class LoadSQL  {
         }
         catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Warning: Faculty "+name+" does not teach any classes" );
+        } finally {
+            try { statement.close(); } catch (Exception e) { /* Ignored */ }
+            try { result.close(); } catch (Exception e) { /* Ignored */ }
         }
 
         if (coursesRemoved > 0)
-            System.out.println("Error: "+coursesRemoved+" nonexistent course(s) removed from faculty");
+            System.out.println(coursesRemoved+" nonexistent course(s) removed from faculty");
 
         return faculty;
     }
 
     public HashMap<String, Course> loadCourses() {
         HashMap<String, Course> courses = new HashMap<>();
+        Statement statement = null;
+        ResultSet result = null;
         
         try {
-            Statement statement = con.createStatement();
-            ResultSet result = statement.executeQuery("select * from Courses");
+            statement = con.createStatement();
+            result = statement.executeQuery("select * from Courses");
 
             while (result.next()) {  // while there are still results coming in                
                 Course c = new Course(
@@ -176,6 +195,9 @@ public class LoadSQL  {
         catch (SQLException e) {
             System.out.println("FATAL ERROR: student table incorrectly formatted");
             e.printStackTrace();
+        } finally {
+            try { statement.close(); } catch (Exception e) { /* Ignored */ }
+            try { result.close(); } catch (Exception e) { /* Ignored */ }
         }
 
         return courses;

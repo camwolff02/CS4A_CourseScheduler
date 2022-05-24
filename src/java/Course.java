@@ -57,12 +57,17 @@ public class Course {
     }
 
     @Override
+    protected void finalize() {
+        --numCourses;
+    }
+
+    @Override
     public String toString() {
         StringBuilder str = new StringBuilder();
         str.append(String.format("Course: %s, Description: %s, minimum students: %d, maximum students: %d%n",
                         id, description, sessionMinStudents, sessionMaxStudents));
         
-        if (sessions.empty()) str.append("ERROR: COURSE NO SESSIONS");
+        if (sessions.empty()) str.append("NO SESSIONS SCHEDULED");
         sessions.forEach(sPair -> {
             str.append(sPair.getValue().toString() + "\n");
         });

@@ -28,6 +28,11 @@ public class Faculty extends Person {
     }
 
     @Override
+    protected void finalize() {
+        --numFaculty;
+    }
+
+    @Override
     public String toString() {
         StringBuilder str = new StringBuilder();
         str.append(String.format("hire date: %s, is tenured? %b, taught courses:%n",
