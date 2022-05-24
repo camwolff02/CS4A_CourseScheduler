@@ -1,5 +1,7 @@
 package src.java;
 
+import java.util.Stack;
+
 // if there are not enough students to fill a session, that session is cancelled
 public class Session {
     // class data
@@ -8,23 +10,44 @@ public class Session {
 
     // for user to access
     private int id;  // unique session id
+    private Stack<Integer> students;  // set of all students in this course
 
     // for user to modify
     private int numStudents;  // number of students in this session
-    private String profFirstName;
-    private String profLastName;
+    private int profId;  // ID of professor teaching session
 
-    public Session(String profFirstName, String profLastName) {
-        this.profFirstName = profFirstName;
-        this.profLastName = profLastName;
+
+    public Session(int profId) {
+        this.profId = profId;
         numStudents = 0;
         ++numSessions;
 
         id = generateNextId(id);
+        students = new Stack<>();
+    }
+
+    public void addStudent(int studentId) {
+        students.push(studentId);
+    }
+
+    public Integer removeStudent() {
+        return students.pop();
     }
 
     private static int generateNextId(int id) {
         return currId++;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder str = new StringBuilder();
+
+        str.append("SESSION | Professor: "+ profId +", Session id: "+id+", Students: ");
+        students.forEach(studentId -> {
+            str.append(studentId + " ");
+        });
+
+        return str.toString();
     }
 
     /** Getters and Setters */
@@ -34,10 +57,8 @@ public class Session {
 
     public int getNumStudents() { return this.numStudents; }
 
-    public String getProfFirstName() { return this.profFirstName; }
-    public void setProfFirstName(String profFirstName) { this.profFirstName = profFirstName; }
+    public int getProfId() { return this.profId; }
+    public void setProfId(int profId) { this.profId = profId; }
 
-    public String getProfLastName() { return this.profLastName; }
-    public void setProfLastName(String profLastName) { this.profLastName = profLastName; }
 
 }

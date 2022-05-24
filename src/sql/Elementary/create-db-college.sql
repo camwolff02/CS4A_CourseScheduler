@@ -1,5 +1,5 @@
-CREATE DATABASE University;
-USE University;
+CREATE DATABASE Elementary;
+USE Elementary;
 
 DROP TABLE Courses;
 DROP TABLE Faculty;

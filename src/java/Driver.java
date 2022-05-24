@@ -1,16 +1,16 @@
 package src.java;
 
 /* TODO:
-- import data to classes
 - create a flexible way to change id algorithms for both people and sessions
 */
 
 public class Driver {
     public static void main(String[] args) {
+        // new SchedulerGUI();
         LoadSQL loader = new LoadSQL("College");  // load data
         CourseScheduler scheduler = new CourseScheduler(loader);  // pass data to scheduler
-        //System.out.println(scheduler);
         scheduler.scheduleCourses();
+        System.out.println(scheduler);
     }
 }
 

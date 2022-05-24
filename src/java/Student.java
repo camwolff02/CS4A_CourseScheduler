@@ -1,8 +1,8 @@
 package src.java;
 
+import java.util.function.Consumer;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.function.*;
 
 import java.sql.Date;
 
@@ -33,6 +33,10 @@ public class Student extends Person implements Iterable<String> {
     
     public void addCourse(String courseId) {
         registeredCourses.add(courseId);
+    }
+
+    public void removeCourse(String courseId) {
+        registeredCourses.remove(courseId);
     }
 
     // iterate over a student's courses

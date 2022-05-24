@@ -1,13 +1,13 @@
 package src.java;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-
 import java.sql.Connection;     // connects you to the database
 import java.sql.DriverManager;  // converts the database
 import java.sql.ResultSet;      // resulf off a query
 import java.sql.SQLException;   // for error throws
 import java.sql.Statement;      // actual statement to send the sql server
+
+import java.util.HashMap;
+import java.util.Stack;
 
 public class LoadSQL  {
     private Connection con;
@@ -39,8 +39,9 @@ public class LoadSQL  {
     }
 
     /** loading data for different classes */
-    public ArrayList<Student> loadStudents() {
-        ArrayList<Student> students = new ArrayList<>();
+    public HashMap<Integer, Student> loadStudents(HashMap<String, Course> courses) {
+        HashMap<Integer, Student> students = new HashMap<>();
+        String name = "ERROR";
         
         try {
             Statement statement = con.createStatement();
@@ -61,7 +62,8 @@ public class LoadSQL  {
                     result.getDate(11),    // startDate
                     result.getFloat(12)    // gpa
                 );
-                
+
+                name = s.getName();  // for error message
                 var courseStr = result.getString(13);
                 for (var str : courseStr.substring(1, courseStr.lastIndexOf('}') + 1).split("\"}")) {
                     s.addCourse(
@@ -72,7 +74,7 @@ public class LoadSQL  {
                     );
                 }
 
-                students.add(s);
+                students.put(s.getId(), s);
             }
             
         }
@@ -81,20 +83,21 @@ public class LoadSQL  {
             e.printStackTrace();
         }
         catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Warning: Student " + students.get(students.size() - 1).getName() +
-                " has not enrolled in any classes" );
+            System.out.println("Warning: Student "+name+" has not enrolled in any classes" );
         }
 
         return students;
     }
     
-    public ArrayList<Faculty> loadFaculty() {
-        ArrayList<Faculty> faculty = new ArrayList<>();
-        
+    public HashMap<Integer, Faculty> loadFaculty(HashMap<String, Course> courses) {
+        HashMap<Integer, Faculty> faculty = new HashMap<>();
+        String name = "ERROR";
+        int coursesRemoved = 0;
+
         try {
             Statement statement = con.createStatement();
             ResultSet result = statement.executeQuery("select * from Faculty");
-
+            
             while (result.next()) {  // while there are still results coming in                
                 Faculty f = new Faculty(
                     result.getString(1),   // firstName
@@ -110,6 +113,7 @@ public class LoadSQL  {
                     result.getBoolean(11)  // isTenured
                 );
 
+                name = f.getName();  // for error message
                 var courseStr = result.getString(12);
                 for (var str : courseStr.substring(1, courseStr.lastIndexOf('}') + 1).split("\"}")) {
                     f.addCourse(
@@ -120,7 +124,20 @@ public class LoadSQL  {
                     );
                 }
 
-                faculty.add(f);
+                Stack<String> noSuchCourse = new Stack<>();
+                f.forEachCourse(course -> {  // track which courses professor teaches
+                    if (courses.containsKey(course)) 
+                        courses.get(course).addFaculty(f.getId());
+                    else 
+                        noSuchCourse.push(course);
+                });
+
+                // remove courses that do not exist
+                coursesRemoved += noSuchCourse.size();
+                while (!noSuchCourse.empty()) 
+                    f.removeCourse(noSuchCourse.pop());
+
+                faculty.put(f.getId(), f);  // add professor to list of faculty
             }
         }
         catch (SQLException e) {
@@ -128,9 +145,11 @@ public class LoadSQL  {
             e.printStackTrace();
         }
         catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Warning: Faculty " + faculty.get(faculty.size() - 1).getName() +
-                " does not teach any classes" );
+            System.out.println("Warning: Faculty "+name+" does not teach any classes" );
         }
+
+        if (coursesRemoved > 0)
+            System.out.println("Error: "+coursesRemoved+" nonexistent course(s) removed from faculty");
 
         return faculty;
     }

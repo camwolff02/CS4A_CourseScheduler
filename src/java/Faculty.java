@@ -1,7 +1,8 @@
 package src.java;
 
-import java.util.ArrayList;
+import java.util.function.Consumer;
 import java.sql.Date;
+import java.util.HashSet;
 
 public class Faculty extends Person {
     // class data
@@ -12,7 +13,7 @@ public class Faculty extends Person {
     private Date hireDate;
     private boolean isTenured;
 
-    private ArrayList<String> taughtCourses;
+    private HashSet<String> taughtCourses;
 
     public Faculty(String firstName, String middleName, String lastName, String email,
         String telephone, String street, String city, String state, int zip,
@@ -23,7 +24,7 @@ public class Faculty extends Person {
         this.isTenured = isTenured;
 
         ++numFaculty;
-        taughtCourses = new ArrayList<>();
+        taughtCourses = new HashSet<>();
     }
 
     @Override
@@ -41,6 +42,15 @@ public class Faculty extends Person {
 
     public void addCourse(String courseId) {
         taughtCourses.add(courseId);
+    }
+
+    public void removeCourse(String courseId) {
+        taughtCourses.remove(courseId);
+    }
+
+    // iterate over a student's courses
+    public void forEachCourse(Consumer<? super String> f) {
+        taughtCourses.forEach(f);
     }
 
     /** Getters and Setters */
