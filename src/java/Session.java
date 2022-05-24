@@ -28,6 +28,8 @@ public class Session {
     }
 
     /** Getters and Setters */
+    public static int getNumSessions() { return numSessions; }
+
     public int getId() { return this.id; }
 
     public int getNumStudents() { return this.numStudents; }

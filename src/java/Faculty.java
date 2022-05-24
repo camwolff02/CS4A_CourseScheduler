@@ -46,6 +46,9 @@ public class Faculty extends Person {
     /** Getters and Setters */
     public static int getNumFaculty() { return numFaculty; }
 
+    public static int getMaxCourses() { return maxCourses; }
+    public static void setMaxCourses(int maxCourses) { Faculty.maxCourses = maxCourses; }
+
     public Date getHireDate() { return this.hireDate; }
     public void setHireDate(Date hireDate) { this.hireDate = hireDate; }
    

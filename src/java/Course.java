@@ -46,6 +46,8 @@ public class Course {
     }
 
     /** Getters and Setters */
+    public static int getNumCourses() { return numCourses; }
+
     public int getTotalStudents() { return this.totalStudents; }
 
     public String getId() { return this.id; }

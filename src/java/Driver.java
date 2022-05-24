@@ -1,8 +1,5 @@
 package src.java;
 
-import java.util.ArrayList;
-import java.sql.Date;
-
 /* TODO:
 - import data to classes
 - create a flexible way to change id algorithms for both people and sessions
