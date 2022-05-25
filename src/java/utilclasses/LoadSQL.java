@@ -1,4 +1,4 @@
-package src.java;
+package src.java.utilclasses;
 
 import java.sql.Connection;     // connects you to the database
 import java.sql.DriverManager;  // converts the database
@@ -8,6 +8,10 @@ import java.sql.Statement;      // actual statement to send the sql server
 
 import java.util.HashMap;
 import java.util.Stack;
+
+import src.java.dataclasses.Course;
+import src.java.dataclasses.Faculty;
+import src.java.dataclasses.Student;
 
 public class LoadSQL  {
     private Connection con;

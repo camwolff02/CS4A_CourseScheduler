@@ -1,10 +1,14 @@
-package src.java;
+package src.java.utilclasses;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
 import java.util.HashMap;
+
+import src.java.dataclasses.Course;
+import src.java.dataclasses.Faculty;
+import src.java.dataclasses.Student;
 
 public class FileGenerator {
     private String path;

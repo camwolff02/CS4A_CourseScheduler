@@ -1,4 +1,4 @@
-package src.java;
+package src.java.dataclasses;
 
 abstract class Person {
     // class data

@@ -7,6 +7,10 @@ import java.sql.SQLException;
 */
 import java.util.Scanner;
 
+import src.java.utilclasses.CourseScheduler;
+import src.java.utilclasses.FileGenerator;
+import src.java.utilclasses.LoadSQL;
+
 public class Driver {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);        

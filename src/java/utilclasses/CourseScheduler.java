@@ -1,7 +1,11 @@
-package src.java;
+package src.java.utilclasses;
 
 import java.util.HashMap;
 import java.util.function.BiConsumer;
+
+import src.java.dataclasses.Course;
+import src.java.dataclasses.Faculty;
+import src.java.dataclasses.Student;
 
 public class CourseScheduler {
     private String database;

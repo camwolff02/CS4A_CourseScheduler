@@ -1,4 +1,4 @@
-package src.java;
+package src.java.utilclasses;
 
 import java.awt.*;
 import java.awt.event.*;
