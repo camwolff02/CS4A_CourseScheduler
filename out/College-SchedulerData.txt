@@ -6020,1092 +6020,1491 @@ PHYS2C	NUR4B	ANTH1A	HIST1D	CIS3C
 
 
 Course: PSYC1B, Description: Fully-configurable encompassing hierarchy, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001010, Session id: 1000000, Students: 
-
+SESSION | Professor: 1001010, Session id: 1000000, Students: 1000031	1000040	1000245	1000459	1000666	1000769	1000848	
+WAITLIST: empty
 
 Course: PSYC1C, Description: Vision-oriented coherent solution, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001140, Session id: 1000001, Students: 
+SESSION | Professor: 1001140, Session id: 1000001, Students: 1000120	1000263	1000378	1000458	1000573	1000813	1000946	
+WAITLIST: empty
 
+Course: ANTH1D, Description: Integrated cohesive time-frame, minimum students: 7, maximum students: 14
+NO SESSIONS SCHEDULED
+WAITLIST: 1000036    1000267    1000365    1000623    1000610    1000867    
 
 Course: ENV3A, Description: Grass-roots holistic utilisation, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001113, Session id: 1000003, Students: 
-
+SESSION | Professor: 1001113, Session id: 1000003, Students: 1000123	1000391	1000410	1000597	1000688	1000714	1000774	1000967	
+WAITLIST: empty
 
 Course: EECS4D, Description: Vision-oriented 24 hour throughput, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001208, Session id: 1000002, Students: 
-
+SESSION | Professor: 1001208, Session id: 1000002, Students: 1000039	1000235	1000257	1000337	1000500	1000616	1000625	1000797	1000818	1000873	1000911	1000929	
+WAITLIST: empty
 
 Course: ENV3C, Description: Networked full-range budgetary management, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001049, Session id: 1000005, Students: 
-
+SESSION | Professor: 1001049, Session id: 1000005, Students: 1000152	1000183	1000258	1000306	1000517	1000537	1000608	
+SESSION | Professor: 1001277, Session id: 1000006, Students: 1000643	1000875	1000888	1000886	1000953	
+WAITLIST: empty
 
 Course: ANTH1A, Description: Persistent static Graphical User Interface, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001057, Session id: 1000006, Students: 
-
+SESSION | Professor: 1001057, Session id: 1000007, Students: 1000148	1000262	1000392	1000492	1000541	1000671	1000838	1000875	1000952	1000967	1000984	
+WAITLIST: empty
 
 Course: CIS3D, Description: Team-oriented next generation migration, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001148, Session id: 1000004, Students: 
-
+SESSION | Professor: 1001148, Session id: 1000004, Students: 1000039	1000068	1000324	1000446	1000539	1000724	1000824	1000861	
+WAITLIST: empty
 
 Course: ART1D, Description: De-engineered responsive approach, minimum students: 7, maximum students: 9
 NO SESSIONS SCHEDULED
+WAITLIST: empty
 
 Course: ENV3B, Description: Polarised leading edge ability, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001008, Session id: 1000007, Students: 
-
+SESSION | Professor: 1001008, Session id: 1000008, Students: 1000124	1000190	1000197	1000364	1000374	1000535	1000722	
+WAITLIST: empty
 
 Course: CIS3B, Description: Secured full-range workforce, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001025, Session id: 1000009, Students: 
+SESSION | Professor: 1001025, Session id: 1000010, Students: 1000172	1000204	1000314	1000355	1000437	1000697	1000712	1000770	1000793	
+WAITLIST: empty
 
+Course: ART1B, Description: Switchable holistic middleware, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000048    1000103    1000634    1000629    1000821    1000939    
 
 Course: ANTH1C, Description: Profound motivating Graphical User Interface, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001233, Session id: 1000008, Students: 
-
+SESSION | Professor: 1001233, Session id: 1000009, Students: 1000031	1000301	1000288	1000362	1000508	1000608	1000657	1000850	1000950	
+WAITLIST: empty
 
 Course: ANTH1B, Description: Centralized radical initiative, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001069, Session id: 1000010, Students: 
-
+SESSION | Professor: 1001069, Session id: 1000011, Students: 1000096	1000232	1000524	1000571	1000714	1000728	1000803	
+WAITLIST: empty
 
 Course: ENV3D, Description: Open-architected needs-based implementation, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001166, Session id: 1000012, Students: 
+SESSION | Professor: 1001166, Session id: 1000013, Students: 1000201	1000215	1000254	1000416	1000585	1000622	1000951	
+WAITLIST: empty
 
+Course: CIS3C, Description: Realigned maximized software, minimum students: 7, maximum students: 14
+NO SESSIONS SCHEDULED
+WAITLIST: 1000063    1000139    1000174    1000245    1000338    1000377    
 
 Course: ART1C, Description: Multi-tiered incremental success, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001031, Session id: 1000011, Students: 
+SESSION | Professor: 1001031, Session id: 1000012, Students: 1000123	1000251	1000599	1000796	1000877	1000913	
+WAITLIST: empty
 
+Course: MATH1A, Description: User-centric intangible archive, minimum students: 7, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000243    1000342    1000902    1000939    
+
+Course: HIST3A, Description: Integrated reciprocal focus group, minimum students: 7, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000087    1000166    1000227    1000700    1000748    1000913    
+
+Course: HIST3B, Description: Quality-focused intermediate moratorium, minimum students: 6, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000207    1000527    1000572    
 
 Course: MATH1B, Description: Function-based high-level secured line, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001024, Session id: 1000013, Students: 
-
+SESSION | Professor: 1001024, Session id: 1000014, Students: 1000048	1000095	1000134	1000286	1000656	1000711	1000805	1000883	1000952	1000984	
+WAITLIST: empty
 
 Course: MATH1C, Description: Enterprise-wide full-range budgetary management, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001074, Session id: 1000014, Students: 
-
+SESSION | Professor: 1001074, Session id: 1000015, Students: 1000104	1000158	1000584	1000614	1000720	1000752	1000819	1000852	1000960	
+WAITLIST: empty
 
 Course: DES2D, Description: Object-based systemic structure, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001030, Session id: 1000016, Students: 
-
+SESSION | Professor: 1001030, Session id: 1000017, Students: 1000380	1000443	1000512	1000555	1000830	1000835	
+WAITLIST: empty
 
 Course: HIST3C, Description: Organized object-oriented knowledge base, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001017, Session id: 1000015, Students: 
-
+SESSION | Professor: 1001017, Session id: 1000016, Students: 1000167	1000161	1000297	1000396	1000413	1000432	1000461	1000457	1000546	1000613	1000719	1000858	
+WAITLIST: empty
 
 Course: MATH1D, Description: Inverse web-enabled success, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001113, Session id: 1000017, Students: 
-
+SESSION | Professor: 1001113, Session id: 1000018, Students: 1000012	1000027	1000111	1000424	1000663	1000908	
+WAITLIST: empty
 
 Course: HIST3D, Description: Decentralized encompassing capacity, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001218, Session id: 1000018, Students: 
-
+SESSION | Professor: 1001218, Session id: 1000019, Students: 1000045	1000064	1000357	1000528	1000749	1000754	1000817	
+WAITLIST: empty
 
 Course: DES2B, Description: Triple-buffered even-keeled synergy, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001031, Session id: 1000019, Students: 
-
+SESSION | Professor: 1001031, Session id: 1000020, Students: 1000012	1000109	1000159	1000200	1000219	1000237	1000481	1000505	1000547	1000644	1000706	1000727	1000763	1000851	1000902	
+WAITLIST: empty
 
 Course: DES2C, Description: Up-sized next generation task-force, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001249, Session id: 1000020, Students: 
+SESSION | Professor: 1001249, Session id: 1000021, Students: 1000071	1000257	1000345	1000477	1000473	1000499	1000745	
+SESSION | Professor: 1001481, Session id: 1000022, Students: 1000917	
+WAITLIST: empty
 
+Course: DES4A, Description: Optimized impactful product, minimum students: 5, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000042    1000136    1000307    1000897    
 
 Course: HIST4A, Description: Robust modular flexibility, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001094, Session id: 1000021, Students: 
-
+SESSION | Professor: 1001094, Session id: 1000023, Students: 1000053	1000121	1000384	1000488	1000483	1000607	1000725	
+WAITLIST: empty
 
 Course: CIS4A, Description: Seamless well-modulated synergy, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001185, Session id: 1000022, Students: 
-
+SESSION | Professor: 1001185, Session id: 1000024, Students: 1000057	1000072	1000068	1000109	1000211	1000258	1000319	1000333	1000341	1000356	1000890	1000940	1000989	
+WAITLIST: empty
 
 Course: CIS4B, Description: Mandatory 24/7 focus group, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001021, Session id: 1000023, Students: 
+SESSION | Professor: 1001021, Session id: 1000025, Students: 1000171	1000187	1000524	1000520	1000584	1000671	1000711	1000863	1000954	1000949	1000944	1000994	
+WAITLIST: empty
 
+Course: EECS3C, Description: Focused eco-centric budgetary management, minimum students: 7, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000438    1000829    1000930    1000985    
 
 Course: EECS3D, Description: Balanced 5th generation utilisation, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001273, Session id: 1000024, Students: 
+SESSION | Professor: 1001273, Session id: 1000026, Students: 1000005	1000022	1000095	1000349	1000347	1000451	1000866	1000996	
+WAITLIST: empty
 
+Course: ENV2B, Description: Persistent stable definition, minimum students: 6, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000004    1000290    1000764    1000912    1000990    
 
 Course: ANTH2A, Description: Devolved zero defect support, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001022, Session id: 1000026, Students: 
-
+SESSION | Professor: 1001022, Session id: 1000028, Students: 1000319	1000401	1000587	1000734	1000739	1000859	1000957	1000993	
+WAITLIST: empty
 
 Course: ENV2A, Description: Total 3rd generation support, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001005, Session id: 1000025, Students: 
-
+SESSION | Professor: 1001005, Session id: 1000027, Students: 1000201	1000255	1000275	1000349	1000356	1000881	1000920	
+WAITLIST: empty
 
 Course: ANTH2D, Description: Customer-focused discrete knowledge base, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001079, Session id: 1000027, Students: 
-
+SESSION | Professor: 1001079, Session id: 1000029, Students: 1000059	1000084	1000202	1000397	1000495	1000542	1000838	
+WAITLIST: empty
 
 Course: CIS4C, Description: Implemented user-facing capability, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001296, Session id: 1000029, Students: 
-
+SESSION | Professor: 1001296, Session id: 1000031, Students: 1000134	1000201	1000657	1000674	1000702	1000720	1000753	1000866	1000914	
+WAITLIST: empty
 
 Course: ENV2D, Description: Optimized mission-critical interface, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001126, Session id: 1000028, Students: 
+SESSION | Professor: 1001126, Session id: 1000030, Students: 1000122	1000466	1000485	1000744	1000768	1000822	1000904	
+WAITLIST: empty
 
+Course: CIS4D, Description: Networked background intranet, minimum students: 5, maximum students: 15
+NO SESSIONS SCHEDULED
+WAITLIST: 1000267    1000300    1000374    1000478    
 
 Course: ENV2C, Description: Synchronised national project, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001072, Session id: 1000030, Students: 
+SESSION | Professor: 1001072, Session id: 1000032, Students: 1000075	1000115	1000148	1000168	1000398	1000620	1000658	1000673	1000746	
+WAITLIST: empty
 
+Course: ENV1D, Description: Versatile even-keeled interface, minimum students: 6, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000080    1000149    1000309    1000685    1000738    
 
 Course: EECS4B, Description: Realigned background capacity, minimum students: 7, maximum students: 16
-SESSION | Professor: 1001069, Session id: 1000031, Students: 
+SESSION | Professor: 1001069, Session id: 1000033, Students: 1000235	1000506	1000575	1000700	1000771	1000861	1000907	1000942	1000953	
+WAITLIST: empty
 
+Course: EECS4C, Description: Multi-channelled didactic circuit, minimum students: 5, maximum students: 15
+NO SESSIONS SCHEDULED
+WAITLIST: 1000161    1000850    
+
+Course: HIST4B, Description: De-engineered dedicated system engine, minimum students: 6, maximum students: 14
+NO SESSIONS SCHEDULED
+WAITLIST: 1000194    1000281    1000490    1000595    
 
 Course: HIST4C, Description: Right-sized leading edge adapter, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001051, Session id: 1000032, Students: 
-
+SESSION | Professor: 1001051, Session id: 1000034, Students: 1000196	1000192	1000249	1000536	1000554	1000614	
+WAITLIST: empty
 
 Course: HIST4D, Description: Cross-platform asymmetric access, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001383, Session id: 1000033, Students: 
-
+SESSION | Professor: 1001383, Session id: 1000035, Students: 1000095	1000091	1000256	1000376	1000372	1000401	1000421	1000506	1000613	1000827	1000934	1000966	
+WAITLIST: empty
 
 Course: ENG4A, Description: Pre-emptive holistic knowledge base, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001099, Session id: 1000034, Students: 
-
+SESSION | Professor: 1001099, Session id: 1000036, Students: 1000265	1000519	1000539	1000729	1000811	1000845	1000958	1000957	
+WAITLIST: empty
 
 Course: DES3C, Description: Virtual hybrid implementation, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001244, Session id: 1000035, Students: 
-
+SESSION | Professor: 1001244, Session id: 1000037, Students: 1000040	1000183	1000387	1000459	1000644	1000642	1000781	1000903	1000938	
+WAITLIST: empty
 
 Course: ENG4C, Description: Vision-oriented homogeneous encoding, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001330, Session id: 1000036, Students: 
-
+SESSION | Professor: 1001330, Session id: 1000038, Students: 1000017	1000267	1000502	1000541	1000616	1000806	1000951	1000993	
+WAITLIST: empty
 
 Course: DES3D, Description: Innovative uniform project, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001041, Session id: 1000037, Students: 
+SESSION | Professor: 1001041, Session id: 1000039, Students: 1000055	1000218	1000318	1000456	1000708	
+WAITLIST: empty
 
+Course: ENG4D, Description: Switchable regional data-warehouse, minimum students: 6, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000007    1000146    1000404    1000775    1000928    
 
 Course: DES3B, Description: Multi-layered neutral open system, minimum students: 6, maximum students: 13
-SESSION | Professor: 1001079, Session id: 1000038, Students: 
-
+SESSION | Professor: 1001079, Session id: 1000040, Students: 1000027	1000231	1000282	1000309	1000497	1000603	
+WAITLIST: empty
 
 Course: PSYC3D, Description: Multi-lateral local array, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001358, Session id: 1000040, Students: 
-
+SESSION | Professor: 1001358, Session id: 1000042, Students: 1000106	1000346	1000459	1000588	1000593	1000959	
+WAITLIST: empty
 
 Course: PHYS2D, Description: Public-key demand-driven time-frame, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001093, Session id: 1000039, Students: 
-
+SESSION | Professor: 1001093, Session id: 1000041, Students: 1000028	1000019	1000106	1000313	1000407	1000457	1000578	1000816	
+WAITLIST: empty
 
 Course: PSYC3B, Description: Grass-roots zero tolerance synergy, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001284, Session id: 1000041, Students: 
-
+SESSION | Professor: 1001284, Session id: 1000043, Students: 1000189	1000296	1000622	1000684	1000806	1000875	1000908	1000974	
+WAITLIST: empty
 
 Course: PSYC3C, Description: Monitored scalable budgetary management, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001075, Session id: 1000042, Students: 
-
+SESSION | Professor: 1001075, Session id: 1000044, Students: 1000024	1000220	1000836	1000955	1000980	
+WAITLIST: empty
 
 Course: PHYS2A, Description: Seamless reciprocal algorithm, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001100, Session id: 1000043, Students: 
+SESSION | Professor: 1001100, Session id: 1000045, Students: 1000011	1000147	1000222	1000262	1000337	1000468	1000488	1000903	1000977	
+WAITLIST: empty
 
+Course: PSYC3A, Description: Polarised systemic implementation, minimum students: 5, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000311    1000970    
 
 Course: PHYS2B, Description: Front-line human-resource framework, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001210, Session id: 1000044, Students: 
-
+SESSION | Professor: 1001210, Session id: 1000046, Students: 1000060	1000097	1000175	1000755	1000932	1000964	1000982	
+WAITLIST: empty
 
 Course: PHYS2C, Description: Multi-channelled 24 hour infrastructure, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001011, Session id: 1000045, Students: 
-
+SESSION | Professor: 1001011, Session id: 1000047, Students: 1000019	1000360	1000505	1000497	1000530	1000659	1000758	1000865	1000900	1000942	
+WAITLIST: empty
 
 Course: ART3B, Description: Implemented regional superstructure, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001004, Session id: 1000046, Students: 
-
+SESSION | Professor: 1001004, Session id: 1000048, Students: 1000039	1000145	1000220	1000578	1000611	1000657	1000708	1000843	1000832	1000933	
+WAITLIST: empty
 
 Course: ART3C, Description: Balanced 4th generation approach, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001002, Session id: 1000047, Students: 
-
+SESSION | Professor: 1001002, Session id: 1000049, Students: 1000079	1000101	1000355	1000498	1000670	1000792	1000969	1000976	
+WAITLIST: empty
 
 Course: ART3A, Description: De-engineered zero defect contingency, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001086, Session id: 1000048, Students: 
-
+SESSION | Professor: 1001086, Session id: 1000050, Students: 1000098	1000316	1000538	1000712	1000922	1000936	1000932	1000981	
+WAITLIST: empty
 
 Course: CIS1B, Description: Open-source optimal initiative, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001080, Session id: 1000049, Students: 
-
+SESSION | Professor: 1001080, Session id: 1000051, Students: 1000025	1000066	1000241	1000434	1000633	1000672	1000983	
+WAITLIST: empty
 
 Course: ENV1A, Description: Multi-tiered impactful intranet, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001017, Session id: 1000050, Students: 
+SESSION | Professor: 1001017, Session id: 1000052, Students: 1000187	1000368	1000446	1000500	1000640	1000995	
+WAITLIST: empty
 
+Course: CIS1C, Description: Vision-oriented tangible utilisation, minimum students: 5, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000112    1000131    1000303    1000484    
+
+Course: ENV1C, Description: Re-contextualized bi-directional info-mediaries, minimum students: 6, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000364    1000400    1000632    
 
 Course: ART3D, Description: Ergonomic multi-state groupware, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001142, Session id: 1000051, Students: 
-
+SESSION | Professor: 1001142, Session id: 1000053, Students: 1000066	1000086	1000099	1000151	1000204	1000228	1000416	1000485	1000520	
+WAITLIST: empty
 
 Course: CIS1A, Description: Advanced well-modulated throughput, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001156, Session id: 1000052, Students: 
-
+SESSION | Professor: 1001156, Session id: 1000054, Students: 1000191	1000408	1000420	1000419	1000486	1000501	1000571	
+SESSION | Professor: 1001275, Session id: 1000055, Students: 1000568	1000636	1000702	1000692	1000828	1000825	1000993	
+WAITLIST: empty
 
 Course: ENV1B, Description: Proactive client-server product, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001041, Session id: 1000053, Students: 
-
+SESSION | Professor: 1001041, Session id: 1000056, Students: 1000524	1000537	1000687	1000778	1000787	1000833	1000901	
+SESSION | Professor: 1001044, Session id: 1000057, Students: 1000975	
+WAITLIST: empty
 
 Course: MATH3A, Description: Progressive optimizing concept, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001250, Session id: 1000054, Students: 
+SESSION | Professor: 1001250, Session id: 1000058, Students: 1000234	1000292	1000347	1000389	1000605	1000748	1000872	
+WAITLIST: empty
 
+Course: MATH3B, Description: Face to face well-modulated capability, minimum students: 6, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000037    1000083    1000324    1000462    1000961    
 
 Course: MATH3C, Description: Balanced bottom-line database, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001139, Session id: 1000055, Students: 
-
+SESSION | Professor: 1001139, Session id: 1000059, Students: 1000188	1000243	1000268	1000323	1000476	1000506	1000499	1000573	1000678	1000963	
+WAITLIST: empty
 
 Course: MATH3D, Description: Cloned full-range service-desk, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001094, Session id: 1000056, Students: 
-
+SESSION | Professor: 1001094, Session id: 1000060, Students: 1000647	1000714	1000743	1000770	1000794	1000836	
+WAITLIST: empty
 
 Course: ENG3A, Description: Pre-emptive context-sensitive utilisation, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001083, Session id: 1000057, Students: 
-
+SESSION | Professor: 1001083, Session id: 1000061, Students: 1000073	1000070	1000380	1000390	1000414	1000411	1000618	
+SESSION | Professor: 1001507, Session id: 1000062, Students: 1000612	1000780	1000902	
+WAITLIST: empty
 
 Course: ENG3B, Description: Digitized hybrid matrices, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001013, Session id: 1000058, Students: 
+SESSION | Professor: 1001013, Session id: 1000063, Students: 1000110	1000176	1000267	1000404	1000520	1000639	1000681	1000748	1000760	1000794	1000852	1000884	
+WAITLIST: empty
 
+Course: ENG3D, Description: Right-sized leading edge local area network, minimum students: 6, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000040    1000407    1000704    1000840    1000947    
 
 Course: PSYC2C, Description: Synergistic multimedia customer loyalty, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001149, Session id: 1000059, Students: 
+SESSION | Professor: 1001149, Session id: 1000064, Students: 1000104	1000129	1000237	1000298	1000320	1000341	1000480	
+SESSION | Professor: 1001189, Session id: 1000065, Students: 1000587	1000731	1000752	1000780	
+WAITLIST: empty
 
+Course: PHYS1C, Description: Switchable content-based application, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000289    1000396    1000593    1000730    1000845    
+
+Course: ENG2D, Description: Grass-roots attitude-oriented success, minimum students: 7, maximum students: 15
+NO SESSIONS SCHEDULED
+WAITLIST: 1000065    1000105    1000518    1000615    1000749    
+
+Course: PHYS1D, Description: Team-oriented directional info-mediaries, minimum students: 7, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000066    1000219    1000415    1000547    1000769    
 
 Course: PSYC2D, Description: Visionary bandwidth-monitored access, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001015, Session id: 1000060, Students: 
-
+SESSION | Professor: 1001015, Session id: 1000066, Students: 1000087	1000420	1000416	1000522	1000520	1000561	1000591	1000661	1000900	
+WAITLIST: empty
 
 Course: PSYC2A, Description: Horizontal impactful customer loyalty, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001013, Session id: 1000061, Students: 
+SESSION | Professor: 1001013, Session id: 1000067, Students: 1000112	1000316	1000522	1000538	1000699	1000895	
+WAITLIST: empty
 
+Course: PSYC2B, Description: Reactive static neural-net, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000382    1000439    1000496    1000617    1000725    1000859    
+
+Course: PHYS1A, Description: Cloned interactive local area network, minimum students: 6, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000184    1000498    1000496    1000565    1000951    
 
 Course: PHYS1B, Description: Networked next generation implementation, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001111, Session id: 1000062, Students: 
-
+SESSION | Professor: 1001111, Session id: 1000068, Students: 1000056	1000155	1000165	1000197	1000217	1000235	1000293	1000306	
+SESSION | Professor: 1001208, Session id: 1000069, Students: 1000366	1000589	1000623	1000669	1000661	1000969	
+WAITLIST: empty
 
 Course: ART2A, Description: Total reciprocal challenge, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001183, Session id: 1000063, Students: 
-
+SESSION | Professor: 1001183, Session id: 1000070, Students: 1000112	1000429	1000449	1000571	1000607	1000759	1000803	1000851	
+WAITLIST: empty
 
 Course: ART2B, Description: Right-sized 4th generation open architecture, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001083, Session id: 1000064, Students: 
+SESSION | Professor: 1001083, Session id: 1000071, Students: 1000061	1000167	1000189	1000367	1000395	1000525	1000547	1000569	1000565	1000645	1000737	1000821	
+WAITLIST: empty
 
+Course: CIS2C, Description: Persevering neutral product, minimum students: 6, maximum students: 12
+NO SESSIONS SCHEDULED
+WAITLIST: 1000344    1000672    1000726    1000809    1000965    
 
 Course: CIS2D, Description: Advanced fresh-thinking installation, minimum students: 6, maximum students: 18
-SESSION | Professor: 1001386, Session id: 1000065, Students: 
-
+SESSION | Professor: 1001386, Session id: 1000072, Students: 1000135	1000300	1000380	1000544	1000690	1000842	1000875	1000969	1000978	
+WAITLIST: empty
 
 Course: CIS2A, Description: Team-oriented coherent encoding, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001054, Session id: 1000066, Students: 
-
+SESSION | Professor: 1001054, Session id: 1000073, Students: 1000084	1000164	1000362	1000446	1000545	1000658	1000705	1000777	1000818	
+WAITLIST: empty
 
 Course: ART2C, Description: Automated leading edge definition, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001036, Session id: 1000067, Students: 
-
+SESSION | Professor: 1001036, Session id: 1000074, Students: 1000175	1000233	1000274	1000405	1000429	1000460	1000506	1000601	1000705	1000801	
+WAITLIST: empty
 
 Course: ART2D, Description: Profit-focused dynamic process improvement, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001041, Session id: 1000068, Students: 
-
+SESSION | Professor: 1001041, Session id: 1000075, Students: 1000097	1000198	1000603	1000705	1000764	1000782	1000858	1000872	
+WAITLIST: empty
 
 Course: CIS1D, Description: Robust composite pricing structure, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001162, Session id: 1000069, Students: 
-
+SESSION | Professor: 1001162, Session id: 1000076, Students: 1000146	1000277	1000543	1000822	1000843	1000934	1000955	1000945	1000999	
+WAITLIST: empty
 
 Course: MATH2A, Description: User-friendly coherent open architecture, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001396, Session id: 1000070, Students: 
-
+SESSION | Professor: 1001396, Session id: 1000077, Students: 1000011	1000054	1000072	1000129	1000154	1000379	1000667	
+WAITLIST: empty
 
 Course: MATH2B, Description: Compatible foreground core, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001153, Session id: 1000071, Students: 
-
+SESSION | Professor: 1001153, Session id: 1000078, Students: 1000011	1000046	1000145	1000208	1000452	1000558	1000546	1000717	1000776	1000888	1000899	1000998	
+WAITLIST: empty
 
 Course: MATH2C, Description: Innovative background parallelism, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001061, Session id: 1000072, Students: 
-
+SESSION | Professor: 1001061, Session id: 1000079, Students: 1000112	1000270	1000332	1000352	1000538	1000635	1000738	1000987	
+WAITLIST: empty
 
 Course: MATH2D, Description: User-centric local capacity, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001009, Session id: 1000073, Students: 
-
+SESSION | Professor: 1001009, Session id: 1000080, Students: 1000102	1000171	1000180	1000243	1000385	1000792	1000854	
+SESSION | Professor: 1001361, Session id: 1000081, Students: 1000869	1000950	
+WAITLIST: empty
 
 Course: DES1C, Description: Versatile empowering flexibility, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001200, Session id: 1000074, Students: 
+SESSION | Professor: 1001200, Session id: 1000082, Students: 1000274	1000337	1000363	1000397	1000519	1000693	1000848	1000871	1000912	1000947	1000973	
+WAITLIST: empty
 
+Course: DES1A, Description: User-friendly methodical circuit, minimum students: 7, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000291    1000337    1000556    
 
 Course: ECON1C, Description: Versatile solution-oriented portal, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001017, Session id: 1000075, Students: 
-
+SESSION | Professor: 1001017, Session id: 1000083, Students: 1000025	1000072	1000280	1000354	1000560	1000790	
+WAITLIST: empty
 
 Course: ENG2A, Description: Networked full-range encryption, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001003, Session id: 1000077, Students: 
+SESSION | Professor: 1001003, Session id: 1000085, Students: 1000052	1000291	1000369	1000471	1000526	1000600	1000644	1000735	1000766	1000882	1000899	
+WAITLIST: empty
 
+Course: DES1B, Description: Versatile discrete support, minimum students: 6, maximum students: 8
+NO SESSIONS SCHEDULED
+WAITLIST: 1000045    1000394    1000454    1000509    1000670    
 
 Course: ECON1B, Description: Devolved high-level hardware, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001108, Session id: 1000076, Students: 
-
+SESSION | Professor: 1001108, Session id: 1000084, Students: 1000040	1000052	1000093	1000245	1000326	1000375	1000588	1000652	1000712	1000892	1000916	
+WAITLIST: empty
 
 Course: PSYC1D, Description: Programmable empowering throughput, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001040, Session id: 1000078, Students: 
+SESSION | Professor: 1001040, Session id: 1000086, Students: 1000149	1000242	1000354	1000794	1000804	1000978	
+WAITLIST: empty
 
+Course: ENG2B, Description: Reactive exuding framework, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000298    1000657    1000730    1000794    
 
 Course: ENG2C, Description: Ameliorated system-worthy customer loyalty, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001079, Session id: 1000079, Students: 
+SESSION | Professor: 1001079, Session id: 1000087, Students: 1000015	1000083	1000206	1000195	1000293	1000319	1000525	
+WAITLIST: empty
 
+Course: ENG1C, Description: Multi-layered asymmetric database, minimum students: 7, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000060    1000164    1000202    1000580    
 
 Course: ENG1D, Description: Diverse logistical approach, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001067, Session id: 1000080, Students: 
-
+SESSION | Professor: 1001067, Session id: 1000088, Students: 1000072	1000135	1000319	1000428	1000421	1000511	1000530	1000593	1000616	
+SESSION | Professor: 1001086, Session id: 1000089, Students: 1000708	
+WAITLIST: empty
 
 Course: CIM3B, Description: Centralized local info-mediaries, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001014, Session id: 1000081, Students: 
-
+SESSION | Professor: 1001014, Session id: 1000090, Students: 1000015	1000025	1000317	1000607	1000623	1000637	1000720	1000768	1000869	1000908	
+WAITLIST: empty
 
 Course: CIM3C, Description: Future-proofed methodical system engine, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001011, Session id: 1000082, Students: 
+SESSION | Professor: 1001011, Session id: 1000091, Students: 1000031	1000113	1000170	1000163	1000408	1000445	1000437	1000825	
+WAITLIST: empty
 
+Course: CIM3A, Description: Persistent exuding access, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000264    1000576    
+
+Course: NUR2B, Description: Total contextually-based artificial intelligence, minimum students: 6, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000029    1000078    1000202    1000525    1000552    
 
 Course: NUR2A, Description: Customer-focused secondary throughput, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001672, Session id: 1000083, Students: 
+SESSION | Professor: 1001672, Session id: 1000092, Students: 1000053	1000236	1000320	1000448	1000659	1000734	1000953	
+WAITLIST: empty
 
+Course: CIM3D, Description: Ergonomic discrete policy, minimum students: 6, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000246    1000349    1000547    1000770    
 
 Course: NUR2D, Description: Sharable hybrid moratorium, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001049, Session id: 1000084, Students: 
+SESSION | Professor: 1001049, Session id: 1000093, Students: 1000028	1000340	1000440	1000563	1000899	
+WAITLIST: empty
 
+Course: NUR2C, Description: Switchable reciprocal strategy, minimum students: 6, maximum students: 12
+NO SESSIONS SCHEDULED
+WAITLIST: 1000146    1000183    1000385    1000886    
+
+Course: CHEM3A, Description: Inverse optimizing open system, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000046    1000038    1000088    1000246    1000401    1000811    
 
 Course: BIO3A, Description: Open-source impactful throughput, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001036, Session id: 1000085, Students: 
-
+SESSION | Professor: 1001036, Session id: 1000094, Students: 1000222	1000281	1000288	1000386	1000403	1000837	1000896	1000920	1000952	1000980	
+WAITLIST: empty
 
 Course: BIO3B, Description: Proactive well-modulated moratorium, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001184, Session id: 1000086, Students: 
-
+SESSION | Professor: 1001184, Session id: 1000095, Students: 1000070	1000193	1000258	1000301	1000433	1000915	
+WAITLIST: empty
 
 Course: CHEM3D, Description: Digitized systemic algorithm, minimum students: 6, maximum students: 15
-SESSION | Professor: 1001700, Session id: 1000087, Students: 
-
+SESSION | Professor: 1001700, Session id: 1000096, Students: 1000140	1000258	1000373	1000368	1000411	1000645	1000703	1000690	1000749	1000829	1000900	1000975	1000963	
+WAITLIST: empty
 
 Course: CHEM3C, Description: Innovative empowering forecast, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001078, Session id: 1000088, Students: 
-
+SESSION | Professor: 1001078, Session id: 1000097, Students: 1000204	1000193	1000347	1000352	1000383	1000680	1000797	1000892	1000923	
+WAITLIST: empty
 
 Course: BIO3C, Description: Enterprise-wide leading edge interface, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001180, Session id: 1000089, Students: 
-
+SESSION | Professor: 1001180, Session id: 1000098, Students: 1000124	1000154	1000182	1000441	1000585	1000624	1000892	1000910	1000948	
+WAITLIST: empty
 
 Course: BIO3D, Description: Centralized 4th generation complexity, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001209, Session id: 1000090, Students: 
-
+SESSION | Professor: 1001209, Session id: 1000099, Students: 1000014	1000175	1000266	1000471	1000527	1000610	
+WAITLIST: empty
 
 Course: ENG1A, Description: Public-key encompassing knowledge user, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001006, Session id: 1000091, Students: 
-
+SESSION | Professor: 1001006, Session id: 1000100, Students: 1000055	1000223	1000213	1000252	1000412	1000514	1000548	1000676	1000861	1000889	1000994	
+WAITLIST: empty
 
 Course: ENG1B, Description: Configurable fault-tolerant benchmark, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001104, Session id: 1000092, Students: 
-
+SESSION | Professor: 1001104, Session id: 1000101, Students: 1000015	1000173	1000221	1000229	1000381	1000599	1000638	1000758	1000820	
+WAITLIST: empty
 
 Course: CS2A, Description: Self-enabling object-oriented installation, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001488, Session id: 1000093, Students: 
+SESSION | Professor: 1001488, Session id: 1000102, Students: 1000070	1000087	1000182	1000589	1000663	1000736	1000762	1000885	
+SESSION | Professor: 1001573, Session id: 1000103, Students: 1000934	1000963	
+WAITLIST: empty
 
+Course: PSYC4C, Description: Horizontal fault-tolerant internet solution, minimum students: 5, maximum students: 17
+NO SESSIONS SCHEDULED
+WAITLIST: 1000138    1000346    1000616    1000741    
+
+Course: PSYC4D, Description: Fully-configurable context-sensitive instruction set, minimum students: 6, maximum students: 17
+NO SESSIONS SCHEDULED
+WAITLIST: 1000135    1000411    1000873    1000997    
+
+Course: CIM4C, Description: Business-focused client-server portal, minimum students: 7, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000003    1000163    1000421    1000572    1000687    1000997    
 
 Course: PSYC4A, Description: Grass-roots 6th generation installation, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001041, Session id: 1000094, Students: 
-
+SESSION | Professor: 1001041, Session id: 1000104, Students: 1000021	1000062	1000142	1000210	1000393	1000711	1000896	1000960	
+WAITLIST: empty
 
 Course: CIM4D, Description: Intuitive user-facing synergy, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001207, Session id: 1000096, Students: 
-
+SESSION | Professor: 1001207, Session id: 1000107, Students: 1000607	1000755	1000885	1000920	1000928	
+WAITLIST: empty
 
 Course: PSYC4B, Description: Assimilated didactic intranet, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001014, Session id: 1000095, Students: 
-
+SESSION | Professor: 1001014, Session id: 1000105, Students: 1000049	1000157	1000185	1000266	1000387	1000446	1000734	
+SESSION | Professor: 1001191, Session id: 1000106, Students: 1000853	1000978	
+WAITLIST: empty
 
 Course: CIM4A, Description: Realigned dynamic knowledge user, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001010, Session id: 1000097, Students: 
-
+SESSION | Professor: 1001010, Session id: 1000108, Students: 1000140	1000159	1000152	1000264	1000437	1000481	1000681	1000889	
+WAITLIST: empty
 
 Course: CIM4B, Description: Compatible background hardware, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001078, Session id: 1000098, Students: 
-
+SESSION | Professor: 1001078, Session id: 1000109, Students: 1000048	1000136	1000128	1000149	1000278	1000493	1000569	1000562	1000691	1000906	
+WAITLIST: empty
 
 Course: NUR1A, Description: Total 3rd generation hardware, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001064, Session id: 1000099, Students: 
-
+SESSION | Professor: 1001064, Session id: 1000110, Students: 1000004	1000065	1000155	1000318	1000349	1000444	1000673	1000710	
+SESSION | Professor: 1001189, Session id: 1000111, Students: 1000980	
+WAITLIST: empty
 
 Course: NUR1D, Description: Persistent context-sensitive frame, minimum students: 7, maximum students: 11
-SESSION | Professor: 1001087, Session id: 1000100, Students: 
-
+SESSION | Professor: 1001087, Session id: 1000112, Students: 1000010	1000316	1000363	1000401	1000512	1000573	1000873	
+WAITLIST: empty
 
 Course: NUR1C, Description: Grass-roots high-level protocol, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001039, Session id: 1000101, Students: 
+SESSION | Professor: 1001039, Session id: 1000113, Students: 1000009	1000036	1000159	1000305	1000586	1000576	1000829	
+WAITLIST: empty
 
+Course: NUR1B, Description: Centralized actuating time-frame, minimum students: 6, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000100    1000783    1000813    1000969    
 
 Course: BIO4A, Description: Switchable intangible software, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001013, Session id: 1000102, Students: 
-
+SESSION | Professor: 1001013, Session id: 1000114, Students: 1000001	1000023	1000061	1000107	1000227	1000281	1000522	1000563	
+SESSION | Professor: 1001346, Session id: 1000115, Students: 1000704	1000745	1000952	
+WAITLIST: empty
 
 Course: BIO4B, Description: Object-based uniform open architecture, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001035, Session id: 1000103, Students: 
-
+SESSION | Professor: 1001035, Session id: 1000116, Students: 1000082	1000119	1000163	1000528	1000763	
+WAITLIST: empty
 
 Course: BIO4C, Description: Switchable needs-based throughput, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001340, Session id: 1000104, Students: 
-
+SESSION | Professor: 1001340, Session id: 1000117, Students: 1000027	1000108	1000144	1000236	1000294	1000372	1000453	1000517	1000870	1000904	
+WAITLIST: empty
 
 Course: CHEM2D, Description: Reverse-engineered tangible challenge, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001025, Session id: 1000105, Students: 
-
+SESSION | Professor: 1001025, Session id: 1000118, Students: 1000007	1000047	1000107	1000178	1000213	1000298	1000426	1000710	1000802	1000876	1000891	
+WAITLIST: empty
 
 Course: MATH4A, Description: Face to face systemic projection, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001240, Session id: 1000107, Students: 
-
+SESSION | Professor: 1001240, Session id: 1000120, Students: 1000158	1000322	1000470	1000504	1000863	1000871	
+WAITLIST: empty
 
 Course: CHEM2C, Description: Innovative bottom-line architecture, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001006, Session id: 1000106, Students: 
+SESSION | Professor: 1001006, Session id: 1000119, Students: 1000130	1000303	1000317	1000576	1000646	1000805	1000931	1000972	
+WAITLIST: empty
 
+Course: CHEM2B, Description: Total needs-based collaboration, minimum students: 7, maximum students: 8
+NO SESSIONS SCHEDULED
+WAITLIST: 1000375    1000719    1000960    
 
 Course: MATH4B, Description: Inverse bottom-line budgetary management, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001056, Session id: 1000108, Students: 
-
+SESSION | Professor: 1001056, Session id: 1000121, Students: 1000073	1000085	1000153	1000498	1000544	1000635	1000703	1000787	
+WAITLIST: empty
 
 Course: MATH4C, Description: Re-contextualized client-driven paradigm, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001017, Session id: 1000109, Students: 
-
+SESSION | Professor: 1001017, Session id: 1000122, Students: 1000059	1000335	1000514	1000559	1000640	1000942	1000975	
+WAITLIST: empty
 
 Course: CHEM2A, Description: Fundamental didactic customer loyalty, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001148, Session id: 1000110, Students: 
-
+SESSION | Professor: 1001148, Session id: 1000123, Students: 1000115	1000283	1000291	1000606	1000636	1000642	1000703	1000938	
+WAITLIST: empty
 
 Course: MATH4D, Description: Customizable asynchronous leverage, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001082, Session id: 1000111, Students: 
+SESSION | Professor: 1001082, Session id: 1000124, Students: 1000014	1000036	1000094	1000177	1000451	1000721	1000839	
+WAITLIST: empty
 
+Course: BIO4D, Description: Integrated asymmetric forecast, minimum students: 6, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000364    1000951    1000980    
+
+Course: CS1D, Description: Profound coherent ability, minimum students: 7, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000177    1000344    1000502    1000604    1000888    1000971    
 
 Course: CS1C, Description: Multi-channelled optimal policy, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001225, Session id: 1000112, Students: 
+SESSION | Professor: 1001225, Session id: 1000125, Students: 1000173	1000183	1000206	1000210	1000396	1000742	
+WAITLIST: empty
 
+Course: CS1B, Description: Business-focused multimedia analyzer, minimum students: 6, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000102    1000232    1000756    
 
 Course: CS1A, Description: Monitored human-resource project, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001059, Session id: 1000113, Students: 
+SESSION | Professor: 1001059, Session id: 1000126, Students: 1000065	1000088	1000114	1000696	1000878	
+WAITLIST: empty
 
+Course: CS3B, Description: Persistent foreground flexibility, minimum students: 7, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000751    1000970    
+
+Course: CS3A, Description: Virtual heuristic policy, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000161    1000181    1000271    1000686    1000720    1000886    
 
 Course: CIM1A, Description: Managed zero tolerance customer loyalty, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001000, Session id: 1000114, Students: 
-
+SESSION | Professor: 1001000, Session id: 1000127, Students: 1000050	1000133	1000315	1000433	1000550	1000670	1000813	1000835	
+WAITLIST: empty
 
 Course: CIM1D, Description: Automated background Graphic Interface, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001239, Session id: 1000115, Students: 
-
+SESSION | Professor: 1001239, Session id: 1000128, Students: 1000164	1000191	1000179	1000406	1000628	1000746	1000738	
+WAITLIST: empty
 
 Course: EECS2D, Description: Expanded eco-centric utilisation, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001039, Session id: 1000116, Students: 
+SESSION | Professor: 1001039, Session id: 1000129, Students: 1000232	1000283	1000280	1000344	1000425	1000633	1000731	1000783	1000836	1000933	1000968	1000965	
+WAITLIST: empty
 
+Course: EECS2B, Description: Grass-roots incremental archive, minimum students: 7, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000442    1000550    1000646    1000937    1000961    1000999    
 
 Course: CIM1B, Description: Innovative exuding solution, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001206, Session id: 1000117, Students: 
-
+SESSION | Professor: 1001206, Session id: 1000130, Students: 1000021	1000127	1000378	1000454	1000716	1000731	1000792	1000958	
+WAITLIST: empty
 
 Course: CIM1C, Description: Switchable tangible firmware, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001101, Session id: 1000118, Students: 
+SESSION | Professor: 1001101, Session id: 1000131, Students: 1000116	1000330	1000359	1000446	1000611	1000655	1000712	1000751	1000942	
+WAITLIST: empty
 
+Course: EECS2C, Description: Multi-tiered 3rd generation collaboration, minimum students: 5, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000383    1000607    1000757    1000986    
 
 Course: ANTH3C, Description: Distributed incremental success, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001155, Session id: 1000119, Students: 
-
+SESSION | Professor: 1001155, Session id: 1000132, Students: 1000044	1000241	1000285	1000279	1000544	1000698	1000693	1000795	
+WAITLIST: empty
 
 Course: ANTH3B, Description: Vision-oriented uniform interface, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001045, Session id: 1000120, Students: 
-
+SESSION | Professor: 1001045, Session id: 1000133, Students: 1000088	1000432	1000598	1000645	1000862	1000902	
+WAITLIST: empty
 
 Course: ANTH3D, Description: Proactive systematic attitude, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001281, Session id: 1000121, Students: 
-
+SESSION | Professor: 1001281, Session id: 1000134, Students: 1000302	1000295	1000390	1000582	1000801	1000890	
+WAITLIST: empty
 
 Course: ANTH3A, Description: Customizable content-based instruction set, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001096, Session id: 1000122, Students: 
-
+SESSION | Professor: 1001096, Session id: 1000135, Students: 1000262	1000315	1000442	1000516	1000592	1000649	1000726	1000895	1000925	
+WAITLIST: empty
 
 Course: CHEM1C, Description: Adaptive tangible projection, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001221, Session id: 1000124, Students: 
-
+SESSION | Professor: 1001221, Session id: 1000137, Students: 1000000	1000156	1000383	1000551	1000685	1000707	1000827	
+WAITLIST: empty
 
 Course: EECS3A, Description: Diverse asymmetric protocol, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001065, Session id: 1000123, Students: 
+SESSION | Professor: 1001065, Session id: 1000136, Students: 1000006	1000037	1000053	1000077	1000268	1000300	1000390	1000424	1000452	1000526	1000715	1000817	
+WAITLIST: empty
 
+Course: CHEM1B, Description: Up-sized explicit emulation, minimum students: 7, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000158    1000177    1000208    1000721    1000763    1000952    
 
 Course: EECS3B, Description: Multi-lateral holistic intranet, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001070, Session id: 1000125, Students: 
-
+SESSION | Professor: 1001070, Session id: 1000138, Students: 1000075	1000430	1000468	1000734	1000757	1000840	1000906	1000915	
+WAITLIST: empty
 
 Course: CHEM1A, Description: Stand-alone methodical groupware, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001037, Session id: 1000126, Students: 
-
+SESSION | Professor: 1001037, Session id: 1000139, Students: 1000020	1000144	1000420	1000443	1000605	1000680	1000853	1000956	
+WAITLIST: empty
 
 Course: BIO1A, Description: Total regional concept, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001140, Session id: 1000127, Students: 
-
+SESSION | Professor: 1001140, Session id: 1000140, Students: 1000178	1000376	1000412	1000539	1000616	1000884	1000883	
+WAITLIST: empty
 
 Course: BIO1B, Description: Monitored contextually-based orchestration, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001252, Session id: 1000129, Students: 
-
+SESSION | Professor: 1001252, Session id: 1000142, Students: 1000176	1000334	1000526	1000543	1000528	1000583	1000712	1000844	1000999	
+WAITLIST: empty
 
 Course: CS2D, Description: Pre-emptive upward-trending approach, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001140, Session id: 1000128, Students: 
-
+SESSION | Professor: 1001140, Session id: 1000141, Students: 1000007	1000004	1000321	1000432	1000476	1000513	1000562	1000579	1000656	1000675	1000780	
+WAITLIST: empty
 
 Course: CS2C, Description: Down-sized tertiary neural-net, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001237, Session id: 1000130, Students: 
+SESSION | Professor: 1001237, Session id: 1000143, Students: 1000127	1000210	1000288	1000315	1000433	1000506	1000553	1000576	1000605	1000650	1000881	1000922	1000985	1000998	
+WAITLIST: empty
 
+Course: BIO1D, Description: Polarised 6th generation service-desk, minimum students: 5, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000021    1000258    1000790    1000883    
 
 Course: CS4B, Description: Intuitive empowering neural-net, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001132, Session id: 1000131, Students: 
+SESSION | Professor: 1001132, Session id: 1000144, Students: 1000013	1000141	1000425	1000459	1000482	1000565	1000654	
+SESSION | Professor: 1001413, Session id: 1000145, Students: 1000661	1000848	
+WAITLIST: empty
 
+Course: CS4A, Description: Re-engineered explicit Graphic Interface, minimum students: 5, maximum students: 18
+NO SESSIONS SCHEDULED
+WAITLIST: 1000352    1000575    1000915    1000961    
 
 Course: CIM2A, Description: User-friendly needs-based task-force, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001160, Session id: 1000132, Students: 
+SESSION | Professor: 1001160, Session id: 1000146, Students: 1000162	1000209	1000233	1000317	1000466	1000536	1000610	1000749	
+WAITLIST: empty
 
+Course: CIM2B, Description: Function-based non-volatile collaboration, minimum students: 6, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000465    1000534    1000643    1000721    1000967    
 
 Course: EECS1C, Description: Centralized cohesive adapter, minimum students: 7, maximum students: 13
-SESSION | Professor: 1001043, Session id: 1000133, Students: 
-
+SESSION | Professor: 1001043, Session id: 1000147, Students: 1000108	1000123	1000208	1000236	1000507	1000534	1000571	1000754	1000824	
+WAITLIST: empty
 
 Course: EECS1D, Description: Re-engineered composite open system, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001013, Session id: 1000134, Students: 
-
+SESSION | Professor: 1001013, Session id: 1000148, Students: 1000207	1000192	1000362	1000524	1000567	1000596	1000685	1000779	1000889	
+WAITLIST: empty
 
 Course: CIM2C, Description: Future-proofed actuating frame, minimum students: 6, maximum students: 13
-SESSION | Professor: 1001223, Session id: 1000135, Students: 
-
+SESSION | Professor: 1001223, Session id: 1000149, Students: 1000105	1000199	1000255	1000371	1000505	1000502	1000643	1000892	
+WAITLIST: empty
 
 Course: EECS1A, Description: Horizontal real-time portal, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001060, Session id: 1000136, Students: 
-
+SESSION | Professor: 1001060, Session id: 1000150, Students: 1000099	1000270	1000317	1000349	1000423	1000545	1000580	
+SESSION | Professor: 1001204, Session id: 1000151, Students: 1000879	
+WAITLIST: empty
 
 Course: CIM2D, Description: Stand-alone empowering moratorium, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001082, Session id: 1000137, Students: 
-
+SESSION | Professor: 1001082, Session id: 1000152, Students: 1000072	1000107	1000106	1000199	1000287	1000313	1000306	1000339	1000652	1000818	
+SESSION | Professor: 1001158, Session id: 1000153, Students: 1000928	
+WAITLIST: empty
 
 Course: EECS1B, Description: Intuitive human-resource hub, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001064, Session id: 1000138, Students: 
+SESSION | Professor: 1001064, Session id: 1000154, Students: 1000156	1000223	1000510	1000663	1000676	1000718	1000891	1000943	1000974	
+WAITLIST: empty
 
+Course: ANTH4D, Description: Progressive national adapter, minimum students: 6, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000009    1000204    1000408    1000831    1000859    
+
+Course: ANTH4C, Description: Assimilated heuristic parallelism, minimum students: 6, maximum students: 18
+NO SESSIONS SCHEDULED
+WAITLIST: 1000091    1000237    1000417    1000699    1000716    
 
 Course: ANTH4B, Description: Monitored uniform monitoring, minimum students: 6, maximum students: 20
-SESSION | Professor: 1001005, Session id: 1000139, Students: 
-
+SESSION | Professor: 1001005, Session id: 1000155, Students: 1000405	1000426	1000451	1000482	1000617	1000729	
+WAITLIST: empty
 
 Course: ANTH4A, Description: Stand-alone tertiary Graphic Interface, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001154, Session id: 1000140, Students: 
-
+SESSION | Professor: 1001154, Session id: 1000156, Students: 1000284	1000516	1000606	1000648	1000722	1000893	
+WAITLIST: empty
 
 Course: EECS2A, Description: Digitized client-driven hardware, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001060, Session id: 1000141, Students: 
-
+SESSION | Professor: 1001060, Session id: 1000157, Students: 1000004	1000062	1000234	1000402	1000439	1000697	1000732	1000776	1000948	
+SESSION | Professor: 1001066, Session id: 1000158, Students: 1000990	
+WAITLIST: empty
 
 Course: BIO2B, Description: Down-sized motivating infrastructure, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001145, Session id: 1000142, Students: 
-
+SESSION | Professor: 1001145, Session id: 1000159, Students: 1000013	1000038	1000239	1000402	1000462	1000480	1000511	1000502	
+SESSION | Professor: 1001219, Session id: 1000160, Students: 1000652	1000861	1000854	1000959	1000982	
+WAITLIST: empty
 
 Course: BIO2C, Description: Function-based object-oriented paradigm, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001084, Session id: 1000143, Students: 
-
+SESSION | Professor: 1001084, Session id: 1000161, Students: 1000231	1000309	1000368	1000414	1000480	1000519	1000573	1000804	
+WAITLIST: empty
 
 Course: BIO2D, Description: Front-line homogeneous model, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001000, Session id: 1000144, Students: 
+SESSION | Professor: 1001000, Session id: 1000162, Students: 1000085	1000134	1000334	1000910	1000941	
+WAITLIST: empty
 
+Course: CS3D, Description: Multi-tiered web-enabled approach, minimum students: 7, maximum students: 12
+NO SESSIONS SCHEDULED
+WAITLIST: 1000150    1000161    1000336    1000437    1000823    1000890    
 
 Course: CS3C, Description: Object-based leading edge analyzer, minimum students: 7, maximum students: 14
-SESSION | Professor: 1001106, Session id: 1000145, Students: 
+SESSION | Professor: 1001106, Session id: 1000163, Students: 1000062	1000117	1000170	1000163	1000331	1000326	1000351	1000384	1000419	1000481	1000537	1000544	1000819	
+WAITLIST: empty
 
+Course: ACC4D, Description: Multi-channelled eco-centric utilisation, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000085    1000441    1000473    1000491    1000625    1000645    
 
 Course: ACC4C, Description: Programmable multi-state benchmark, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001070, Session id: 1000146, Students: 
-
+SESSION | Professor: 1001070, Session id: 1000164, Students: 1000163	1000378	1000479	1000465	1000588	1000703	1000757	1000770	1000835	1000990	1000997	
+WAITLIST: empty
 
 Course: ASTR3D, Description: Expanded exuding methodology, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001186, Session id: 1000147, Students: 
-
+SESSION | Professor: 1001186, Session id: 1000165, Students: 1000076	1000134	1000197	1000262	1000306	1000754	1000987	
+WAITLIST: empty
 
 Course: BUS3B, Description: User-friendly motivating hub, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001183, Session id: 1000148, Students: 
-
+SESSION | Professor: 1001183, Session id: 1000166, Students: 1000143	1000182	1000362	1000395	1000593	1000681	1000784	1000827	1000835	1000905	
+WAITLIST: empty
 
 Course: BUS3A, Description: Optimized logistical budgetary management, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001284, Session id: 1000149, Students: 
-
+SESSION | Professor: 1001284, Session id: 1000167, Students: 1000038	1000318	1000358	1000388	1000537	1000612	1000822	1000937	
+SESSION | Professor: 1001334, Session id: 1000168, Students: 1000959	
+WAITLIST: empty
 
 Course: HUM1C, Description: Sharable incremental process improvement, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001008, Session id: 1000150, Students: 
-
+SESSION | Professor: 1001008, Session id: 1000169, Students: 1000079	1000289	1000370	1000433	1000455	1000481	1000559	1000592	1000882	1000901	1000958	
+WAITLIST: empty
 
 Course: HUM1D, Description: Function-based object-oriented intranet, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001221, Session id: 1000151, Students: 
-
+SESSION | Professor: 1001221, Session id: 1000170, Students: 1000054	1000088	1000197	1000281	1000485	1000611	1000873	1000974	1000965	
+WAITLIST: empty
 
 Course: HUM1A, Description: Ergonomic user-facing emulation, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001114, Session id: 1000152, Students: 
-
+SESSION | Professor: 1001114, Session id: 1000171, Students: 1000090	1000119	1000357	1000380	1000505	1000700	1000830	1000998	
+WAITLIST: empty
 
 Course: ASTR4A, Description: Adaptive didactic strategy, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001048, Session id: 1000153, Students: 
-
+SESSION | Professor: 1001048, Session id: 1000172, Students: 1000015	1000009	1000084	1000128	1000244	1000650	1000750	1000844	
+WAITLIST: empty
 
 Course: BUS3C, Description: Virtual upward-trending methodology, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001002, Session id: 1000154, Students: 
+SESSION | Professor: 1001002, Session id: 1000173, Students: 1000469	1000598	1000655	1000792	1000827	1000906	1000932	
+WAITLIST: empty
 
+Course: ASTR4B, Description: Triple-buffered systematic time-frame, minimum students: 7, maximum students: 10
+NO SESSIONS SCHEDULED
+WAITLIST: 1000126    1000745    1000871    1000919    
+
+Course: ASTR4C, Description: Multi-channelled eco-centric task-force, minimum students: 6, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000022    1000991    
 
 Course: ACC4B, Description: Monitored empowering attitude, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001067, Session id: 1000156, Students: 
-
+SESSION | Professor: 1001067, Session id: 1000175, Students: 1000100	1000144	1000665	1000879	1000874	1000880	
+WAITLIST: empty
 
 Course: MUS4A, Description: Operative 24 hour project, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001422, Session id: 1000155, Students: 
-
+SESSION | Professor: 1001422, Session id: 1000174, Students: 1000010	1000009	1000102	1000194	1000255	1000295	1000425	1000478	1000551	1000640	1000800	1000987	
+WAITLIST: empty
 
 Course: ACC4A, Description: Sharable systematic monitoring, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001040, Session id: 1000158, Students: 
-
+SESSION | Professor: 1001040, Session id: 1000177, Students: 1000188	1000222	1000270	1000276	1000426	1000443	1000532	1000660	1000687	1000829	
+SESSION | Professor: 1001121, Session id: 1000178, Students: 1000956	
+WAITLIST: empty
 
 Course: MUS4B, Description: Multi-tiered multi-tasking standardization, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001457, Session id: 1000157, Students: 
-
+SESSION | Professor: 1001457, Session id: 1000176, Students: 1000002	1000097	1000221	1000316	1000528	1000753	1000825	
+WAITLIST: empty
 
 Course: MUS4C, Description: Future-proofed mobile utilisation, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001490, Session id: 1000159, Students: 
+SESSION | Professor: 1001490, Session id: 1000179, Students: 1000181	1000231	1000262	1000434	1000653	1000747	1000762	
+WAITLIST: empty
 
+Course: MUS4D, Description: Advanced systematic toolset, minimum students: 6, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000089    1000346    1000403    1000471    1000625    
 
 Course: CS4D, Description: Business-focused empowering paradigm, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001105, Session id: 1000160, Students: 
-
+SESSION | Professor: 1001105, Session id: 1000180, Students: 1000203	1000214	1000391	1000410	1000466	1000482	1000780	
+WAITLIST: empty
 
 Course: ACC3D, Description: Seamless foreground implementation, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001064, Session id: 1000161, Students: 
-
+SESSION | Professor: 1001064, Session id: 1000181, Students: 1000061	1000247	1000298	1000403	1000602	1000618	1000617	
+SESSION | Professor: 1001077, Session id: 1000182, Students: 1000626	1000664	1000811	1000862	1000857	
+WAITLIST: empty
 
 Course: ACC3C, Description: Advanced bottom-line flexibility, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001026, Session id: 1000162, Students: 
+SESSION | Professor: 1001026, Session id: 1000183, Students: 1000229	1000432	1000586	1000624	1000653	1000764	1000774	
+WAITLIST: empty
 
+Course: ACC3B, Description: Synergized zero defect support, minimum students: 7, maximum students: 15
+NO SESSIONS SCHEDULED
+WAITLIST: 1000145    1000223    1000635    1000736    1000859    1000907    
+
+Course: BUS4A, Description: Profit-focused actuating conglomeration, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000023    1000334    1000435    1000472    1000698    
 
 Course: ASTR2B, Description: Operative intangible structure, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001080, Session id: 1000163, Students: 
-
+SESSION | Professor: 1001080, Session id: 1000184, Students: 1000256	1000314	1000461	1000521	1000586	1000655	1000673	1000819	
+WAITLIST: empty
 
 Course: ASTR2D, Description: Devolved bi-directional matrices, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001013, Session id: 1000164, Students: 
-
+SESSION | Professor: 1001013, Session id: 1000185, Students: 1000067	1000178	1000292	1000372	1000753	1000782	1000793	
+WAITLIST: empty
 
 Course: BUS4C, Description: Pre-emptive 4th generation workforce, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001029, Session id: 1000165, Students: 
-
+SESSION | Professor: 1001029, Session id: 1000186, Students: 1000328	1000713	1000765	1000806	1000849	1000967	1000966	
+WAITLIST: empty
 
 Course: GEO1A, Description: Managed actuating help-desk, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001043, Session id: 1000166, Students: 
-
+SESSION | Professor: 1001043, Session id: 1000187, Students: 1000031	1000162	1000185	1000561	1000685	1000680	1000695	1000739	1000935	
+WAITLIST: empty
 
 Course: GEO1C, Description: Configurable multimedia moratorium, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001009, Session id: 1000167, Students: 
-
+SESSION | Professor: 1001009, Session id: 1000188, Students: 1000144	1000180	1000312	1000413	1000575	1000566	1000600	
+SESSION | Professor: 1001076, Session id: 1000189, Students: 1000837	1000971	
+WAITLIST: empty
 
 Course: GEO1B, Description: Exclusive multimedia customer loyalty, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001002, Session id: 1000168, Students: 
+SESSION | Professor: 1001002, Session id: 1000190, Students: 1000051	1000094	1000131	1000347	1000401	1000509	1000621	1000803	
+SESSION | Professor: 1001059, Session id: 1000191, Students: 1000891	1000911	
+WAITLIST: empty
 
+Course: HUM2D, Description: Polarised exuding analyzer, minimum students: 6, maximum students: 8
+NO SESSIONS SCHEDULED
+WAITLIST: 1000410    1000486    1000554    1000572    1000781    
+
+Course: HUM2B, Description: Managed bifurcated moderator, minimum students: 7, maximum students: 8
+NO SESSIONS SCHEDULED
+WAITLIST: 1000169    1000368    1000425    1000503    1000627    1000821    
 
 Course: HUM2C, Description: Switchable tertiary secured line, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001167, Session id: 1000169, Students: 
-
+SESSION | Professor: 1001167, Session id: 1000192, Students: 1000153	1000216	1000259	1000312	1000551	1000768	1000985	
+SESSION | Professor: 1001543, Session id: 1000193, Students: 1000998	
+WAITLIST: empty
 
 Course: MUS3D, Description: Fundamental attitude-oriented array, minimum students: 7, maximum students: 14
 NO SESSIONS SCHEDULED
+WAITLIST: 1000117    1000129    1000167    1000485    1000501    1000624    1000726    1000790    1000848    1000947    
 
 Course: BUS4D, Description: Profound zero defect internet solution, minimum students: 6, maximum students: 11
-SESSION | Professor: 1001252, Session id: 1000170, Students: 
+SESSION | Professor: 1001252, Session id: 1000194, Students: 1000046	1000086	1000190	1000445	1000474	1000568	1000639	1000664	1000673	1000761	1000790	
+SESSION | Professor: 1001789, Session id: 1000195, Students: 1000904	1000955	
+WAITLIST: empty
 
+Course: ASTR3A, Description: Centralized tangible application, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000081    1000825    1000962    
+
+Course: ASTR3B, Description: Intuitive radical solution, minimum students: 7, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000157    1000296    1000512    
 
 Course: MUS3A, Description: Extended methodical frame, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001024, Session id: 1000171, Students: 
-
+SESSION | Professor: 1001024, Session id: 1000196, Students: 1000034	1000178	1000176	1000290	1000332	1000356	1000486	1000483	1000707	1000705	1000704	1000757	1000979	
+WAITLIST: empty
 
 Course: MUS3B, Description: Multi-layered hybrid Graphic Interface, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001175, Session id: 1000172, Students: 
-
+SESSION | Professor: 1001175, Session id: 1000197, Students: 1000048	1000066	1000270	1000365	1000397	1000487	1000507	1000540	1000668	1000716	1000752	1000940	
+WAITLIST: empty
 
 Course: MUS3C, Description: Operative context-sensitive implementation, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001424, Session id: 1000173, Students: 
-
+SESSION | Professor: 1001424, Session id: 1000198, Students: 1000000	1000046	1000534	1000631	1000658	1000714	1000767	
+WAITLIST: empty
 
 Course: NUR4D, Description: De-engineered 24/7 artificial intelligence, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001343, Session id: 1000174, Students: 
-
+SESSION | Professor: 1001343, Session id: 1000199, Students: 1000024	1000164	1000218	1000268	1000296	1000368	1000538	1000626	
+SESSION | Professor: 1001524, Session id: 1000200, Students: 1000846	
+WAITLIST: empty
 
 Course: GEO2B, Description: Distributed global success, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001124, Session id: 1000175, Students: 
+SESSION | Professor: 1001124, Session id: 1000201, Students: 1000086	1000099	1000273	1000330	1000418	1000544	1000576	1000698	1000762	1000794	
+SESSION | Professor: 1001206, Session id: 1000202, Students: 1000801	1000876	1000880	1000991	
+WAITLIST: empty
 
+Course: NUR4C, Description: Multi-channelled global archive, minimum students: 6, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000337    1000513    1000860    1000965    
 
 Course: GEO2A, Description: Enhanced didactic product, minimum students: 7, maximum students: 15
-SESSION | Professor: 1001178, Session id: 1000176, Students: 
+SESSION | Professor: 1001178, Session id: 1000203, Students: 1000016	1000043	1000053	1000116	1000154	1000216	1000286	1000636	1000725	1000824	1000837	
+WAITLIST: empty
 
+Course: GEO2D, Description: Networked mission-critical instruction set, minimum students: 7, maximum students: 12
+NO SESSIONS SCHEDULED
+WAITLIST: 1000559    1000945    
 
 Course: NUR4B, Description: Persevering local capability, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001094, Session id: 1000177, Students: 
-
+SESSION | Professor: 1001094, Session id: 1000204, Students: 1000027	1000057	1000226	1000253	1000339	1000413	1000437	1000805	1000817	1000839	1000931	
+WAITLIST: empty
 
 Course: GEO2C, Description: Ergonomic local intranet, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001085, Session id: 1000178, Students: 
-
+SESSION | Professor: 1001085, Session id: 1000205, Students: 1000003	1000069	1000180	1000499	1000700	1000923	1000974	
+WAITLIST: empty
 
 Course: NUR4A, Description: Progressive heuristic knowledge user, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001176, Session id: 1000179, Students: 
-
+SESSION | Professor: 1001176, Session id: 1000206, Students: 1000127	1000225	1000252	1000359	1000524	1000542	1000791	1000996	
+WAITLIST: empty
 
 Course: HUM3C, Description: Front-line encompassing monitoring, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001056, Session id: 1000180, Students: 
-
+SESSION | Professor: 1001056, Session id: 1000207, Students: 1000031	1000030	1000226	1000264	1000291	1000344	1000520	1000659	1000810	1000827	
+SESSION | Professor: 1001219, Session id: 1000208, Students: 1000983	
+WAITLIST: empty
 
 Course: HUM3D, Description: Progressive static database, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001207, Session id: 1000181, Students: 
-
+SESSION | Professor: 1001207, Session id: 1000209, Students: 1000259	1000286	1000276	1000552	1000546	1000590	1000697	1000940	
+WAITLIST: empty
 
 Course: HUM3A, Description: Virtual systemic moratorium, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001024, Session id: 1000182, Students: 
-
+SESSION | Professor: 1001024, Session id: 1000210, Students: 1000316	1000403	1000522	1000561	1000724	1000766	1000845	1000956	
+WAITLIST: empty
 
 Course: HUM3B, Description: Enterprise-wide user-facing synergy, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001027, Session id: 1000183, Students: 
-
+SESSION | Professor: 1001027, Session id: 1000211, Students: 1000000	1000093	1000173	1000408	1000691	1000907	
+WAITLIST: empty
 
 Course: GEO3A, Description: Optimized didactic data-warehouse, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001058, Session id: 1000184, Students: 
-
+SESSION | Professor: 1001058, Session id: 1000212, Students: 1000127	1000156	1000413	1000904	1000926	1000931	1000980	
+WAITLIST: empty
 
 Course: MUS2C, Description: Sharable empowering middleware, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001004, Session id: 1000185, Students: 
+SESSION | Professor: 1001004, Session id: 1000213, Students: 1000054	1000191	1000294	1000310	1000465	1000646	1000789	
+SESSION | Professor: 1001052, Session id: 1000214, Students: 1000812	
+WAITLIST: empty
 
+Course: BUS1B, Description: Down-sized object-oriented open system, minimum students: 5, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000107    1000140    1000355    1000947    
+
+Course: MUS2D, Description: Front-line regional alliance, minimum students: 7, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000040    1000468    1000622    1000681    1000774    1000909    
 
 Course: BUS1A, Description: Team-oriented grid-enabled matrices, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001044, Session id: 1000186, Students: 
-
+SESSION | Professor: 1001044, Session id: 1000215, Students: 1000036	1000067	1000080	1000314	1000375	1000504	
+WAITLIST: empty
 
 Course: BUS1D, Description: Quality-focused clear-thinking contingency, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001012, Session id: 1000187, Students: 
-
+SESSION | Professor: 1001012, Session id: 1000216, Students: 1000159	1000269	1000325	1000585	1000801	1000830	1000829	1000954	1000971	
+WAITLIST: empty
 
 Course: BUS1C, Description: Polarised reciprocal matrix, minimum students: 6, maximum students: 9
-SESSION | Professor: 1001099, Session id: 1000188, Students: 
-
+SESSION | Professor: 1001099, Session id: 1000217, Students: 1000016	1000128	1000341	1000491	1000769	1000866	1000891	1000913	
+WAITLIST: empty
 
 Course: MUS2A, Description: Fully-configurable bandwidth-monitored project, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001219, Session id: 1000189, Students: 
-
+SESSION | Professor: 1001219, Session id: 1000218, Students: 1000064	1000114	1000269	1000393	1000608	1000641	1000813	
+WAITLIST: empty
 
 Course: MUS2B, Description: Fully-configurable 24/7 policy, minimum students: 5, maximum students: 19
-SESSION | Professor: 1001021, Session id: 1000190, Students: 
-
+SESSION | Professor: 1001021, Session id: 1000219, Students: 1000161	1000284	1000302	1000451	1000786	1000806	1000868	
+WAITLIST: empty
 
 Course: ASTR4D, Description: Cloned demand-driven success, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001015, Session id: 1000191, Students: 
-
+SESSION | Professor: 1001015, Session id: 1000220, Students: 1000039	1000147	1000206	1000265	1000441	1000732	1000793	1000786	1000813	1000834	
+SESSION | Professor: 1001100, Session id: 1000221, Students: 1000985	
+WAITLIST: empty
 
 Course: BUS2A, Description: Fundamental cohesive productivity, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001652, Session id: 1000192, Students: 
+SESSION | Professor: 1001652, Session id: 1000222, Students: 1000033	1000079	1000244	1000280	1000589	1000579	1000659	1000745	1000816	1000917	1000931	
+WAITLIST: empty
 
+Course: GEO3C, Description: Vision-oriented hybrid customer loyalty, minimum students: 7, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000233    1000384    1000409    1000557    1000826    
 
 Course: NUR3C, Description: Enterprise-wide systematic orchestration, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001170, Session id: 1000193, Students: 
-
+SESSION | Professor: 1001170, Session id: 1000223, Students: 1000080	1000221	1000212	1000343	1000571	1000619	1000706	1000909	
+WAITLIST: empty
 
 Course: GEO3B, Description: Face to face needs-based projection, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001032, Session id: 1000194, Students: 
+SESSION | Professor: 1001032, Session id: 1000224, Students: 1000188	1000338	1000455	1000468	1000744	1000803	1000852	
+WAITLIST: empty
 
+Course: NUR3B, Description: Persistent empowering framework, minimum students: 6, maximum students: 8
+NO SESSIONS SCHEDULED
+WAITLIST: 1000124    1000360    1000381    1000468    1000924    
 
 Course: NUR3A, Description: Operative attitude-oriented access, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001213, Session id: 1000195, Students: 
-
+SESSION | Professor: 1001213, Session id: 1000225, Students: 1000096	1000182	1000431	1000678	1000762	1000920	1000966	
+WAITLIST: empty
 
 Course: GEO3D, Description: Ameliorated 3rd generation budgetary management, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001045, Session id: 1000196, Students: 
-
+SESSION | Professor: 1001045, Session id: 1000226, Students: 1000131	1000242	1000335	1000372	1000480	1000517	1000512	
+SESSION | Professor: 1001271, Session id: 1000227, Students: 1000612	1000637	1000737	1000811	1000818	
+WAITLIST: empty
 
 Course: HUM4D, Description: Customer-focused bi-directional encoding, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001147, Session id: 1000197, Students: 
-
+SESSION | Professor: 1001147, Session id: 1000228, Students: 1000093	1000378	1000393	1000636	1000668	1000760	1000824	1000876	1000958	1000978	
+WAITLIST: empty
 
 Course: NUR3D, Description: User-centric incremental info-mediaries, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001043, Session id: 1000198, Students: 
-
+SESSION | Professor: 1001043, Session id: 1000229, Students: 1000001	1000102	1000230	1000308	1000333	1000348	1000361	1000476	1000693	1000735	1000864	1000976	
+WAITLIST: empty
 
 Course: CHEM4B, Description: Optional exuding success, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001016, Session id: 1000200, Students: 
-
+SESSION | Professor: 1001016, Session id: 1000232, Students: 1000419	1000681	1000739	1000764	1000949	1000947	1000988	1000994	
+WAITLIST: empty
 
 Course: HUM4B, Description: Enhanced homogeneous archive, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001107, Session id: 1000199, Students: 
-
+SESSION | Professor: 1001107, Session id: 1000230, Students: 1000292	1000313	1000397	1000534	1000559	1000570	1000836	1000851	
+SESSION | Professor: 1001191, Session id: 1000231, Students: 1000939	
+WAITLIST: empty
 
 Course: HUM4C, Description: Organized system-worthy open architecture, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001528, Session id: 1000202, Students: 
-
+SESSION | Professor: 1001528, Session id: 1000234, Students: 1000091	1000239	1000300	1000423	1000480	1000873	1000889	1000898	
+WAITLIST: empty
 
 Course: CHEM4A, Description: Ergonomic secondary ability, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001006, Session id: 1000201, Students: 
-
+SESSION | Professor: 1001006, Session id: 1000233, Students: 1000058	1000073	1000068	1000112	1000236	1000375	1000438	1000534	1000602	1000613	1000717	1000825	
+WAITLIST: empty
 
 Course: HUM4A, Description: Front-line didactic complexity, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001136, Session id: 1000203, Students: 
-
+SESSION | Professor: 1001136, Session id: 1000235, Students: 1000074	1000165	1000271	1000457	1000657	1000724	1000769	1000832	
+WAITLIST: empty
 
 Course: CHEM4D, Description: Synergistic multi-state approach, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001005, Session id: 1000205, Students: 
-
+SESSION | Professor: 1001005, Session id: 1000237, Students: 1000017	1000119	1000173	1000335	1000693	1000752	1000776	1000982	
+WAITLIST: empty
 
 Course: GEO4B, Description: Multi-lateral 24/7 collaboration, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001056, Session id: 1000204, Students: 
-
+SESSION | Professor: 1001056, Session id: 1000236, Students: 1000030	1000212	1000369	1000432	1000893	
+WAITLIST: empty
 
 Course: CHEM4C, Description: Open-source local policy, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001001, Session id: 1000206, Students: 
-
+SESSION | Professor: 1001001, Session id: 1000238, Students: 1000085	1000183	1000224	1000333	1000501	1000512	1000621	1000925	
+WAITLIST: empty
 
 Course: GEO4A, Description: Cloned mobile projection, minimum students: 5, maximum students: 8
-SESSION | Professor: 1001003, Session id: 1000207, Students: 
-
+SESSION | Professor: 1001003, Session id: 1000239, Students: 1000308	1000470	1000497	1000517	1000627	1000679	1000792	1000865	
+SESSION | Professor: 1001137, Session id: 1000240, Students: 1000908	1000912	
+WAITLIST: empty
 
 Course: MUS1B, Description: Seamless full-range adapter, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001091, Session id: 1000208, Students: 
+SESSION | Professor: 1001091, Session id: 1000241, Students: 1000024	1000125	1000315	1000404	1000496	1000533	1000593	1000625	1000894	
+WAITLIST: empty
 
+Course: BUS2C, Description: Digitized system-worthy strategy, minimum students: 7, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000888    1000880    
 
 Course: BUS2B, Description: Cross-platform multi-tasking database, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001049, Session id: 1000210, Students: 
-
+SESSION | Professor: 1001049, Session id: 1000243, Students: 1000386	1000624	1000753	1000791	1000853	1000915	
+WAITLIST: empty
 
 Course: MUS1C, Description: Distributed disintermediate open system, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001153, Session id: 1000209, Students: 
-
+SESSION | Professor: 1001153, Session id: 1000242, Students: 1000070	1000156	1000205	1000288	1000304	1000423	1000556	1000586	1000609	1000756	1000903	
+WAITLIST: empty
 
 Course: MUS1D, Description: Public-key zero tolerance policy, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001190, Session id: 1000211, Students: 
-
+SESSION | Professor: 1001190, Session id: 1000244, Students: 1000097	1000162	1000319	1000765	1000790	1000832	1000875	
+WAITLIST: empty
 
 Course: BUS2D, Description: Persevering next generation solution, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001053, Session id: 1000212, Students: 
-
+SESSION | Professor: 1001053, Session id: 1000245, Students: 1000120	1000150	1000276	1000376	1000421	1000466	1000868	
+SESSION | Professor: 1001096, Session id: 1000246, Students: 1000969	
+WAITLIST: empty
 
 Course: CRTV4D, Description: Down-sized zero administration paradigm, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001118, Session id: 1000213, Students: 
-
+SESSION | Professor: 1001118, Session id: 1000247, Students: 1000018	1000059	1000092	1000097	1000233	1000317	1000386	
+SESSION | Professor: 1001517, Session id: 1000248, Students: 1000488	1000583	1000646	
+WAITLIST: empty
 
 Course: MUS1A, Description: Customer-focused 24 hour orchestration, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001029, Session id: 1000215, Students: 
-
+SESSION | Professor: 1001029, Session id: 1000250, Students: 1000064	1000195	1000250	1000473	1000701	1000694	1000820	1000840	1000888	1000961	
+WAITLIST: empty
 
 Course: CRTV4C, Description: Extended leading edge model, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001094, Session id: 1000214, Students: 
+SESSION | Professor: 1001094, Session id: 1000249, Students: 1000059	1000243	1000472	1000706	1000788	1000837	1000976	
+WAITLIST: empty
 
+Course: CRTV4B, Description: Pre-emptive leading edge open system, minimum students: 6, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000014    1000210    1000372    1000892    
+
+Course: CRTV4A, Description: Face to face hybrid help-desk, minimum students: 6, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000714    1000711    1000872    1000964    
 
 Course: PHYS4B, Description: Sharable foreground success, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001052, Session id: 1000216, Students: 
+SESSION | Professor: 1001052, Session id: 1000251, Students: 1000073	1000171	1000248	1000307	1000321	1000402	1000442	1000439	1000822	1000954	
+WAITLIST: empty
 
+Course: PHYS4C, Description: Upgradable secondary data-warehouse, minimum students: 7, maximum students: 20
+NO SESSIONS SCHEDULED
+WAITLIST: 1000240    1000296    1000492    1000801    1000876    1000899    
 
 Course: PHYS4D, Description: Networked leading edge moderator, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001000, Session id: 1000217, Students: 
-
+SESSION | Professor: 1001000, Session id: 1000252, Students: 1000150	1000167	1000476	1000580	1000628	1000678	1000692	1000726	
+WAITLIST: empty
 
 Course: GEO4D, Description: Pre-emptive high-level middleware, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001027, Session id: 1000218, Students: 
-
+SESSION | Professor: 1001027, Session id: 1000253, Students: 1000008	1000033	1000134	1000312	1000402	1000467	1000713	1000871	1000931	1000961	
+WAITLIST: empty
 
 Course: GEO4C, Description: Cloned intermediate product, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001127, Session id: 1000219, Students: 
-
+SESSION | Professor: 1001127, Session id: 1000254, Students: 1000120	1000145	1000186	1000301	1000299	1000320	1000412	1000489	1000611	1000640	
+SESSION | Professor: 1001457, Session id: 1000255, Students: 1000793	
+WAITLIST: empty
 
 Course: LANG4A, Description: Proactive 24/7 frame, minimum students: 7, maximum students: 20
-SESSION | Professor: 1001173, Session id: 1000220, Students: 
-
+SESSION | Professor: 1001173, Session id: 1000256, Students: 1000085	1000167	1000415	1000481	1000549	1000644	1000799	1000810	1000877	
+WAITLIST: empty
 
 Course: LANG4B, Description: Face to face fault-tolerant software, minimum students: 7, maximum students: 9
-SESSION | Professor: 1001089, Session id: 1000221, Students: 
+SESSION | Professor: 1001089, Session id: 1000257, Students: 1000086	1000197	1000291	1000422	1000514	1000556	1000753	1000914	
+WAITLIST: empty
 
+Course: LANG4C, Description: Cloned bifurcated knowledge base, minimum students: 7, maximum students: 18
+NO SESSIONS SCHEDULED
+WAITLIST: 1000196    1000522    1000541    1000662    1000656    
 
 Course: LANG4D, Description: De-engineered explicit emulation, minimum students: 6, maximum students: 8
-SESSION | Professor: 1001154, Session id: 1000222, Students: 
-
+SESSION | Professor: 1001154, Session id: 1000258, Students: 1000216	1000509	1000570	1000664	1000701	1000923	
+WAITLIST: empty
 
 Course: ECON2D, Description: Triple-buffered didactic circuit, minimum students: 6, maximum students: 7
-SESSION | Professor: 1001000, Session id: 1000223, Students: 
+SESSION | Professor: 1001000, Session id: 1000259, Students: 1000135	1000332	1000364	1000452	1000742	1000786	1000844	
+WAITLIST: empty
 
+Course: CRTV3D, Description: Sharable leading edge customer loyalty, minimum students: 6, maximum students: 18
+NO SESSIONS SCHEDULED
+WAITLIST: 1000261    1000516    1000723    1000945    
 
 Course: ECON2C, Description: Up-sized clear-thinking hub, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001042, Session id: 1000224, Students: 
-
+SESSION | Professor: 1001042, Session id: 1000260, Students: 1000257	1000369	1000430	1000440	1000456	1000703	1000798	1000936	
+WAITLIST: empty
 
 Course: CRTV3C, Description: Adaptive real-time firmware, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001012, Session id: 1000225, Students: 
-
+SESSION | Professor: 1001012, Session id: 1000261, Students: 1000075	1000251	1000287	1000329	1000711	1000928	
+WAITLIST: empty
 
 Course: ECON2B, Description: Synchronised multi-tasking challenge, minimum students: 5, maximum students: 9
-SESSION | Professor: 1001091, Session id: 1000226, Students: 
-
+SESSION | Professor: 1001091, Session id: 1000262, Students: 1000066	1000192	1000475	1000547	1000984	1000981	
+WAITLIST: empty
 
 Course: ECON2A, Description: Multi-channelled value-added monitoring, minimum students: 6, maximum students: 10
-SESSION | Professor: 1001172, Session id: 1000227, Students: 
-
+SESSION | Professor: 1001172, Session id: 1000263, Students: 1000003	1000118	1000288	1000305	1000360	1000427	1000426	1000637	1000818	
+WAITLIST: empty
 
 Course: CRTV3B, Description: Synchronised mobile methodology, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001242, Session id: 1000228, Students: 
+SESSION | Professor: 1001242, Session id: 1000264, Students: 1000564	1000613	1000682	1000680	1000767	1000787	1000849	1000902	
+WAITLIST: empty
 
+Course: CRTV3A, Description: Compatible 24 hour service-desk, minimum students: 6, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000322    1000719    1000717    1000884    
 
 Course: PHYS3B, Description: Intuitive composite focus group, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001175, Session id: 1000229, Students: 
-
+SESSION | Professor: 1001175, Session id: 1000265, Students: 1000253	1000419	1000500	1000644	1000672	1000774	1000789	
+WAITLIST: empty
 
 Course: PHYS3C, Description: Diverse demand-driven policy, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001168, Session id: 1000230, Students: 
-
+SESSION | Professor: 1001168, Session id: 1000266, Students: 1000353	1000381	1000369	1000452	1000561	1000920	1000954	
+WAITLIST: empty
 
 Course: PHYS3D, Description: Adaptive discrete methodology, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001063, Session id: 1000231, Students: 
-
+SESSION | Professor: 1001063, Session id: 1000267, Students: 1000023	1000093	1000192	1000390	1000501	1000838	1000914	
+SESSION | Professor: 1001090, Session id: 1000268, Students: 1000966	1000979	1000995	
+WAITLIST: empty
 
 Course: LANG2D, Description: De-engineered zero administration utilisation, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001022, Session id: 1000233, Students: 
-
+SESSION | Professor: 1001022, Session id: 1000270, Students: 1000079	1000148	1000173	1000454	1000473	1000487	1000585	1000661	1000716	1000796	1000793	
+SESSION | Professor: 1001060, Session id: 1000271, Students: 1000979	
+WAITLIST: empty
 
 Course: ART4C, Description: Multi-tiered cohesive product, minimum students: 5, maximum students: 17
-SESSION | Professor: 1001029, Session id: 1000232, Students: 
-
+SESSION | Professor: 1001029, Session id: 1000269, Students: 1000018	1000089	1000549	1000740	1000846	1000851	
+WAITLIST: empty
 
 Course: ART4D, Description: Profit-focused foreground functionalities, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001149, Session id: 1000234, Students: 
-
+SESSION | Professor: 1001149, Session id: 1000272, Students: 1000243	1000338	1000581	1000610	1000748	1000852	1000879	
+WAITLIST: empty
 
 Course: ART4A, Description: De-engineered responsive solution, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001512, Session id: 1000235, Students: 
-
+SESSION | Professor: 1001512, Session id: 1000273, Students: 1000244	1000342	1000447	1000464	1000528	1000549	1000590	
+SESSION | Professor: 1001585, Session id: 1000274, Students: 1000658	1000679	1000769	1000816	
+WAITLIST: empty
 
 Course: ART4B, Description: Function-based interactive groupware, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001095, Session id: 1000236, Students: 
+SESSION | Professor: 1001095, Session id: 1000275, Students: 1000075	1000278	1000386	1000467	1000464	1000603	1000729	1000796	1000855	1000874	1000895	
+WAITLIST: empty
 
+Course: LANG3A, Description: Open-architected high-level task-force, minimum students: 7, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000426    1000525    1000577    1000830    1000949    
 
 Course: LANG3D, Description: Re-engineered bottom-line contingency, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001085, Session id: 1000237, Students: 
+SESSION | Professor: 1001085, Session id: 1000276, Students: 1000819	1000866	1000950	1000945	1000965	1000983	1000996	
+WAITLIST: empty
 
+Course: ECON3A, Description: Upgradable fresh-thinking instruction set, minimum students: 6, maximum students: 19
+NO SESSIONS SCHEDULED
+WAITLIST: 1000160    1000277    1000390    1000626    1000841    
 
 Course: PHYS4A, Description: Inverse modular leverage, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001066, Session id: 1000238, Students: 
-
+SESSION | Professor: 1001066, Session id: 1000277, Students: 1000286	1000351	1000385	1000423	1000570	1000668	1000990	
+WAITLIST: empty
 
 Course: CRTV2D, Description: De-engineered asymmetric Graphic Interface, minimum students: 5, maximum students: 13
-SESSION | Professor: 1001029, Session id: 1000239, Students: 
-
+SESSION | Professor: 1001029, Session id: 1000278, Students: 1000158	1000347	1000393	1000461	1000472	1000641	1000679	1000807	1000854	1000998	
+WAITLIST: empty
 
 Course: CRTV2C, Description: Networked 4th generation Graphical User Interface, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001072, Session id: 1000240, Students: 
-
+SESSION | Professor: 1001072, Session id: 1000279, Students: 1000029	1000041	1000068	1000095	1000253	1000342	1000495	1000588	1000605	1000683	1000878	1000958	1000985	
+WAITLIST: empty
 
 Course: CRTV2B, Description: Phased system-worthy standardization, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001023, Session id: 1000241, Students: 
+SESSION | Professor: 1001023, Session id: 1000280, Students: 1000074	1000255	1000440	1000702	1000740	
+WAITLIST: empty
 
+Course: ACC2D, Description: Open-architected high-level projection, minimum students: 6, maximum students: 9
+NO SESSIONS SCHEDULED
+WAITLIST: 1000203    1000846    1000860    1000924    
 
 Course: ACC2C, Description: Networked 24 hour encoding, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001097, Session id: 1000242, Students: 
-
+SESSION | Professor: 1001097, Session id: 1000281, Students: 1000022	1000333	1000364	1000392	1000671	1000757	1000928	
+WAITLIST: empty
 
 Course: ACC2B, Description: Realigned grid-enabled emulation, minimum students: 5, maximum students: 12
-SESSION | Professor: 1001129, Session id: 1000243, Students: 
-
+SESSION | Professor: 1001129, Session id: 1000282, Students: 1000209	1000370	1000420	1000651	1000783	1000812	1000863	1000877	1000872	1000932	1000989	
+WAITLIST: empty
 
 Course: ACC2A, Description: Synergistic human-resource neural-net, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001007, Session id: 1000244, Students: 
-
+SESSION | Professor: 1001007, Session id: 1000283, Students: 1000184	1000225	1000303	1000342	1000462	1000566	1000610	1000674	
+SESSION | Professor: 1001131, Session id: 1000284, Students: 1000746	1000879	1000907	1000994	
+WAITLIST: empty
 
 Course: ASTR1A, Description: Networked impactful contingency, minimum students: 5, maximum students: 7
-SESSION | Professor: 1001059, Session id: 1000245, Students: 
-
+SESSION | Professor: 1001059, Session id: 1000285, Students: 1000060	1000142	1000171	1000170	1000235	1000416	1000475	
+SESSION | Professor: 1001434, Session id: 1000286, Students: 1000488	1000508	1000515	1000689	1000815	1000891	
+WAITLIST: empty
 
 Course: ASTR1B, Description: Integrated cohesive moratorium, minimum students: 7, maximum students: 19
-SESSION | Professor: 1001097, Session id: 1000246, Students: 
+SESSION | Professor: 1001097, Session id: 1000287, Students: 1000037	1000202	1000238	1000463	1000453	1000504	1000659	1000751	1000754	1000835	
+WAITLIST: empty
 
+Course: ASTR1C, Description: Front-line attitude-oriented standardization, minimum students: 6, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000102    1000429    1000768    1000854    1000997    
 
 Course: ASTR1D, Description: Customer-focused disintermediate conglomeration, minimum students: 7, maximum students: 7
-SESSION | Professor: 1001142, Session id: 1000247, Students: 
-
+SESSION | Professor: 1001142, Session id: 1000288, Students: 1000064	1000125	1000211	1000253	1000365	1000447	1000919	
+WAITLIST: empty
 
 Course: LANG1C, Description: Inverse explicit support, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001121, Session id: 1000248, Students: 
+SESSION | Professor: 1001121, Session id: 1000289, Students: 1000114	1000222	1000334	1000485	1000525	1000817	1000845	1000885	1000971	
+WAITLIST: empty
 
+Course: LANG1D, Description: Networked hybrid process improvement, minimum students: 7, maximum students: 7
+NO SESSIONS SCHEDULED
+WAITLIST: 1000204    1000200    1000513    1000533    1000620    1000613    
 
 Course: LANG2A, Description: Profound well-modulated interface, minimum students: 5, maximum students: 18
-SESSION | Professor: 1001236, Session id: 1000249, Students: 
-
+SESSION | Professor: 1001236, Session id: 1000290, Students: 1000045	1000138	1000284	1000303	1000462	1000670	1000821	1000942	
+WAITLIST: empty
 
 Course: LANG2B, Description: Total static conglomeration, minimum students: 6, maximum students: 19
-SESSION | Professor: 1001162, Session id: 1000250, Students: 
+SESSION | Professor: 1001162, Session id: 1000291, Students: 1000158	1000541	1000730	1000767	1000787	1000869	
+WAITLIST: empty
 
+Course: LANG2C, Description: Inverse upward-trending leverage, minimum students: 6, maximum students: 15
+NO SESSIONS SCHEDULED
+WAITLIST: 1000490    1000742    
+
+Course: ECON4B, Description: User-friendly next generation website, minimum students: 6, maximum students: 14
+NO SESSIONS SCHEDULED
+WAITLIST: 1000147    1000461    1000505    1000857    
 
 Course: ECON4A, Description: Digitized multimedia middleware, minimum students: 7, maximum students: 8
-SESSION | Professor: 1001033, Session id: 1000251, Students: 
-
+SESSION | Professor: 1001033, Session id: 1000292, Students: 1000041	1000113	1000352	1000422	1000467	1000686	1000772	1000925	
+WAITLIST: empty
 
 Course: HIST1A, Description: Digitized fresh-thinking Graphical User Interface, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001001, Session id: 1000252, Students: 
+SESSION | Professor: 1001001, Session id: 1000293, Students: 1000051	1000574	1000658	1000733	1000895	1000905	1000899	1000896	
+WAITLIST: empty
 
+Course: HIST1B, Description: Down-sized modular collaboration, minimum students: 6, maximum students: 12
+NO SESSIONS SCHEDULED
+WAITLIST: 1000486    1000807    1000941    
 
 Course: ASTR2A, Description: Advanced hybrid moderator, minimum students: 5, maximum students: 11
-SESSION | Professor: 1001222, Session id: 1000253, Students: 
+SESSION | Professor: 1001222, Session id: 1000294, Students: 1000032	1000261	1000334	1000550	1000622	1000646	
+WAITLIST: empty
 
+Course: CRTV1C, Description: Decentralized clear-thinking portal, minimum students: 7, maximum students: 11
+NO SESSIONS SCHEDULED
+WAITLIST: 1000105    1000325    1000550    1000660    1000722    1000978    
 
 Course: HIST1C, Description: Quality-focused dedicated extranet, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001018, Session id: 1000255, Students: 
-
+SESSION | Professor: 1001018, Session id: 1000296, Students: 1000053	1000075	1000275	1000559	1000806	1000832	1000872	1000930	1000948	
+WAITLIST: empty
 
 Course: DES4D, Description: De-engineered well-modulated encoding, minimum students: 7, maximum students: 12
-SESSION | Professor: 1001056, Session id: 1000254, Students: 
-
+SESSION | Professor: 1001056, Session id: 1000295, Students: 1000012	1000105	1000185	1000740	1000796	1000785	1000821	
+WAITLIST: empty
 
 Course: HIST1D, Description: User-centric full-range hierarchy, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001045, Session id: 1000256, Students: 
-
+SESSION | Professor: 1001045, Session id: 1000297, Students: 1000003	1000035	1000151	1000221	1000742	1000778	1000772	1000885	1000882	
+WAITLIST: empty
 
 Course: ECON4D, Description: Proactive national moderator, minimum students: 6, maximum students: 12
-SESSION | Professor: 1001101, Session id: 1000258, Students: 
-
+SESSION | Professor: 1001101, Session id: 1000299, Students: 1000245	1000359	1000565	1000717	1000859	1000912	
+WAITLIST: empty
 
 Course: DES4B, Description: Optional multimedia array, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001017, Session id: 1000257, Students: 
-
+SESSION | Professor: 1001017, Session id: 1000298, Students: 1000049	1000065	1000148	1000503	1000652	1000684	1000710	1000708	1000749	
+WAITLIST: empty
 
 Course: DES4C, Description: Stand-alone well-modulated orchestration, minimum students: 5, maximum students: 20
-SESSION | Professor: 1001243, Session id: 1000260, Students: 
-
+SESSION | Professor: 1001243, Session id: 1000301, Students: 1000129	1000229	1000252	1000333	1000359	1000358	1000369	1000532	1000788	1000874	1000917	
+WAITLIST: empty
 
 Course: ECON4C, Description: Secured discrete project, minimum students: 5, maximum students: 10
-SESSION | Professor: 1001014, Session id: 1000259, Students: 
+SESSION | Professor: 1001014, Session id: 1000300, Students: 1000042	1000325	1000396	1000476	1000496	1000600	1000656	1000874	1000948	
+WAITLIST: empty
 
+Course: ACC1C, Description: Diverse next generation orchestration, minimum students: 6, maximum students: 17
+NO SESSIONS SCHEDULED
+WAITLIST: 1000308    1000448    1000717    1000729    
 
 Course: ACC1B, Description: Business-focused explicit hierarchy, minimum students: 7, maximum students: 10
-SESSION | Professor: 1001088, Session id: 1000261, Students: 
-
+SESSION | Professor: 1001088, Session id: 1000302, Students: 1000010	1000003	1000001	1000306	1000358	1000375	1000660	1000763	1000927	1000968	
+WAITLIST: empty
 
 Course: ACC1A, Description: Mandatory well-modulated synergy, minimum students: 6, maximum students: 14
-SESSION | Professor: 1001016, Session id: 1000262, Students: 
+SESSION | Professor: 1001016, Session id: 1000303, Students: 1000190	1000231	1000436	1000521	1000598	1000767	1000773	1000804	1000903	1000981	
+WAITLIST: empty
 
+Course: ACC1D, Description: Versatile local initiative, minimum students: 6, maximum students: 14
+NO SESSIONS SCHEDULED
+WAITLIST: 1000154    1000465    1000680    1000758    1000896    
 
 Course: ENV4B, Description: Virtual local system engine, minimum students: 6, maximum students: 17
-SESSION | Professor: 1001069, Session id: 1000263, Students: 
+SESSION | Professor: 1001069, Session id: 1000304, Students: 1000154	1000237	1000225	1000312	1000370	1000419	1000501	1000523	1000763	1000762	1000959	
+WAITLIST: empty
 
+Course: ENV4A, Description: Innovative maximized access, minimum students: 7, maximum students: 13
+NO SESSIONS SCHEDULED
+WAITLIST: 1000668    1000709    1000856    1000877    1000916    1000935    
 
 Course: ENV4D, Description: Persistent tertiary artificial intelligence, minimum students: 5, maximum students: 16
-SESSION | Professor: 1001015, Session id: 1000264, Students: 
+SESSION | Professor: 1001015, Session id: 1000305, Students: 1000359	1000447	1000462	1000581	1000594	1000752	1000914	
+WAITLIST: empty
 
+Course: ENV4C, Description: Total executive projection, minimum students: 6, maximum students: 16
+NO SESSIONS SCHEDULED
+WAITLIST: 1000062    1000412    1000635    1000748    
 
 Course: LANG1A, Description: Focused disintermediate instruction set, minimum students: 5, maximum students: 14
-SESSION | Professor: 1001018, Session id: 1000265, Students: 
-
+SESSION | Professor: 1001018, Session id: 1000306, Students: 1000006	1000045	1000238	1000261	1000260	1000379	1000456	1000575	1000565	1000692	1000798	1000885	1000968	1000993	
+WAITLIST: empty
 
 Course: LANG1B, Description: Customer-focused modular definition, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001071, Session id: 1000266, Students: 
-
+SESSION | Professor: 1001071, Session id: 1000307, Students: 1000067	1000100	1000301	1000575	1000615	1000665	1000776	1000932	
+WAITLIST: empty
 
 Course: HIST2A, Description: Multi-tiered asymmetric extranet, minimum students: 7, maximum students: 18
-SESSION | Professor: 1001228, Session id: 1000267, Students: 
-
+SESSION | Professor: 1001228, Session id: 1000308, Students: 1000238	1000283	1000272	1000555	1000570	1000604	1000879	1000904	1000967	
+WAITLIST: empty
 
 Course: HIST2B, Description: Enhanced 5th generation benchmark, minimum students: 5, maximum students: 15
-SESSION | Professor: 1001086, Session id: 1000268, Students: 
-
+SESSION | Professor: 1001086, Session id: 1000309, Students: 1000019	1000058	1000104	1000488	1000569	1000566	1000581	1000580	1000639	1000778	1000895	
+WAITLIST: empty
 
 Course: HIST2C, Description: Extended dynamic access, minimum students: 7, maximum students: 17
-SESSION | Professor: 1001179, Session id: 1000269, Students: 
-
+SESSION | Professor: 1001179, Session id: 1000310, Students: 1000076	1000124	1000267	1000256	1000530	1000608	1000648	1000852	1000923	1000983	
+WAITLIST: empty
 
 Course: HIST2D, Description: Organic mission-critical budgetary management, minimum students: 6, maximum students: 16
-SESSION | Professor: 1001104, Session id: 1000270, Students: 
-
+SESSION | Professor: 1001104, Session id: 1000311, Students: 1000013	1000009	1000171	1000222	1000216	1000465	1000650	1000678	1000862	1000962	
+WAITLIST: empty
 

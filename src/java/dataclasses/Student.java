@@ -9,8 +9,10 @@ import java.util.function.Consumer;
 public class Student extends Person implements Iterable<String> {
     // class data
     private static int numStudents = 0;
+    public static int numStudentsWithNoSessions = 0;
 
     // for user to modify
+    private boolean hasNoCourses;
     private static int maxCourses = 6;
     private Date dob;  // date of birth
     private Date startDate;
@@ -27,6 +29,7 @@ public class Student extends Person implements Iterable<String> {
         this.startDate = startDate;
         this.gpa = gpa;
 
+        hasNoCourses = true;
         ++numStudents;
         registeredCourses = new HashSet<>();
     }
@@ -73,6 +76,13 @@ public class Student extends Person implements Iterable<String> {
 
     public static int getMaxCourses() { return maxCourses; }
     public static void setMaxCourses(int maxCourses) { Student.maxCourses = maxCourses; }
+
+    public static int getStudentsWithNoClasses() { return numStudentsWithNoSessions; }
+    public static void setStudentsWithNoClasses(int x) { numStudentsWithNoSessions = x; }
+    public static void incStudentsWithNoClasses() {++numStudentsWithNoSessions; }
+
+    public boolean hasCourses() { return !hasNoCourses; }
+    public void setHasNoCourses( boolean hasNoCourses) { this.hasNoCourses = hasNoCourses; }
 
     public Date getDob() { return this.dob; }
     public void setDob(Date dob) { this.dob = dob; }

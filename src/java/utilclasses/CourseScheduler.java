@@ -1,6 +1,7 @@
 package src.java.utilclasses;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.function.BiConsumer;
 
 import src.java.dataclasses.Course;
@@ -8,74 +9,87 @@ import src.java.dataclasses.Faculty;
 import src.java.dataclasses.Student;
 
 public class CourseScheduler {
+    private final HashMap<Integer, Student> students;
+    private final HashMap<Integer, Faculty> faculty; 
+    private final HashMap<String, Course> courses;
+
     private String database;
-    private HashMap<Integer, Student> students;
-    private HashMap<Integer, Faculty> faculty; 
-    private HashMap<String, Course> courses;
+
+    private int coursesUnscheduled;
 
     public CourseScheduler(LoadSQL loader) {
         database = loader.getDatabase();
         courses = loader.loadCourses();
         students = loader.loadStudents(courses);
         faculty = loader.loadFaculty(courses); 
+
+        coursesUnscheduled = -1;
     }
 
     // course scheduling algorithm
     public HashMap<String, Course> scheduleCourses() {
-        //var scheduledCourses = (HashMap<String, Course>)courses.clone();
+        HashSet<String> scheduledCourses = new HashSet<>();
         
         // number of students in each course
-        HashMap<String, Integer> numStudents = new HashMap<>();  
+        HashMap<String, Integer> studentsPerCourse = new HashMap<>();  
+
+        System.out.println("Scheduling courses");
 
         // count how many students want each class
         students.forEach((studentId, student) -> {
-            student.forEachCourse(id -> {
-                if (numStudents.containsKey(id))
-                    numStudents.put(id, numStudents.get(id) + 1);
+            student.forEachCourse(courseId -> {
+                courses.get(courseId).addStudent(studentId);
+                if (studentsPerCourse.containsKey(courseId))
+                    studentsPerCourse.put(courseId, studentsPerCourse.get(courseId) + 1);
                 else
-                    numStudents.put(id, 1);
+                    studentsPerCourse.put(courseId, 1);
             });
         });
 
         // allocate sessions for students, if there aren't enough students remove course
-        numStudents.forEach((courseId, studentCount) -> {
+        studentsPerCourse.forEach((courseId, studentCount) -> {
             Course course = courses.get(courseId);
 
             if (studentCount >= course.getCourseMinStudents()) {
                 int numSessions = studentCount < course.getSessionMaxStudents() ? 1
                             : studentCount / course.getSessionMaxStudents() 
                             + (studentCount % course.getSessionMaxStudents() == 0 ? 0:1);
-            
+
                 // schedule as many courses as we need to, unless we run out of 
                 // professors to teach sessions
                 while (--numSessions >= 0 && course.addSession(faculty)) {}
+
+                scheduledCourses.add(courseId);
             }
-            else courses.remove(courseId);
         }); 
+        coursesUnscheduled = courses.size() - scheduledCourses.size();
+        if (coursesUnscheduled > 0)
+            System.out.println(coursesUnscheduled + " course(s) removed, not enough students");
 
         // fill sessions with students
-        courses.forEach((courseId, course) -> {
-            int studentsPerSession = 0;
-            while (studentsPerSession < course.getSessionMaxStudents() && course.waitlistNotEmpty()) {
-                course.forEachSession(sessionPair -> {
-                    int studentId = course.getFromWaitlist();
+        System.out.println("Filling sessions...");
+        scheduledCourses.forEach(courseId -> {
+            Course course = courses.get(courseId);
+
+            course.forEachSession(sPair -> {
+                var session = sPair.getValue();
+
+                for (int i = 0; i < course.getSessionMaxStudents() && course.waitlistHasStudents(); ++i) {
+                    int studentId = course.removeFromWaitlist();
                     if (studentId != -1) 
-                        sessionPair.getValue().addStudent(studentId);
-                });
-            }
+                        session.addStudent(studentId);
+                }
+            });
         });
 
-        // prune sessions that are too small
-        // courses.forEach((courseId, course) -> {
-        //     if (course.getLastSession() != null && course.getLastSession().getNumStudents() < course.getSessionMinStudents()) {
-        //         Session deletedSession = course.popLastSession();
-        //         course.forEachSession(sessionPair -> {
-        //             int studentId = deletedSession.removeStudent();
-        //             if (studentId != -1)
-        //                 sessionPair.getValue().addStudent(deletedSession.removeStudent());
-        //         });
-        //     }
-        // });
+        // check which students don't have sessions
+        students.forEach((studentId, student) -> {
+            student.forEachCourse(courseId -> {
+                if (scheduledCourses.contains(courseId))
+                    student.setHasNoCourses(false);
+            });
+            if (!student.hasCourses()) Student.incStudentsWithNoClasses();
+        }); 
 
         return courses;
     }
@@ -85,9 +99,9 @@ public class CourseScheduler {
                          "\nTotal Students                 | " + Student.getNumStudents() +
                          "\nTotal Faculty                  | " + Faculty.getNumFaculty() +
                          "\nTotal Courses                  | " + Course.getNumCourses() + 
-                         "\nTotal Sessions Scheduled       | " +
-                         "\nTotal Courses Unscheduled      | " +
-                         "\nTotal Students With No Classes |");
+                         "\nTotal Sessions Scheduled       | " + Course.getNumSessions() +
+                         "\nTotal Courses Unscheduled      | " + coursesUnscheduled +
+                         "\nTotal Students With No Classes | " + Student.getStudentsWithNoClasses());
     }
 
     @Override

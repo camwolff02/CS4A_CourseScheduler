@@ -49,7 +49,7 @@ public class Session {
 
         str.append("SESSION | Professor: "+ profId +", Session id: "+id+", Students: ");
         students.forEach(studentId -> {
-            str.append(studentId + " ");
+            str.append(studentId + "\t");
         });
 
         return str.toString();

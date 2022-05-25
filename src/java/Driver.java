@@ -40,6 +40,12 @@ public class Driver {
         FileGenerator fileGenerator = new FileGenerator(scheduler);
         fileGenerator.generateScheduler();
 
+        // fileGenerator.generateScheduledCourseSessions();
+        // fileGenerator.generateUnscheduledCourseSessions(); 
+        // fileGenerator.generateFaculty();
+        // fileGenerator.generateScheduledStudents();
+        // fileGenerator.generateUnscheduledStudents(); 
+      
         in.close();
     }
 }

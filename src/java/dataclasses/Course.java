@@ -14,8 +14,8 @@ import java.util.function.Consumer;
 public class Course {
     // class data
     private static int numCourses = 0;
+    private static int numSessions = 0;
     private int currentFaculty;  // current professor's class we are adding to
-
 
     // for user to access
     private int totalStudents;  // number of students in this course
@@ -68,10 +68,18 @@ public class Course {
         str.append(String.format("Course: %s, Description: %s, minimum students: %d, maximum students: %d%n",
                         id, description, sessionMinStudents, sessionMaxStudents));
         
-        if (sessions.empty()) str.append("NO SESSIONS SCHEDULED");
+        if (sessions.empty()) str.append("NO SESSIONS SCHEDULED\n");
         sessions.forEach(sPair -> {
             str.append(sPair.getValue().toString() + "\n");
         });
+        str.append("WAITLIST: ");
+        if (waitlist.isEmpty()) {
+            str.append("empty");
+        } else {
+            waitlist.forEach(studentId -> {
+                str.append(studentId + "    ");
+            });
+        }
         return str.toString() + "\n\n";
     }
 
@@ -88,8 +96,9 @@ public class Course {
 
         faculty.set(currentFaculty, new SimpleEntry<>(facultyId, numClasses-1));
         sessions.push(new SimpleEntry<>(facultyId, new Session(facultyId)));
+        ++numSessions;
 
-        return false;
+        return true;
     }
 
     // add another instructor that teaches this course
@@ -104,9 +113,9 @@ public class Course {
     }
 
     public boolean waitlistIsEmpty() { return waitlist.isEmpty(); }
-    public boolean waitlistNotEmpty() { return !waitlist.isEmpty(); }
+    public boolean waitlistHasStudents() { return !waitlist.isEmpty(); }
 
-    public int getFromWaitlist() {
+    public int removeFromWaitlist() {
         if (waitlist.isEmpty()) return -1;
         else return waitlist.remove();
     }
@@ -130,8 +139,10 @@ public class Course {
     }
 
     public static int getNumCourses() { return numCourses; }
+    public static int getNumSessions() { return numSessions; }
 
     public int getTotalStudents() { return this.totalStudents; }
+    public int getSessionCount() { return sessions.size(); }
 
     public String getId() { return this.id; }
 
