@@ -42,7 +42,7 @@ public class Driver {
 
         // fileGenerator.generateScheduledCourseSessions();
         // fileGenerator.generateUnscheduledCourseSessions(); 
-        // fileGenerator.generateFaculty();
+        fileGenerator.generateFaculty();
         // fileGenerator.generateScheduledStudents();
         // fileGenerator.generateUnscheduledStudents(); 
       

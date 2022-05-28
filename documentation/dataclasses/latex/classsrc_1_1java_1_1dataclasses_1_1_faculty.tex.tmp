@@ -1,0 +1,74 @@
+\hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty}{}\doxysection{src.\+java.\+dataclasses.\+Faculty Class Reference}
+\label{classsrc_1_1java_1_1dataclasses_1_1_faculty}\index{src.java.dataclasses.Faculty@{src.java.dataclasses.Faculty}}
+
+
+Inheritance diagram for src.\+java.\+dataclasses.\+Faculty\+:
+% FIG 0
+
+
+Collaboration diagram for src.\+java.\+dataclasses.\+Faculty\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a958df46924e0c566ef070cde658dc787}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a958df46924e0c566ef070cde658dc787}} 
+{\bfseries Faculty} (String first\+Name, String middle\+Name, String last\+Name, String email, String telephone, String street, String city, String state, int zip, Date hire\+Date, boolean is\+Tenured)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_afcf4020b06265c8ea14742d1291691ad}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_afcf4020b06265c8ea14742d1291691ad}} 
+String {\bfseries to\+String} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a1d55b06580d77e3640a2319fa529789d}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a1d55b06580d77e3640a2319fa529789d}} 
+void {\bfseries add\+Course} (String course\+Id)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a09bb2a14a21e3ec9b96d2dc8d4dbc7a6}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a09bb2a14a21e3ec9b96d2dc8d4dbc7a6}} 
+void {\bfseries remove\+Course} (String course\+Id)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_ae3cfb86ad99543778759e71b201c074f}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_ae3cfb86ad99543778759e71b201c074f}} 
+void {\bfseries for\+Each\+Course} (Consumer$<$? super String $>$ f)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a87e31d95a025931accaf5016519feb49}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a87e31d95a025931accaf5016519feb49}} 
+Date {\bfseries get\+Hire\+Date} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a34e043b6149f50dbb688f5213ace4142}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a34e043b6149f50dbb688f5213ace4142}} 
+void {\bfseries set\+Hire\+Date} (Date hire\+Date)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a1774faf9debea4f5f04bf24212b4f975}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a1774faf9debea4f5f04bf24212b4f975}} 
+boolean {\bfseries is\+Tenured} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a45f27680d34e7cc780214959498bfb94}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a45f27680d34e7cc780214959498bfb94}} 
+boolean {\bfseries get\+Is\+Tenured} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a32242609fbcea535bd2e2acbb7aba6a0}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a32242609fbcea535bd2e2acbb7aba6a0}} 
+void {\bfseries set\+Is\+Tenured} (boolean is\+Tenured)
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static int \mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_faculty_aa112b43f052304ba347079c85e076f1e}{get\+Num\+Faculty}} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a8c751d12c27697f8158d33a858487148}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a8c751d12c27697f8158d33a858487148}} 
+static int {\bfseries get\+Max\+Courses} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_a96a4a76d23487eea6c8ee1da3a53a633}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_a96a4a76d23487eea6c8ee1da3a53a633}} 
+static void {\bfseries set\+Max\+Courses} (int max\+Courses)
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_adc9e0e05d2c7909b03c7c3875167d7f0}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_adc9e0e05d2c7909b03c7c3875167d7f0}} 
+void {\bfseries finalize} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_faculty_aa112b43f052304ba347079c85e076f1e}\label{classsrc_1_1java_1_1dataclasses_1_1_faculty_aa112b43f052304ba347079c85e076f1e}} 
+\index{src.java.dataclasses.Faculty@{src.java.dataclasses.Faculty}!getNumFaculty@{getNumFaculty}}
+\index{getNumFaculty@{getNumFaculty}!src.java.dataclasses.Faculty@{src.java.dataclasses.Faculty}}
+\doxysubsubsection{\texorpdfstring{getNumFaculty()}{getNumFaculty()}}
+{\footnotesize\ttfamily static int src.\+java.\+dataclasses.\+Faculty.\+get\+Num\+Faculty (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Getters and Setters 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+U\+:/\+Documents/\+Code/\+CS4\+A\+\_\+\+Course\+Scheduler/src/java/dataclasses/Faculty.\+java\end{DoxyCompactItemize}

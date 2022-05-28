@@ -5,7 +5,6 @@ import java.sql.Date;
 import java.util.HashSet;
 import java.util.function.Consumer;
 
-
 public class Faculty extends Person {
     // class data
     private static int numFaculty = 0;

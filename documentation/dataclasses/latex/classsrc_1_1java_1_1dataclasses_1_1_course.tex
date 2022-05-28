@@ -1,0 +1,120 @@
+\hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course}{}\doxysection{src.\+java.\+dataclasses.\+Course Class Reference}
+\label{classsrc_1_1java_1_1dataclasses_1_1_course}\index{src.java.dataclasses.Course@{src.java.dataclasses.Course}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a4e3705549ae3925d591d4b7060c9797e}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a4e3705549ae3925d591d4b7060c9797e}} 
+{\bfseries Course} (String department, String code, String description, int session\+Min\+Students, int session\+Max\+Students)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a58d41152bafb9255a53f0ee241cb3aea}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a58d41152bafb9255a53f0ee241cb3aea}} 
+{\bfseries Course} (String department, String code, String description)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a28d5793e7622bc7a6efb56c340459694}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a28d5793e7622bc7a6efb56c340459694}} 
+String {\bfseries to\+String} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_aa0d4c289f67ae9688f19a8172ffbdf1a}\label{classsrc_1_1java_1_1dataclasses_1_1_course_aa0d4c289f67ae9688f19a8172ffbdf1a}} 
+boolean {\bfseries add\+Session} (Hash\+Map$<$ Integer, \mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_faculty}{Faculty}} $>$ ftable)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a0ae16f83abd2880462563c35507a3ec6}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a0ae16f83abd2880462563c35507a3ec6}} 
+void {\bfseries add\+Faculty} (int faculty\+Id)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a804bfcb4c517cd9e43b2ec17f4588d30}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a804bfcb4c517cd9e43b2ec17f4588d30}} 
+void {\bfseries add\+Student} (int student\+Id)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a02afe1dd497a4bef50f179b8837b88bc}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a02afe1dd497a4bef50f179b8837b88bc}} 
+boolean {\bfseries waitlist\+Is\+Empty} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_ae3a61c8c444ad4834e0493fc784b2c9f}\label{classsrc_1_1java_1_1dataclasses_1_1_course_ae3a61c8c444ad4834e0493fc784b2c9f}} 
+boolean {\bfseries waitlist\+Has\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a9a2319ced1a56fd5668149e739e5e88a}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a9a2319ced1a56fd5668149e739e5e88a}} 
+int {\bfseries remove\+From\+Waitlist} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a2ef0ef4e426fc43f94aeeaf59e51149e}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a2ef0ef4e426fc43f94aeeaf59e51149e}} 
+void {\bfseries for\+Each\+Session} (Consumer$<$? super Entry$<$ Integer, \mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_session}{Session}} $>$ $>$ f)
+\item 
+\mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_session}{Session}} \mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_course_a9a492ed3d895e3f55abc88e6a621e92a}{get\+Last\+Session}} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_afd5a1736afdb3c7f24b53691d4fb15cc}\label{classsrc_1_1java_1_1dataclasses_1_1_course_afd5a1736afdb3c7f24b53691d4fb15cc}} 
+\mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_session}{Session}} {\bfseries pop\+Last\+Session} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_ae86493d2807eaee1cc1e7b195719f9b1}\label{classsrc_1_1java_1_1dataclasses_1_1_course_ae86493d2807eaee1cc1e7b195719f9b1}} 
+int {\bfseries get\+Total\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a4964290cd14f3f875ba244873caaa198}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a4964290cd14f3f875ba244873caaa198}} 
+int {\bfseries get\+Session\+Count} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a0a38f6f00adcc7a8962e3881ad976883}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a0a38f6f00adcc7a8962e3881ad976883}} 
+String {\bfseries get\+Id} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a51906c78b7e92021443f10033bee5570}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a51906c78b7e92021443f10033bee5570}} 
+String {\bfseries get\+Department} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a059ea39e3ac934440be875e83e4053e1}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a059ea39e3ac934440be875e83e4053e1}} 
+void {\bfseries set\+Department} (String department)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a663c838d5669399c4f413f3bc81a98cc}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a663c838d5669399c4f413f3bc81a98cc}} 
+String {\bfseries get\+Code} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a263a6144f6f78aa5f9b3324f32408039}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a263a6144f6f78aa5f9b3324f32408039}} 
+void {\bfseries set\+Code} (String code)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a9bd2269971088eb2a5b3389ede41539d}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a9bd2269971088eb2a5b3389ede41539d}} 
+String {\bfseries get\+Description} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a21072ecd3135e4280c927821f9169f15}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a21072ecd3135e4280c927821f9169f15}} 
+void {\bfseries set\+Description} (String description)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a93dbb4aa9d016eaff62ccbb3c9879607}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a93dbb4aa9d016eaff62ccbb3c9879607}} 
+int {\bfseries get\+Session\+Min\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_acf274c1923e085a25a237a9a3103f4fc}\label{classsrc_1_1java_1_1dataclasses_1_1_course_acf274c1923e085a25a237a9a3103f4fc}} 
+void {\bfseries set\+Session\+Min\+Students} (int session\+Min\+Students)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a73f4b7ff46dcec18df45a50477fc1b1e}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a73f4b7ff46dcec18df45a50477fc1b1e}} 
+int {\bfseries get\+Session\+Max\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_ae19c5078b2ed1ddf204ec0da44f96af5}\label{classsrc_1_1java_1_1dataclasses_1_1_course_ae19c5078b2ed1ddf204ec0da44f96af5}} 
+void {\bfseries set\+Session\+Max\+Students} (int session\+Max\+Students)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_af7143a7038e5fa63aab8e8b36ae7744c}\label{classsrc_1_1java_1_1dataclasses_1_1_course_af7143a7038e5fa63aab8e8b36ae7744c}} 
+int {\bfseries get\+Course\+Min\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_ad21aa6801b8179379cf1e7cfbdc3d822}\label{classsrc_1_1java_1_1dataclasses_1_1_course_ad21aa6801b8179379cf1e7cfbdc3d822}} 
+void {\bfseries set\+Course\+Min\+Students} (int course\+Min\+Students)
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a17e176ce3a9f47f1bdc26e9bbc05c42a}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a17e176ce3a9f47f1bdc26e9bbc05c42a}} 
+int {\bfseries course\+Max\+Students} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_aa25c0ebee025b4fdb21ddfb9dc00d6d6}\label{classsrc_1_1java_1_1dataclasses_1_1_course_aa25c0ebee025b4fdb21ddfb9dc00d6d6}} 
+void {\bfseries course\+Max\+Students} (int course\+Max\+Students)
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a254cc7386eaa73ad1fa7bdc88a371418}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a254cc7386eaa73ad1fa7bdc88a371418}} 
+static int {\bfseries get\+Num\+Courses} ()
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_ac72a622aa4a32463a8c1db3608257d92}\label{classsrc_1_1java_1_1dataclasses_1_1_course_ac72a622aa4a32463a8c1db3608257d92}} 
+static int {\bfseries get\+Num\+Sessions} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a7e9d3dda3ba72fe81530dade50e765f0}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a7e9d3dda3ba72fe81530dade50e765f0}} 
+void {\bfseries finalize} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classsrc_1_1java_1_1dataclasses_1_1_course_a9a492ed3d895e3f55abc88e6a621e92a}\label{classsrc_1_1java_1_1dataclasses_1_1_course_a9a492ed3d895e3f55abc88e6a621e92a}} 
+\index{src.java.dataclasses.Course@{src.java.dataclasses.Course}!getLastSession@{getLastSession}}
+\index{getLastSession@{getLastSession}!src.java.dataclasses.Course@{src.java.dataclasses.Course}}
+\doxysubsubsection{\texorpdfstring{getLastSession()}{getLastSession()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classsrc_1_1java_1_1dataclasses_1_1_session}{Session}} src.\+java.\+dataclasses.\+Course.\+get\+Last\+Session (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Getters and Setters 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+U\+:/\+Documents/\+Code/\+CS4\+A\+\_\+\+Course\+Scheduler/src/java/dataclasses/Course.\+java\end{DoxyCompactItemize}

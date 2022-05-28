@@ -1,0 +1,15 @@
+digraph "U:/Documents/Code/CS4A_CourseScheduler/src/java"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_8d0e00302499fbc1250e964bfb33b423 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="src", fontname="Helvetica", fontsize="10", URL="dir_8d0e00302499fbc1250e964bfb33b423.html"]
+  subgraph clusterdir_1206f7da8160f65a8a8875af6e3c199c {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_1206f7da8160f65a8a8875af6e3c199c.html"]
+    dir_1206f7da8160f65a8a8875af6e3c199c [shape=plaintext, label="java"];
+  dir_e2c783f6e5b3690dba98e8a62f41bf50 [shape=box, label="dataclasses", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_e2c783f6e5b3690dba98e8a62f41bf50.html"];
+  }
+  }
+}
